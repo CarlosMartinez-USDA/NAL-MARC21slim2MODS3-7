@@ -47,11 +47,11 @@ NAL's MODS records have been lacking   The transformation supports MODS version 
 
 
 ### File_Info:
-**File name:** MARC21slim2MODS3-7.xsl
-**Last revised:** 2023-01-23
-**Version:** XSLT 2.0
-**\<xsl:include\>:** [NAL-MARC21slimUtils.xsl](https://github.com/CarlosMtz3/NAL-MARC21slim2MODS3-7/blob/c3b272b13935e30196476defa64d1676bff64f96/NAL-MARC21slimUtils.xsl)
-**Customization:**  
+- **File name:** MARC21slim2MODS3-7.xsl
+- **Last revised:** 2023-01-23
+- **Version:** XSLT 2.0
+- **\<xsl:include\>:** [NAL-MARC21slimUtils.xsl](https://github.com/CarlosMtz3/NAL-MARC21slim2MODS3-7/blob/c3b272b13935e30196476defa64d1676bff64f96/NAL-MARC21slimUtils.xsl)
+- **Customization:**  
  - Custom functions created for various reasons (see [Functions](#functions))
  - NAL local fields (listed below)
 
