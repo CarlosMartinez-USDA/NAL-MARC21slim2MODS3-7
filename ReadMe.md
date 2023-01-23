@@ -3,7 +3,7 @@
 
 ## Contents
  - [Transformation](#transformation) 
- - [Additional File info](#additional)
+ - [Additional File info](#additional file info)
  - [Mapping of NAL's local MARC fields to MODS 3.7][#mapping]
  - [Custom functions](#custom)
 
