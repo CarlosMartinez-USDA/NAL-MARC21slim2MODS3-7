@@ -26,7 +26,7 @@
     <!-- Maintenance note: For each revision, change the content of <recordInfo><recordOrigin> to reflect the new revision number.
 	MARC21slim2MODS3-7
 	┌ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ┐ 
-	│  NAL Revisions (Revision 1.170) 20230112   |    
+	│  NAL Revisions (Revision 1.172) 20230123   |    
 	└ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ━ ┘ 	
 	┌ ━ ━ ━ ━ ━ ┐ 
 	│ MODS 3.7 │  
@@ -3032,14 +3032,14 @@
                     select="string(tokenize(base-uri(document('')), '/')[last()])" as="xs:string"/>
                 <xsl:variable name="date"
                     select="replace(string(current-date()), '(\d{4}\-\d{2}\-\d{2})(.*)', '$1')"/>
-                <xsl:variable name="time" select="current-time()"/>
+                <xsl:variable name="time" select="substring-before(string(current-time()),'.')"/>
                 <xsl:value-of
-                    select="normalize-space(concat('Converted from MARCXML to MODS version 3.7 using', ' ', $transform, ' ', '(NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3),'))"/>
+                    select="normalize-space(concat('Converted from MARCXML to MODS version 3.7 using', ' ', $transform, ' ', '(Revision 1.172 20230123 cm3),'))"/>
                 <xsl:text>&#160;</xsl:text>
                 <xsl:value-of
                     select="normalize-space(concat('Transformed on: ', $date, '&#160;', $time))"/>
             </recordOrigin>
-
+            
             <xsl:for-each select="datafield[@tag = '040']/subfield[@code = 'b']">
                 <languageOfCataloging>
                     <languageTerm authority="iso639-2b" type="code">

@@ -90,7 +90,7 @@
          <recordCreationDate encoding="marc">890421</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101144853.0</recordChangeDate>
          <recordIdentifier>9915427698807426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -164,7 +164,7 @@
          <recordCreationDate encoding="marc">910615</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101165537.0</recordChangeDate>
          <recordIdentifier>9915429476407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -253,7 +253,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101190709.0</recordChangeDate>
          <recordIdentifier>9915432979407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -312,7 +312,7 @@
          <recordCreationDate encoding="marc">910402</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101185327.0</recordChangeDate>
          <recordIdentifier>9915437803207426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -368,7 +368,7 @@
          <recordCreationDate encoding="marc">701217</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101180546.0</recordChangeDate>
          <recordIdentifier>9915438094807426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -456,7 +456,7 @@
          <recordCreationDate encoding="marc">970114</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101180933.0</recordChangeDate>
          <recordIdentifier>9915438477707426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -558,7 +558,7 @@
          <recordCreationDate encoding="marc">030813</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101215058.0</recordChangeDate>
          <recordIdentifier>9915442164307426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -675,7 +675,7 @@
          <recordCreationDate encoding="marc">030124</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101230546.0</recordChangeDate>
          <recordIdentifier>9915443877507426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -792,7 +792,7 @@
          <recordCreationDate encoding="marc">070706</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101230553.0</recordChangeDate>
          <recordIdentifier>9915443896407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -860,7 +860,7 @@
          <recordCreationDate encoding="marc">941102</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102002737.0</recordChangeDate>
          <recordIdentifier>9915445550007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -996,7 +996,7 @@
          <recordCreationDate encoding="marc">970411</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102005825.0</recordChangeDate>
          <recordIdentifier>9915446222107426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1077,7 +1077,7 @@
          <recordCreationDate encoding="marc">920703</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102021909.0</recordChangeDate>
          <recordIdentifier>9915447752707426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1189,7 +1189,7 @@
          <recordCreationDate encoding="marc">840326</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101215206.0</recordChangeDate>
          <recordIdentifier>9915450851707426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1292,7 +1292,7 @@
          <recordCreationDate encoding="marc">990710</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101224549.0</recordChangeDate>
          <recordIdentifier>9915451960907426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1386,7 +1386,7 @@
          <recordCreationDate encoding="marc">990626</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101224552.0</recordChangeDate>
          <recordIdentifier>9915451965207426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1479,7 +1479,7 @@
          <recordCreationDate encoding="marc">920619</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102003410.0</recordChangeDate>
          <recordIdentifier>9915454145107426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1618,7 +1618,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102003609.0</recordChangeDate>
          <recordIdentifier>9915454305107426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1702,7 +1702,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102003617.0</recordChangeDate>
          <recordIdentifier>9915454333407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1831,7 +1831,7 @@
          <recordCreationDate encoding="marc">940126</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102013107.0</recordChangeDate>
          <recordIdentifier>9915455102507426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1899,7 +1899,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101213619.0</recordChangeDate>
          <recordIdentifier>9915458813407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1994,7 +1994,7 @@
          <recordCreationDate encoding="marc">040223</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101212939.0</recordChangeDate>
          <recordIdentifier>9915458890407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2084,7 +2084,7 @@
          <recordCreationDate encoding="marc">040603</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101212939.0</recordChangeDate>
          <recordIdentifier>9915458898007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2181,7 +2181,7 @@
          <recordCreationDate encoding="marc">830514</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101220852.0</recordChangeDate>
          <recordIdentifier>9915467720007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
       </recordInfo>
    </mods>
    <mods version="3.7">
@@ -2286,7 +2286,7 @@
          <recordCreationDate encoding="marc">070131</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102002353.0</recordChangeDate>
          <recordIdentifier>9915470371207426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2414,7 +2414,7 @@
          <recordCreationDate encoding="marc">150417</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101200126.0</recordChangeDate>
          <recordIdentifier>9915473218607426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2496,7 +2496,7 @@
          <recordCreationDate encoding="marc">050208</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102031305.0</recordChangeDate>
          <recordIdentifier>9915474040907426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2577,7 +2577,7 @@
          <recordCreationDate encoding="marc">900401</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102051210.0</recordChangeDate>
          <recordIdentifier>9915475957607426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2655,7 +2655,7 @@
          <recordCreationDate encoding="marc">900401</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102050646.0</recordChangeDate>
          <recordIdentifier>9915476093907426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2725,7 +2725,7 @@
          <recordCreationDate encoding="marc">900401</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102050806.0</recordChangeDate>
          <recordIdentifier>9915476132307426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2821,7 +2821,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102051336.0</recordChangeDate>
          <recordIdentifier>9915484657907426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2925,7 +2925,7 @@
          <recordCreationDate encoding="marc">920929</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102074044.0</recordChangeDate>
          <recordIdentifier>9915486999807426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2994,7 +2994,7 @@
          <recordCreationDate encoding="marc">750801</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102120338.0</recordChangeDate>
          <recordIdentifier>9915489887907426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3099,7 +3099,7 @@
          <recordCreationDate encoding="marc">041123</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102045256.0</recordChangeDate>
          <recordIdentifier>9915492910107426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3198,7 +3198,7 @@
          <recordCreationDate encoding="marc">970512</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102070922.0</recordChangeDate>
          <recordIdentifier>9915495039007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3298,7 +3298,7 @@
          <recordCreationDate encoding="marc">981021</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102083650.0</recordChangeDate>
          <recordIdentifier>9915496108207426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3358,7 +3358,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102113029.0</recordChangeDate>
          <recordIdentifier>9915498070207426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3427,7 +3427,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102113029.0</recordChangeDate>
          <recordIdentifier>9915498070507426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3552,7 +3552,7 @@
          <recordCreationDate encoding="marc">950127</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102072245.0</recordChangeDate>
          <recordIdentifier>9915504091007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3691,7 +3691,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102093602.0</recordChangeDate>
          <recordIdentifier>9915505552307426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3757,7 +3757,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102093914.0</recordChangeDate>
          <recordIdentifier>9915505674807426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3848,7 +3848,7 @@
          <recordCreationDate encoding="marc">000928</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102114456.0</recordChangeDate>
          <recordIdentifier>9915507395107426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3931,7 +3931,7 @@
          <recordCreationDate encoding="marc">000212</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102134702.0</recordChangeDate>
          <recordIdentifier>9915508652707426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4030,7 +4030,7 @@
          <recordCreationDate encoding="marc">021030</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102145744.0</recordChangeDate>
          <recordIdentifier>9915509781707426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4144,7 +4144,7 @@
          <recordCreationDate encoding="marc">080916</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102170550.0</recordChangeDate>
          <recordIdentifier>9915512871007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4235,7 +4235,7 @@
          <recordCreationDate encoding="marc">091022</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102182050.0</recordChangeDate>
          <recordIdentifier>9915514012807426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4382,7 +4382,7 @@
          <recordCreationDate encoding="marc">971014</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102182146.0</recordChangeDate>
          <recordIdentifier>9915514472407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4504,7 +4504,7 @@
          <recordCreationDate encoding="marc">020711</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102190650.0</recordChangeDate>
          <recordIdentifier>9915515270807426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4601,7 +4601,7 @@
          <recordCreationDate encoding="marc">871014</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102143106.0</recordChangeDate>
          <recordIdentifier>9915518129507426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
       </recordInfo>
    </mods>
    <mods version="3.7">
@@ -4697,7 +4697,7 @@
          <recordCreationDate encoding="marc">100820</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102185122.0</recordChangeDate>
          <recordIdentifier>9915523515707426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4822,7 +4822,7 @@
          <recordCreationDate encoding="marc">820528</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102122859.0</recordChangeDate>
          <recordIdentifier>9915524572007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4910,7 +4910,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102134703.0</recordChangeDate>
          <recordIdentifier>9915533206507426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5067,7 +5067,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102134708.0</recordChangeDate>
          <recordIdentifier>9915533211107426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5154,7 +5154,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102133912.0</recordChangeDate>
          <recordIdentifier>9915533262107426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5235,7 +5235,7 @@
          <recordCreationDate encoding="marc">920619</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102133842.0</recordChangeDate>
          <recordIdentifier>9915533291007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5351,7 +5351,7 @@
          <recordCreationDate encoding="marc">791003</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102160242.0</recordChangeDate>
          <recordIdentifier>9915536188007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5435,7 +5435,7 @@
          <recordCreationDate encoding="marc">920626</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102190142.0</recordChangeDate>
          <recordIdentifier>9915539837307426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5530,7 +5530,7 @@
          <recordCreationDate encoding="marc">910604</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102205102.0</recordChangeDate>
          <recordIdentifier>9915544809407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5593,7 +5593,7 @@
          <recordCreationDate encoding="marc">851115</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102210514.0</recordChangeDate>
          <recordIdentifier>9915545057107426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5660,7 +5660,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102193741.0</recordChangeDate>
          <recordIdentifier>9915549962407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5746,7 +5746,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102193834.0</recordChangeDate>
          <recordIdentifier>9915549994707426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5854,7 +5854,7 @@
          <recordCreationDate encoding="marc">140212</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102195322.0</recordChangeDate>
          <recordIdentifier>9915550767007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5916,7 +5916,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102204555.0</recordChangeDate>
          <recordIdentifier>9915552789507426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -6007,7 +6007,7 @@
          <recordCreationDate encoding="marc">920414</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102205531.0</recordChangeDate>
          <recordIdentifier>9915553025207426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -6074,7 +6074,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102213530.0</recordChangeDate>
          <recordIdentifier>9915554783107426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:07:28.322637-05:00</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:44:46</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
