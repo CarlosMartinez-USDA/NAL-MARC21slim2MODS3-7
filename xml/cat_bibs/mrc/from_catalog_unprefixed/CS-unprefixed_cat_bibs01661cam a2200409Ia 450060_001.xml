@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>01661cam a2200409Ia 4500</leader>
+      <controlfield tag="001">9915549994707426</controlfield>
+      <controlfield tag="005">20221102193834.0</controlfield>
+      <controlfield tag="008">920620s1855    maua          000 0 eng d</controlfield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT10512331</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="019" ind1=" " ind2=" ">
+         <subfield code="a">191304298</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">373860</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)17286606</subfield>
+         <subfield code="z">(OCoLC)191304298</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)373860-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="z">(OCoLC)191304298</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">RQI</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">RQI</subfield>
+         <subfield code="d">PIT</subfield>
+         <subfield code="d">OCL</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">AGL</subfield>
+         <subfield code="d">OCLCG</subfield>
+         <subfield code="d">AGL</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCO</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="050" ind1=" " ind2="0">
+         <subfield code="a">SF951</subfield>
+         <subfield code="b">.D12</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">SF951</subfield>
+         <subfield code="b">.D34 1855</subfield>
+      </datafield>
+      <datafield tag="100" ind1="1" ind2=" ">
+         <subfield code="a">Dadd, George H.,</subfield>
+         <subfield code="d">1813-1868.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/no94040109</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="4">
+         <subfield code="a">The modern horse doctor :</subfield>
+         <subfield code="b">containing practical observations on the causes, nature, and treatment of disease and lameness in horses ..., with illustrations /</subfield>
+         <subfield code="c">by George H. Dadd.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">Boston :</subfield>
+         <subfield code="b">Published by John P. Jewett and Co. [and 2 others],</subfield>
+         <subfield code="c">1855.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">432 pages :</subfield>
+         <subfield code="b">illustrations ;</subfield>
+         <subfield code="c">21 cm</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses</subfield>
+         <subfield code="x">Diseases</subfield>
+         <subfield code="x">Treatment.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses</subfield>
+         <subfield code="x">Diseases</subfield>
+         <subfield code="x">Diagnosis.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Veterinary drugs</subfield>
+         <subfield code="v">Formulae, receipts, prescriptions.</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="7">
+         <subfield code="a">Prescriptions, formulae, receipts, etc.</subfield>
+         <subfield code="2">fast</subfield>
+         <subfield code="0">(OCoLC)fst01424054</subfield>
+      </datafield>
+      <datafield tag="710" ind1="2" ind2=" ">
+         <subfield code="a">John P. Jewett and Company (Boston, Mass.),</subfield>
+         <subfield code="e">publisher.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/no00052136</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">20170919</subfield>
+         <subfield code="b">20171009</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="939" ind1=" " ind2=" ">
+         <subfield code="a">20120712</subfield>
+         <subfield code="b">20120904</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Other US</subfield>
+      </datafield>
+      <datafield tag="958" ind1=" " ind2=" ">
+         <subfield code="b">e</subfield>
+         <subfield code="c">2012/07/05</subfield>
+         <subfield code="d">n</subfield>
+         <subfield code="e">mlydon</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

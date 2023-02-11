@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>01340cam a2200421Ka 4500</leader>
+      <controlfield tag="001">9915518129507426</controlfield>
+      <controlfield tag="005">20221102143106.0</controlfield>
+      <controlfield tag="008">871014s1984                  00000 eng d</controlfield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">IND87069816</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">1240513</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)1240513-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">AGL</subfield>
+      </datafield>
+      <datafield tag="041" ind1="0" ind2=" ">
+         <subfield code="a">eng</subfield>
+         <subfield code="b">fre</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2="0">
+         <subfield code="a">F841</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2="0">
+         <subfield code="a">F600</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2="0">
+         <subfield code="a">W000</subfield>
+      </datafield>
+      <datafield tag="100" ind1="1" ind2=" ">
+         <subfield code="a">Rossi, N.</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="0">
+         <subfield code="a">Mineral composition of injured leaves from lime and horse chestnut trees affected by a non parasitic disease.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">v. 2, p. 557-563.</subfield>
+      </datafield>
+      <datafield tag="500" ind1=" " ind2=" ">
+         <subfield code="a">Paper presented at the 6th International Colloquium for the Optimization of Plant Nutrition, Montpellier, September 2-8, 1984.</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes references.</subfield>
+      </datafield>
+      <datafield tag="546" ind1=" " ind2=" ">
+         <subfield code="a">Summary in French.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">Tilia</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">Aesculus hippocastanum</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">street trees</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">plant diseases and disorders</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">sodium chloride</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">soil pollution</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">urban areas</subfield>
+      </datafield>
+      <datafield tag="651" ind1=" " ind2="3">
+         <subfield code="a">Italy</subfield>
+      </datafield>
+      <datafield tag="653" ind1=" " ind2=" ">
+         <subfield code="a">leaf analysis</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Rossi, S.A.W.</subfield>
+      </datafield>
+      <datafield tag="773" ind1="1" ind2=" ">
+         <subfield code="t">ACTES = proceedings ; Montpellier, 2-8 Sept. 1984.</subfield>
+         <subfield code="d">Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</subfield>
+         <subfield code="7">nnam</subfield>
+      </datafield>
+      <datafield tag="852" ind1=" " ind2=" ">
+         <subfield code="a">DNAL</subfield>
+         <subfield code="i">QK867.I52 1984</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">00000000</subfield>
+         <subfield code="b">19871014</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Non-US</subfield>
+      </datafield>
+   </record>
+</collection>

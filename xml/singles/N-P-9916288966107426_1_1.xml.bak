@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd"
+      version="3.7">
+   <name type="personal" usage="primary">
+      <namePart type="given">K.W.</namePart>
+      <namePart type="family">McCravy</namePart>
+      <displayForm>McCravy, K.W.</displayForm>
+   </name>
+   <name type="personal">
+      <namePart type="given">C.W.</namePart>
+      <namePart type="family">Berisford</namePart>
+      <displayForm>Berisford, C.W.</displayForm>vvvv
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>v
+      <place>
+         <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+         <placeTerm type="text">Maryland</placeTerm>
+      </place>
+      <dateIssued encoding="w3cdtf" keyDate="yes">1998-04</dateIssued>
+      <dateIssued encoding="marc">1998</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <note>2019-12-04</note>
+   <subject authority="atg">
+fdffffffffdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd      <geographic>Georgia</geographic>
+   </subject>
+   <subject>
+      <topic>parasites</topic>
+   </subject>
+   <subject>
+      <topic>host location</topic>
+   </subject>
+   <subject>
+      <topic>parasites of insect pests</topic>
+   </subject>
+   <location>
+      <url usage="primary display">http://dx.doi.org/10.1093/ee/27.2.355</url>
+   </location>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>Environmental entomology</title>
+      </titleInfo>
+      <identifier type="issn">0046-225X</identifier>
+      <identifier type="local">Journal:jnl3243</identifier>
+      <part>
+         <detail type="volume">
+            <number>27</number>
+            <caption>v.</caption>
+         </detail>
+         <detail type="issue">
+            <number>2</number>
+            <caption>no.</caption>
+         </detail>
+         <extent unit="pages">
+            <start>355</start>
+            <end>359</end>
+            <total>5</total>
+         </extent>
+         <text type="year">1998</text>
+         <text type="month">Apr</text>
+      </part>
+   </relatedItem>
+   <relatedItem>
+      <identifier type="local">Journal:jnl3243</identifier>
+   </relatedItem>
+   <relatedItem>
+      <identifier type="local">Journal:jnl3243</identifier>
+   </relatedItem>
+   <relatedItem>
+      <identifier type="local">Journal:jnl3243</identifier>
+   </relatedItem>
+   <identifier type="doi">10.1093/ee/27.2.355</identifier>
+   <identifier type="control">9916288966107426</identifier>
+   <identifier type="agricola">IND21811969</identifier>
+   <identifier type="local">agid:1408166</identifier>
+   <extension>
+      <note type="saleTape">19990101 19990111 00000000</note>
+      <note type="indexer">IND NZM </note>
+      <note type="publicationSource">Other US</note>
+   </extension>
+   <recordInfo>
+      <recordContentSource authority="marcorg"> v                     AGL</recordContentSource>
+      <recordCreationDate encoding="marc">981119</recordCreationDate>
+      <recordChangeDate encoding="iso8601">20221118121758.0</recordChangeDate>
+      <recordIdentifier>9916288966107426</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefixed.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-04 22:36:44</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

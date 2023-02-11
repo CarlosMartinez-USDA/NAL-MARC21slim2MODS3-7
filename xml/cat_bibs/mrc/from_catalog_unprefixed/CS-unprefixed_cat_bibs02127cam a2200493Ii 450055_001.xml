@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>02127cam a2200493Ii 4500</leader>
+      <controlfield tag="001">9915536188007426</controlfield>
+      <controlfield tag="005">20221102160242.0</controlfield>
+      <controlfield tag="008">791003s1977    mtub     b   f000 0 eng d</controlfield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT31124910</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">1124910</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)05462592</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)1124910-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">COF</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">COF</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">ORE</subfield>
+         <subfield code="d">MTG</subfield>
+         <subfield code="d">WAU</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">COF</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">AGL</subfield>
+      </datafield>
+      <datafield tag="043" ind1=" " ind2=" ">
+         <subfield code="a">n-us-mt</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">aSD11</subfield>
+         <subfield code="b">.U585 no. 77-11 1977</subfield>
+      </datafield>
+      <datafield tag="086" ind1="0" ind2=" ">
+         <subfield code="a">A 13.52/7rp:77-11</subfield>
+      </datafield>
+      <datafield tag="086" ind1="0" ind2=" ">
+         <subfield code="a">A 13.52/7-2:77-11</subfield>
+      </datafield>
+      <datafield tag="100" ind1="1" ind2=" ">
+         <subfield code="a">Hamel, Dennis R.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/n85343355</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="0">
+         <subfield code="a">Potential for infestation by mountain pine beetle in lodgepole pine stands, Hungry Horse District, Flathead National Forest, 1977 /</subfield>
+         <subfield code="c">by D.R. Hamel, R.D. Oakes, R. Hothem.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">Missoula, MT. :</subfield>
+         <subfield code="b">Forest Insect &amp; Disease Management, USDA, Forest Service, Northern Region, State &amp; Private Forestry,</subfield>
+         <subfield code="c">1977.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">5, [1] pages :</subfield>
+         <subfield code="b">map ;</subfield>
+         <subfield code="c">27 cm</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="490" ind1="1" ind2=" ">
+         <subfield code="a">Forest insect &amp; disease management ;</subfield>
+         <subfield code="v">rept. no. 77-11</subfield>
+      </datafield>
+      <datafield tag="530" ind1=" " ind2=" ">
+         <subfield code="a">Also available online.</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes bibliographical references (page 6).</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Mountain pine beetle.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/subjects/sh85087800</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Lodgepole pine</subfield>
+         <subfield code="x">Diseases and pests</subfield>
+         <subfield code="z">Montana</subfield>
+         <subfield code="z">Flathead National Forest.</subfield>
+      </datafield>
+      <datafield tag="651" ind1=" " ind2="0">
+         <subfield code="a">Flathead National Forest (Mont.)</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/subjects/sh87003352</subfield>
+      </datafield>
+      <datafield tag="651" ind1=" " ind2="7">
+         <subfield code="a">Montana</subfield>
+         <subfield code="z">Flathead National Forest.</subfield>
+         <subfield code="2">fast</subfield>
+         <subfield code="0">(OCoLC)fst01241880</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="3">
+         <subfield code="a">Internet resource.</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Oakes, Robert D.,</subfield>
+         <subfield code="e">author.</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Hothem, R.,</subfield>
+         <subfield code="e">author.</subfield>
+      </datafield>
+      <datafield tag="830" ind1=" " ind2="0">
+         <subfield code="a">Forest insect &amp; disease management (Missoula, Mont.) ;</subfield>
+         <subfield code="v">rept. no. 77-11.</subfield>
+      </datafield>
+      <datafield tag="856" ind1="4" ind2="1">
+         <subfield code="u">http://hdl.handle.net/1957/3471</subfield>
+         <subfield code="z">Connect to this title online</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">20130523</subfield>
+         <subfield code="b">20130607</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="945" ind1=" " ind2=" ">
+         <subfield code="a">DigiMet</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">USDA</subfield>
+      </datafield>
+      <datafield tag="958" ind1=" " ind2=" ">
+         <subfield code="a">resource</subfield>
+         <subfield code="b">e</subfield>
+         <subfield code="c">2013/05/23</subfield>
+         <subfield code="d">n</subfield>
+         <subfield code="e">jondusko</subfield>
+         <subfield code="h">recon</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

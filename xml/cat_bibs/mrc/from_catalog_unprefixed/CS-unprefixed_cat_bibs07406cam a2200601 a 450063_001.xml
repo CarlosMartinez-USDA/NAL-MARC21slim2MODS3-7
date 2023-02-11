@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>07406cam a2200601 a 4500</leader>
+      <controlfield tag="001">9915553025207426</controlfield>
+      <controlfield tag="005">20221102205531.0</controlfield>
+      <controlfield tag="008">920414s1992    moua     b    001 0 eng  </controlfield>
+      <datafield tag="010" ind1=" " ind2=" ">
+         <subfield code="a">   90012964 </subfield>
+      </datafield>
+      <datafield tag="015" ind1=" " ind2=" ">
+         <subfield code="a">GB9214798</subfield>
+         <subfield code="2">bnb</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT92985073</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">9012033</subfield>
+         <subfield code="2">DNLM</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">080-16639</subfield>
+         <subfield code="2">Uk</subfield>
+      </datafield>
+      <datafield tag="019" ind1=" " ind2=" ">
+         <subfield code="a">26161133</subfield>
+         <subfield code="a">26358838</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">0801663962</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9780801663963</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">0683014773</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9780683014778</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">546452</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)22309839</subfield>
+         <subfield code="z">(OCoLC)26161133</subfield>
+         <subfield code="z">(OCoLC)26358838</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)546452-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="z">(OCoLC)26161133</subfield>
+         <subfield code="z">(OCoLC)26358838</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">DNLM/DLC</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">DLC</subfield>
+         <subfield code="d">AGL</subfield>
+         <subfield code="d">NLM</subfield>
+         <subfield code="d">UKM</subfield>
+         <subfield code="d">MUQ</subfield>
+         <subfield code="d">BTCTA</subfield>
+         <subfield code="d">BAKER</subfield>
+         <subfield code="d">YDXCP</subfield>
+         <subfield code="d">DEBBG</subfield>
+         <subfield code="d">BDX</subfield>
+         <subfield code="d">GBVCP</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCA</subfield>
+         <subfield code="d">IPL</subfield>
+         <subfield code="d">OCLCO</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="050" ind1="1" ind2="0">
+         <subfield code="a">SF780.4</subfield>
+         <subfield code="b">.V46 1992</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">SF780.4.V46</subfield>
+         <subfield code="b">1992</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">L800</subfield>
+      </datafield>
+      <datafield tag="245" ind1="0" ind2="0">
+         <subfield code="a">Veterinary diagnostic virology :</subfield>
+         <subfield code="b">a practitioner's guide /</subfield>
+         <subfield code="c">edited by Anthony E. Castro, Werner P. Heuschele.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">St. Louis :</subfield>
+         <subfield code="b">Mosby Year Book,</subfield>
+         <subfield code="c">©1992.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">xvii, 285 pages :</subfield>
+         <subfield code="b">illustrations ;</subfield>
+         <subfield code="c">28 cm</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes bibliographical references and index.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="g">Sect. I.</subfield>
+         <subfield code="t">Viral Diagnosis: General Considerations --</subfield>
+         <subfield code="g">1.</subfield>
+         <subfield code="t">Selection and submission of diagnostic specimens /</subfield>
+         <subfield code="r">Werner P. Heuschele and Anthony E. Castro --</subfield>
+         <subfield code="g">2.</subfield>
+         <subfield code="t">Isolation and identification of viruses /</subfield>
+         <subfield code="r">Anthony E. Castro --</subfield>
+         <subfield code="g">3.</subfield>
+         <subfield code="t">Molecular techniques for clinical diagnosis of viral infections /</subfield>
+         <subfield code="r">Cecelia A. Whetstone and Bruce S. Seal --</subfield>
+         <subfield code="g">Sect. II.</subfield>
+         <subfield code="t">Species Groups and Their Major Viruses Or Viral Diseases --</subfield>
+         <subfield code="g">A.</subfield>
+         <subfield code="t">Avian --</subfield>
+         <subfield code="g">4.</subfield>
+         <subfield code="t">Adenoviruses /</subfield>
+         <subfield code="r">J. Brian McFerran --</subfield>
+         <subfield code="g">5.</subfield>
+         <subfield code="t">Avian encephalomyelitis /</subfield>
+         <subfield code="r">Arthur A. Bickford --</subfield>
+         <subfield code="g">6.</subfield>
+         <subfield code="t">Chicken anemia agent /</subfield>
+         <subfield code="r">John K. Rosenberger --</subfield>
+         <subfield code="g">7.</subfield>
+         <subfield code="t">Duck virus enteritis /</subfield>
+         <subfield code="r">Douglas E. Docherty and J. Christian Franson --</subfield>
+         <subfield code="g">8.</subfield>
+         <subfield code="t">Herpesviruses of psittacine birds (pacheco's disease of parrots) /</subfield>
+         <subfield code="r">Jack M. Gaskin --</subfield>
+         <subfield code="g">9.</subfield>
+         <subfield code="t">Infectious bronchitis /</subfield>
+         <subfield code="r">Duncan A. McMartin --</subfield>
+         <subfield code="g">10.</subfield>
+         <subfield code="t">Infectious bursal disease /</subfield>
+         <subfield code="r">Phil D. Lukert --</subfield>
+         <subfield code="g">11.</subfield>
+         <subfield code="t">Influenza /</subfield>
+         <subfield code="r">Charles W. Beard --</subfield>
+         <subfield code="g">12.</subfield>
+         <subfield code="t">Laryngotracheitis /</subfield>
+         <subfield code="r">Trevor J. Bagust --</subfield>
+         <subfield code="g">13.</subfield>
+         <subfield code="t">Leukosis and reticuloendotheliosis /</subfield>
+         <subfield code="r">Aly M. Fadly --</subfield>
+         <subfield code="g">14.</subfield>
+         <subfield code="t">Marble spleen disease /</subfield>
+         <subfield code="r">Barrett S. Cowen --</subfield>
+         <subfield code="g">15.</subfield>
+         <subfield code="t">Marek's disease /</subfield>
+         <subfield code="r">Takeshi Mikami and Aki Takumi --</subfield>
+         <subfield code="g">16.</subfield>
+         <subfield code="t">Newcastle disease /</subfield>
+         <subfield code="r">Charles W. Beard --</subfield>
+         <subfield code="g">17.</subfield>
+         <subfield code="t">Paramyxoviruses types 2 and 3 /</subfield>
+         <subfield code="r">Raymond A. Bankowski --</subfield>
+         <subfield code="g">18.</subfield>
+         <subfield code="t">Poxviruses /</subfield>
+         <subfield code="r">Deoki N. Tripathy --</subfield>
+         <subfield code="g">19.</subfield>
+         <subfield code="t">Reoviruses and rotaviruses /</subfield>
+         <subfield code="r">Y.M. Saif --</subfield>
+         <subfield code="g">20.</subfield>
+         <subfield code="t">Viral hepatitides /</subfield>
+         <subfield code="r">Glenn H. Snoeyenbos --</subfield>
+         <subfield code="g">B.</subfield>
+         <subfield code="t">Bovine --</subfield>
+         <subfield code="g">21.</subfield>
+         <subfield code="t">Adenoviruses /</subfield>
+         <subfield code="r">Donald E. Mattson --</subfield>
+         <subfield code="g">22.</subfield>
+         <subfield code="t">Akabane /</subfield>
+         <subfield code="r">Thomas E. Walton --</subfield>
+         <subfield code="g">23.</subfield>
+         <subfield code="t">Bluetongue, epizootic hemorrhagic disease and ibaraki /</subfield>
+         <subfield code="r">Albert J. Luedke</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="g">24.</subfield>
+         <subfield code="t">Bovine lentivirus /</subfield>
+         <subfield code="r">James F. Evermann --</subfield>
+         <subfield code="g">25.</subfield>
+         <subfield code="t">Bovine leukemia /</subfield>
+         <subfield code="r">Janice M. Miller --</subfield>
+         <subfield code="g">26.</subfield>
+         <subfield code="t">Bovine mammillitis /</subfield>
+         <subfield code="r">Fernando A. Osorio --</subfield>
+         <subfield code="g">27.</subfield>
+         <subfield code="t">Bovine respiratory syncytial virus /</subfield>
+         <subfield code="r">John C. Baker --</subfield>
+         <subfield code="g">28.</subfield>
+         <subfield code="t">Bovine viral diarrhea /</subfield>
+         <subfield code="r">Leon N. D. Potgieter --</subfield>
+         <subfield code="g">29.</subfield>
+         <subfield code="t">Coronavirus /</subfield>
+         <subfield code="r">Linda J. Saif --</subfield>
+         <subfield code="g">30.</subfield>
+         <subfield code="t">Cowpox /</subfield>
+         <subfield code="r">E. Paul J. Gibbs --</subfield>
+         <subfield code="g">31.</subfield>
+         <subfield code="t">Cytomegaloviruses /</subfield>
+         <subfield code="r">Alfred E. Metzler --</subfield>
+         <subfield code="g">32.</subfield>
+         <subfield code="t">Foot-and-mouth disease /</subfield>
+         <subfield code="r">Jerry J. Callis and Douglas A. Gregg --</subfield>
+         <subfield code="g">33.</subfield>
+         <subfield code="t">Infectious bovine rhinotracheitis /</subfield>
+         <subfield code="r">Thomas P. Leary and Gary A. Splitter --</subfield>
+         <subfield code="g">34.</subfield>
+         <subfield code="t">Lumpy skin disease /</subfield>
+         <subfield code="r">James A. House --</subfield>
+         <subfield code="g">35.</subfield>
+         <subfield code="t">Malignant catarrhal fever /</subfield>
+         <subfield code="r">Werner P. Heuschele and Bruce S. Seal --</subfield>
+         <subfield code="g">36.</subfield>
+         <subfield code="t">Papillomaviruses /</subfield>
+         <subfield code="r">John P. Sundberg --</subfield>
+         <subfield code="g">37.</subfield>
+         <subfield code="t">Parainfluenza type 3 /</subfield>
+         <subfield code="r">Glynn H. Frank --</subfield>
+         <subfield code="g">38.</subfield>
+         <subfield code="t">Rabies /</subfield>
+         <subfield code="r">John G. Debbie and Charles V. Trimarchi --</subfield>
+         <subfield code="g">39.</subfield>
+         <subfield code="t">Rift valley fever /</subfield>
+         <subfield code="r">Jeffrey C. Mariner and Ronald J. Yedloutschnig --</subfield>
+         <subfield code="g">40.</subfield>
+         <subfield code="t">Rinderpest /</subfield>
+         <subfield code="r">Paul B. Rossiter --</subfield>
+         <subfield code="g">41.</subfield>
+         <subfield code="t">Rotavirus /</subfield>
+         <subfield code="r">Linda J. Saif --</subfield>
+         <subfield code="g">42.</subfield>
+         <subfield code="t">Vesicular stomatitis /</subfield>
+         <subfield code="r">Gene A. Erickson --</subfield>
+         <subfield code="g">C.</subfield>
+         <subfield code="t">Canine --</subfield>
+         <subfield code="g">43.</subfield>
+         <subfield code="t">Calicivirus /</subfield>
+         <subfield code="r">Robert A. Crandell --</subfield>
+         <subfield code="g">44.</subfield>
+         <subfield code="t">Canine distemper /</subfield>
+         <subfield code="r">Robert P. Poston and James J. England --</subfield>
+         <subfield code="g">45.</subfield>
+         <subfield code="t">Coronavirus /</subfield>
+         <subfield code="r">A. Konrad Eugster --</subfield>
+         <subfield code="g">46.</subfield>
+         <subfield code="t">Herpesvirus /</subfield>
+         <subfield code="r">James F. Evermann --</subfield>
+         <subfield code="g">47.</subfield>
+         <subfield code="t">Infectious canine hepatitis and viral tracheobronchitis /</subfield>
+         <subfield code="r">Larry J. Swango --</subfield>
+         <subfield code="g">48.</subfield>
+         <subfield code="t">Papillomaviruses /</subfield>
+         <subfield code="r">John P. Sundberg --</subfield>
+         <subfield code="g">49.</subfield>
+         <subfield code="t">Parvovirus /</subfield>
+         <subfield code="r">Colin R. Parrish --</subfield>
+         <subfield code="g">50.</subfield>
+         <subfield code="t">Rabies /</subfield>
+         <subfield code="r">John G. Debbie and Charles V. Trimarchi --</subfield>
+         <subfield code="g">D.</subfield>
+         <subfield code="t">Equine --</subfield>
+         <subfield code="g">51.</subfield>
+         <subfield code="t">Adenovirus /</subfield>
+         <subfield code="r">Timothy B. Crawford --</subfield>
+         <subfield code="g">52.</subfield>
+         <subfield code="t">African horse sickness /</subfield>
+         <subfield code="r">Carol House</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="g">53.</subfield>
+         <subfield code="t">Coital exanthema /</subfield>
+         <subfield code="r">James F. Evermann --</subfield>
+         <subfield code="g">54.</subfield>
+         <subfield code="t">Encephalomyelitis /</subfield>
+         <subfield code="r">James E. Pearson --</subfield>
+         <subfield code="g">55.</subfield>
+         <subfield code="t">Equine infectious anemia /</subfield>
+         <subfield code="r">Charles J. Issel --</subfield>
+         <subfield code="g">56.</subfield>
+         <subfield code="t">Equine viral arteritis /</subfield>
+         <subfield code="r">Peter J. Timoney --</subfield>
+         <subfield code="g">57.</subfield>
+         <subfield code="t">Influenza /</subfield>
+         <subfield code="r">Bernard C. Easterday --</subfield>
+         <subfield code="g">58.</subfield>
+         <subfield code="t">Papillomaviruses /</subfield>
+         <subfield code="r">John P. Sundberg --</subfield>
+         <subfield code="g">59.</subfield>
+         <subfield code="t">Rhinopneumonitis and viral abortion /</subfield>
+         <subfield code="r">Peter J. Timoney --</subfield>
+         <subfield code="g">E.</subfield>
+         <subfield code="t">Feline --</subfield>
+         <subfield code="g">60.</subfield>
+         <subfield code="t">Calicivirus /</subfield>
+         <subfield code="r">Jeffrey E. Barlough --</subfield>
+         <subfield code="g">61.</subfield>
+         <subfield code="t">Feline immunodeficiency virus /</subfield>
+         <subfield code="r">Niels C. Pedersen --</subfield>
+         <subfield code="g">62.</subfield>
+         <subfield code="t">Feline infectious peritonitis /</subfield>
+         <subfield code="r">Niels C. Pedersen --</subfield>
+         <subfield code="g">63.</subfield>
+         <subfield code="t">Feline leukemia virus /</subfield>
+         <subfield code="r">Niels C. Pedersen --</subfield>
+         <subfield code="g">64.</subfield>
+         <subfield code="t">Feline viral rhinotracheitis /</subfield>
+         <subfield code="r">Charles A. Baldwin --</subfield>
+         <subfield code="g">65.</subfield>
+         <subfield code="t">Mink enteritis /</subfield>
+         <subfield code="r">Colin R. Parrish --</subfield>
+         <subfield code="g">66.</subfield>
+         <subfield code="t">Other feline coronaviruses /</subfield>
+         <subfield code="r">James F. Evermann --</subfield>
+         <subfield code="g">67.</subfield>
+         <subfield code="t">Panleukopenia /</subfield>
+         <subfield code="r">Colin R. Parrish --</subfield>
+         <subfield code="g">F.</subfield>
+         <subfield code="t">Ovine and Caprine --</subfield>
+         <subfield code="g">68.</subfield>
+         <subfield code="t">Bluetongue /</subfield>
+         <subfield code="r">Bennie I. Osburn --</subfield>
+         <subfield code="g">69.</subfield>
+         <subfield code="t">Border disease /</subfield>
+         <subfield code="r">Bennie I. Osburn --</subfield>
+         <subfield code="g">70.</subfield>
+         <subfield code="t">Caprine arthritis encephalitis /</subfield>
+         <subfield code="r">Donald P. Knowles, Travis C. McGuire and William P. Cheevers --</subfield>
+         <subfield code="g">71.</subfield>
+         <subfield code="t">Contagious ecthyma (Orf) /</subfield>
+         <subfield code="r">Vincent N. Tanya --</subfield>
+         <subfield code="g">72.</subfield>
+         <subfield code="t">Nairobi sheep disease /</subfield>
+         <subfield code="r">F. Glyn Davies --</subfield>
+         <subfield code="g">73.</subfield>
+         <subfield code="t">Ovine progressive pneumonia (Visna/Maedi) /</subfield>
+         <subfield code="r">Donald P. Knowles, Travis C. McGuire and William P. Cheevers --</subfield>
+         <subfield code="g">74.</subfield>
+         <subfield code="t">Peste des Petits Ruminants /</subfield>
+         <subfield code="r">James A. House --</subfield>
+         <subfield code="g">75.</subfield>
+         <subfield code="t">Scrapie /</subfield>
+         <subfield code="r">Richard F. Marsh --</subfield>
+         <subfield code="g">76.</subfield>
+         <subfield code="t">Sheep and goat pox /</subfield>
+         <subfield code="r">James A. House --</subfield>
+         <subfield code="g">G.</subfield>
+         <subfield code="t">Porcine --</subfield>
+         <subfield code="g">77.</subfield>
+         <subfield code="t">African swine fever /</subfield>
+         <subfield code="r">Charles A. Mebus --</subfield>
+         <subfield code="g">78.</subfield>
+         <subfield code="t">Enteroviruses /</subfield>
+         <subfield code="r">J. Brian Derbyshire --</subfield>
+         <subfield code="g">79.</subfield>
+         <subfield code="t">Hemagglutinating encephalomyelitis virus /</subfield>
+         <subfield code="r">William L. Mengeling</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="g">80.</subfield>
+         <subfield code="t">Hog cholera (swine fever) /</subfield>
+         <subfield code="r">Gene A. Erickson --</subfield>
+         <subfield code="g">81.</subfield>
+         <subfield code="t">Influenza /</subfield>
+         <subfield code="r">Bernard C. Easterday --</subfield>
+         <subfield code="g">82.</subfield>
+         <subfield code="t">Parvovirus /</subfield>
+         <subfield code="r">Prem S. Paul and William L. Mengeling --</subfield>
+         <subfield code="g">83.</subfield>
+         <subfield code="t">Pseudorabies /</subfield>
+         <subfield code="r">Charles L. Kanitz --</subfield>
+         <subfield code="g">84.</subfield>
+         <subfield code="t">Rotavirus /</subfield>
+         <subfield code="r">Linda J. Saif and Blair I. Rosen --</subfield>
+         <subfield code="g">85.</subfield>
+         <subfield code="t">Swine vesicular disease /</subfield>
+         <subfield code="r">Jerry J. Callis and Douglas A. Gregg --</subfield>
+         <subfield code="g">86.</subfield>
+         <subfield code="t">Transmissible gastroenteritis, porcine respiratory coronavirus and porcine epidemic diarrhea /</subfield>
+         <subfield code="r">Maurice B. Pensaert --</subfield>
+         <subfield code="g">87.</subfield>
+         <subfield code="t">Vesicular exanthema virus and other marine caliciviruses /</subfield>
+         <subfield code="r">Alvin W. Smith --</subfield>
+         <subfield code="g">H.</subfield>
+         <subfield code="t">Wildlife and Exotic Pets --</subfield>
+         <subfield code="g">88.</subfield>
+         <subfield code="t">Captive and free-living wildlife and exotic pets /</subfield>
+         <subfield code="r">Werner P. Heuschele.</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Veterinary diagnostic virology.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/subjects/sh90003872</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="2">
+         <subfield code="a">Animals, Domestic</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="2">
+         <subfield code="a">Clinical Laboratory Techniques</subfield>
+         <subfield code="x">veterinary</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="2">
+         <subfield code="a">Virus Diseases</subfield>
+         <subfield code="x">veterinary</subfield>
+      </datafield>
+      <datafield tag="776" ind1="0" ind2="8">
+         <subfield code="i">Online version:</subfield>
+         <subfield code="t">Veterinary diagnostic virology.</subfield>
+         <subfield code="d">St. Louis : Mosby Year Book, ©1992</subfield>
+         <subfield code="w">(OCoLC)604350721</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">00000000</subfield>
+         <subfield code="b">19940225</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker &amp; Taylor</subfield>
+         <subfield code="b">BKTY</subfield>
+         <subfield code="c">48.95</subfield>
+         <subfield code="d">48.95</subfield>
+         <subfield code="i">0801663962</subfield>
+         <subfield code="n">0001870605</subfield>
+         <subfield code="s">active</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Brodart</subfield>
+         <subfield code="b">BROD</subfield>
+         <subfield code="n">45877092</subfield>
+         <subfield code="c">$42.95</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker and Taylor</subfield>
+         <subfield code="b">BTCP</subfield>
+         <subfield code="n">90012964</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">YBP Library Services</subfield>
+         <subfield code="b">YANK</subfield>
+         <subfield code="n">646533</subfield>
+      </datafield>
+      <datafield tag="945" ind1=" " ind2=" ">
+         <subfield code="d">AR</subfield>
+         <subfield code="e">92/04/07</subfield>
+         <subfield code="f">AR</subfield>
+         <subfield code="g">92/04/07</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Other US</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>07053cam a22006374a 4500</leader>
+      <controlfield tag="001">9915470371207426</controlfield>
+      <controlfield tag="005">20221102002353.0</controlfield>
+      <controlfield tag="006">m        u        </controlfield>
+      <controlfield tag="007">co ugu||||||||</controlfield>
+      <controlfield tag="008">070131s2007    moua     b    001 0 eng  </controlfield>
+      <datafield tag="010" ind1=" " ind2=" ">
+         <subfield code="a">  2007275421</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT30974628</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">000041254950</subfield>
+         <subfield code="2">AU</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">101298326</subfield>
+         <subfield code="2">DNLM</subfield>
+      </datafield>
+      <datafield tag="019" ind1=" " ind2=" ">
+         <subfield code="a">82221207</subfield>
+         <subfield code="a">141188109</subfield>
+         <subfield code="a">1049023450</subfield>
+         <subfield code="a">1055591884</subfield>
+         <subfield code="a">1058380373</subfield>
+         <subfield code="a">1060670697</subfield>
+         <subfield code="a">1089418614</subfield>
+         <subfield code="a">1117847615</subfield>
+         <subfield code="a">1125129426</subfield>
+         <subfield code="a">1229791477</subfield>
+         <subfield code="a">1237773806</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9781416024064</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">1416024069</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9781437710618</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">1437710611</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">974628</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)84729971</subfield>
+         <subfield code="z">(OCoLC)82221207</subfield>
+         <subfield code="z">(OCoLC)141188109</subfield>
+         <subfield code="z">(OCoLC)1049023450</subfield>
+         <subfield code="z">(OCoLC)1055591884</subfield>
+         <subfield code="z">(OCoLC)1058380373</subfield>
+         <subfield code="z">(OCoLC)1060670697</subfield>
+         <subfield code="z">(OCoLC)1089418614</subfield>
+         <subfield code="z">(OCoLC)1117847615</subfield>
+         <subfield code="z">(OCoLC)1125129426</subfield>
+         <subfield code="z">(OCoLC)1229791477</subfield>
+         <subfield code="z">(OCoLC)1237773806</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)974628-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="z">(OCoLC)82221207</subfield>
+         <subfield code="z">(OCoLC)141188109</subfield>
+         <subfield code="z">(OCoLC)1049023450</subfield>
+         <subfield code="z">(OCoLC)1055591884</subfield>
+         <subfield code="z">(OCoLC)1058380373</subfield>
+         <subfield code="z">(OCoLC)1060670697</subfield>
+         <subfield code="z">(OCoLC)1089418614</subfield>
+         <subfield code="z">(OCoLC)1117847615</subfield>
+         <subfield code="z">(OCoLC)1125129426</subfield>
+         <subfield code="z">(OCoLC)1229791477</subfield>
+         <subfield code="z">(OCoLC)1237773806</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">NLM</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">NLM</subfield>
+         <subfield code="d">AGL</subfield>
+         <subfield code="d">YDXCP</subfield>
+         <subfield code="d">BAKER</subfield>
+         <subfield code="d">IPL</subfield>
+         <subfield code="d">KKS</subfield>
+         <subfield code="d">MUQ</subfield>
+         <subfield code="d">BTCTA</subfield>
+         <subfield code="d">AU@</subfield>
+         <subfield code="d">WUOHS</subfield>
+         <subfield code="d">DLC</subfield>
+         <subfield code="d">SOI</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OVY</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">PAU</subfield>
+         <subfield code="d">OCLCA</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">LVT</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">NLM</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCA</subfield>
+         <subfield code="d">OCLCO</subfield>
+      </datafield>
+      <datafield tag="042" ind1=" " ind2=" ">
+         <subfield code="a">pcc</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="050" ind1="0" ind2="0">
+         <subfield code="a">SF951</subfield>
+         <subfield code="b">.E557 2007</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">SF951</subfield>
+         <subfield code="b">.E682 2007</subfield>
+      </datafield>
+      <datafield tag="130" ind1="0" ind2=" ">
+         <subfield code="a">Equine infectious diseases (Sellon)</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="0">
+         <subfield code="a">Equine infectious diseases /</subfield>
+         <subfield code="c">[edited by] Debra C. Sellon, Maureen T. Long.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">St. Louis, Mo. :</subfield>
+         <subfield code="b">Saunders Elsevier,</subfield>
+         <subfield code="c">©2007.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">xvii, 653 pages :</subfield>
+         <subfield code="b">illustrations +</subfield>
+         <subfield code="e">1 CD-ROM (4 3/4 in.)</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes bibliographical references and index.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="t">Respiratory infections</subfield>
+         <subfield code="r">Elizabeth G. Davis, David E. Freeman, Joanne Hardy --</subfield>
+         <subfield code="t">Cardiovascular infections</subfield>
+         <subfield code="r">Celia M. Marr --</subfield>
+         <subfield code="t">Gastrointestinal and peritoneal infections</subfield>
+         <subfield code="r">L. Chris Sanchez --</subfield>
+         <subfield code="t">Central nervous system infections</subfield>
+         <subfield code="r">Kathy K. Seino, Maureen T. Long --</subfield>
+         <subfield code="t">Infections of muscle, joint, and bone</subfield>
+         <subfield code="r">W. Wesley Sutter, Alicia L. Bertone --</subfield>
+         <subfield code="t">Neonatal septicemia</subfield>
+         <subfield code="r">L. Chris Sanchez --</subfield>
+         <subfield code="t">Skin infections</subfield>
+         <subfield code="r">Dawn Logas, Pamela E. Ginn --</subfield>
+         <subfield code="t">Reproductive tract infections</subfield>
+         <subfield code="r">Ahmed Tibary, Cheryl L. Fite --</subfield>
+         <subfield code="t">Urinary tract infections</subfield>
+         <subfield code="r">Dana N. Zimmel --</subfield>
+         <subfield code="t">Ocular infections</subfield>
+         <subfield code="r">Carmen M.H. Colitz, Vanessa Kuonen --</subfield>
+         <subfield code="t">Laboratory diagnosis of viral infections</subfield>
+         <subfield code="r">J. LIndsay Oaks --</subfield>
+         <subfield code="t">Equine influenza infection</subfield>
+         <subfield code="r">Gabrielle A. Landolt, Hugh G.G. Townsend, D. Paul Lunn --</subfield>
+         <subfield code="t">Equine herpesviruses</subfield>
+         <subfield code="r">Josh Slater --</subfield>
+         <subfield code="t">Equine viral arteritis</subfield>
+         <subfield code="r">Udeni B.R. Balasuriya, N. James MacLachlan --</subfield>
+         <subfield code="t">African horse sickness</subfield>
+         <subfield code="r">Alan J. Guthrie --</subfield>
+         <subfield code="t">Miscellaneous viral respiratory diseases</subfield>
+         <subfield code="r">Michael J. Studdert --</subfield>
+         <subfield code="t">Equine rotavirus</subfield>
+         <subfield code="r">Roberta M. Dwyer --</subfield>
+         <subfield code="t">Coronavirus infections</subfield>
+         <subfield code="r">Martha Gonzalex Arguedas, Debra C. Sellon --</subfield>
+         <subfield code="t">Rabies</subfield>
+         <subfield code="r">Pamela A. Wilkens, Fabio Del Piero --</subfield>
+         <subfield code="t">Equine alphaviruses</subfield>
+         <subfield code="r">E. Paul J. Gibbs, Maureen T. Long --</subfield>
+         <subfield code="t">Borna disease</subfield>
+         <subfield code="r">Juergen A. Richt [and others] --</subfield>
+         <subfield code="t">Equine infectious anemia</subfield>
+         <subfield code="r">Robert H. Mealey --</subfield>
+         <subfield code="t">Vesicular stomatitis</subfield>
+         <subfield code="r">Brian J. McCluskey --</subfield>
+         <subfield code="t">Papillomavirus infections</subfield>
+         <subfield code="r">Debra C. Sellon --</subfield>
+         <subfield code="t">Miscellaneous viral diseases</subfield>
+         <subfield code="r">Kenneth W. Hinchcliff --</subfield>
+         <subfield code="t">Laboratory diagnosis of bacterial infections</subfield>
+         <subfield code="r">Barbara A. Byrne --</subfield>
+         <subfield code="t">Streptococcal infections</subfield>
+         <subfield code="r">Debra C. Sellon [and others] --</subfield>
+         <subfield code="t">Staphylococcal infections</subfield>
+         <subfield code="r">J. Scott Weese --</subfield>
+         <subfield code="t">Miscellaneous gram-positive bacterial infections</subfield>
+         <subfield code="r">Sharon J. Spier [and others] --</subfield>
+         <subfield code="t">Dermatophilosis</subfield>
+         <subfield code="r">Rosanna Marsella --</subfield>
+         <subfield code="t">Rhodococcus equi</subfield>
+         <subfield code="r">Melissa T. Hines --</subfield>
+         <subfield code="t">Mycobacterial infections</subfield>
+         <subfield code="r">J. Lindsay Oaks --</subfield>
+         <subfield code="t">Leptospirosis</subfield>
+         <subfield code="r">Melissa T. Hines --</subfield>
+         <subfield code="t">Lyme disease</subfield>
+         <subfield code="r">Thomas J. Divers --</subfield>
+         <subfield code="t">Lawsonia intracellularis</subfield>
+         <subfield code="r">Jean-Pierre Lavoie, Richard Drolet --</subfield>
+         <subfield code="t">Endotoxemia</subfield>
+         <subfield code="r">Katharina L. Lohmann, Michelle Henry Barton --</subfield>
+         <subfield code="t">Salmonellosis</subfield>
+         <subfield code="r">Josie L. Traub-Dargatz, Thomas E. Besser --</subfield>
+         <subfield code="t">Glanders</subfield>
+         <subfield code="r">Paul L. Nicoletti --</subfield>
+         <subfield code="t">Brucellosis</subfield>
+         <subfield code="r">Paul L. Nicoletti --</subfield>
+         <subfield code="t">Contagious equine metritis</subfield>
+         <subfield code="r">Michaela Kristula --</subfield>
+         <subfield code="t">Anaplasma phagocytophila</subfield>
+         <subfield code="r">Nicola Pusterla, John E. Madigan --</subfield>
+         <subfield code="t">Neorickettsia risticii</subfield>
+         <subfield code="r">Nicola Pusterla, John E. Madigan --</subfield>
+         <subfield code="t">Enteric clostridial infections</subfield>
+         <subfield code="r">J. Scott Weese --</subfield>
+         <subfield code="t">Systemic clostridial infections</subfield>
+         <subfield code="r">Simon F. Peek, Debra C. Sellon --</subfield>
+         <subfield code="t">Botulsim</subfield>
+         <subfield code="r">Pamela A. Wilkins --</subfield>
+         <subfield code="t">Tetanus</subfield>
+         <subfield code="r">Robert J. MacKay --</subfield>
+         <subfield code="t">Miscellaneous anaerobic infections</subfield>
+         <subfield code="r">J. Lindsay Oaks --</subfield>
+         <subfield code="t">Laboratory diagnosis of fungal diseases</subfield>
+         <subfield code="r">Barbara A. Byrne --</subfield>
+         <subfield code="t">Pneumocystis infections</subfield>
+         <subfield code="r">Maureen T. Long --</subfield>
+         <subfield code="t">Coccidioidomycosis</subfield>
+         <subfield code="r">Demosthenes Pappagianis, Jill Higgins --</subfield>
+         <subfield code="t">Sporotrichosis</subfield>
+         <subfield code="r">Robert J. MacKay --</subfield>
+         <subfield code="t">Candidiasis</subfield>
+         <subfield code="r">Natalie Ann Carrillo --</subfield>
+         <subfield code="t">Dermatophytosis</subfield>
+         <subfield code="r">Rosanna Marsella --</subfield>
+         <subfield code="t">Pythiosis and Zygomycosis</subfield>
+         <subfield code="r">Amy M. Grooters --</subfield>
+         <subfield code="t">Aspergillosis</subfield>
+         <subfield code="r">Catherine Kohn --</subfield>
+         <subfield code="t">Miscellaneous fungal diseases</subfield>
+         <subfield code="r">Catherine Kohn --</subfield>
+         <subfield code="t">Laboratory diagnosis of parasitic diseases</subfield>
+         <subfield code="r">Ellis C. Greiner --</subfield>
+         <subfield code="t">Equine protozoal myeloencephalitis</subfield>
+         <subfield code="r">Debra C. Sellon, J.P. Dubey --</subfield>
+         <subfield code="t">Equine piroplasmosis</subfield>
+         <subfield code="r">Chantal M. Rothschild, Donald P. Knowles --</subfield>
+         <subfield code="t">Miscellaneous parasitic diseases</subfield>
+         <subfield code="r">Debra C. Sellon --</subfield>
+         <subfield code="t">Nematodes</subfield>
+         <subfield code="r">Craig R. Reinemeyer, Martin Krarup Nielsen, Debra C. Sellon --</subfield>
+         <subfield code="t">Cestodes</subfield>
+         <subfield code="r">Merijo Eileen Jordan, Joseph A. DiPietro --</subfield>
+         <subfield code="t">Ectoparasites of horses</subfield>
+         <subfield code="r">Joy L. Barbet --</subfield>
+         <subfield code="t">Epidemiology of equine infectious diseases</subfield>
+         <subfield code="r">Ashley E. Hill, Paulo C. Duarte, Paul S. Morley --</subfield>
+         <subfield code="t">Biosecurity</subfield>
+         <subfield code="r">Magdalena Dunowska [and others] --</subfield>
+         <subfield code="t">Control of infectious diseases outbreaks</subfield>
+         <subfield code="r">Roberta M. Dwyer --</subfield>
+         <subfield code="t">Recognition of foreign animal diseases</subfield>
+         <subfield code="r">Corrie C. Brown --</subfield>
+         <subfield code="t">Infectious diseases and the international movement of horses</subfield>
+         <subfield code="r">Peter J. Timoney --</subfield>
+         <subfield code="t">Immunoprophylaxis</subfield>
+         <subfield code="r">W. David Wilson, Nicola Pusterla --</subfield>
+         <subfield code="t">Antimicrobial therapy</subfield>
+         <subfield code="r">Mark G. Papich, Jennifer L. Davis --</subfield>
+         <subfield code="t">Immunotherapy</subfield>
+         <subfield code="r">Maria Julia Bevilaqua Felippe Falaminio --</subfield>
+         <subfield code="t">Appendix A: Infectious disease rule-outs for medical problems --</subfield>
+         <subfield code="t">Appendix B: Vaccination guidelines for horses in North America --</subfield>
+         <subfield code="t">Appendix C: Antimicrobial drug formulary.</subfield>
+      </datafield>
+      <datafield tag="520" ind1=" " ind2=" ">
+         <subfield code="a">Accompanying CD-ROM contains ... "easy access to an extensive list of references and links to the original abstract and related articles through PubMed."--Page 4 of cover.</subfield>
+      </datafield>
+      <datafield tag="506" ind1=" " ind2=" ">
+         <subfield code="a">Licence conditions preclude Library lending or networking of accompanying CDROM/DVDROM.</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses</subfield>
+         <subfield code="x">Diseases.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/subjects/sh85062163</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses</subfield>
+         <subfield code="x">Infections.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/subjects/sh2009008502</subfield>
+      </datafield>
+      <datafield tag="650" ind1="1" ind2="2">
+         <subfield code="a">Horse Diseases</subfield>
+      </datafield>
+      <datafield tag="650" ind1="2" ind2="2">
+         <subfield code="a">Bacterial Infections</subfield>
+         <subfield code="x">veterinary</subfield>
+      </datafield>
+      <datafield tag="650" ind1="2" ind2="2">
+         <subfield code="a">Infections</subfield>
+         <subfield code="x">veterinary</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Sellon, Debra C.</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Long, Maureen T.</subfield>
+      </datafield>
+      <datafield tag="830" ind1=" " ind2="0">
+         <subfield code="a">Online access with purchase: Elsevier (Veterinary Medicine 2007)</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">20070222</subfield>
+         <subfield code="b">20070303</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker &amp; Taylor</subfield>
+         <subfield code="b">BKTY</subfield>
+         <subfield code="c">155.00</subfield>
+         <subfield code="d">.00</subfield>
+         <subfield code="i">1416024069</subfield>
+         <subfield code="n">0006978645</subfield>
+         <subfield code="s">active</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker and Taylor</subfield>
+         <subfield code="b">BTCP</subfield>
+         <subfield code="n">BK0006978645</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">YBP Library Services</subfield>
+         <subfield code="b">YANK</subfield>
+         <subfield code="n">2482735</subfield>
+      </datafield>
+      <datafield tag="945" ind1=" " ind2=" ">
+         <subfield code="d">asperber</subfield>
+         <subfield code="e">2007/02/22</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Other US</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

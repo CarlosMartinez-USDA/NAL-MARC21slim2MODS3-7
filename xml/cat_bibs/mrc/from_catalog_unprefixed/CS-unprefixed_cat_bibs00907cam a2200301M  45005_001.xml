@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>00907cam a2200301M  4500</leader>
+      <controlfield tag="001">9915438094807426</controlfield>
+      <controlfield tag="005">20221101180546.0</controlfield>
+      <controlfield tag="008">701217s1uuu    ilu           000 0 eng d</controlfield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT70301614</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">7791</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)1289066122</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)7791-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">AGL</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">AGL</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="070" ind1=" " ind2=" ">
+         <subfield code="a">SF959.J6R6</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">2000</subfield>
+      </datafield>
+      <datafield tag="100" ind1="1" ind2=" ">
+         <subfield code="a">Rosborough, John Paul,</subfield>
+         <subfield code="d">1930-</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="2">
+         <subfield code="a">A study of the intra-articular temperature, the synovial fluid viscosity, and the cellular components in joint disease of the horse.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">Urbana.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">87 l. illus.</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses</subfield>
+         <subfield code="x">Diseases.</subfield>
+      </datafield>
+      <datafield tag="841" ind1=" " ind2=" ">
+         <subfield code="a">x   </subfield>
+         <subfield code="b">8706030u    0   4   uu   1870603</subfield>
+         <subfield code="e">z</subfield>
+      </datafield>
+      <datafield tag="852" ind1=" " ind2=" ">
+         <subfield code="a">DNAL</subfield>
+         <subfield code="i">SF959.J6R6</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1="1" ind2="0">
+         <subfield code="a">00000000</subfield>
+         <subfield code="b">00000000</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="959" ind1=" " ind2=" ">
+         <subfield code="c">2011/10/14</subfield>
+         <subfield code="e">ssouder</subfield>
+         <subfield code="g">de</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

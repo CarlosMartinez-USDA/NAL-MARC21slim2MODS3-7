@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>01141cam a2200325Ia 4500</leader>
+      <controlfield tag="001">9915505674807426</controlfield>
+      <controlfield tag="005">20221102093914.0</controlfield>
+      <controlfield tag="008">920620s1920    enkaf         001 0 eng d</controlfield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT10507751</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">398107</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)10398722</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)398107-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">UIU</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">UIU</subfield>
+         <subfield code="d">AGL</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCQ</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">RQIA</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">42</subfield>
+         <subfield code="b">B28He</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">L100</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">L800</subfield>
+      </datafield>
+      <datafield tag="100" ind1="1" ind2=" ">
+         <subfield code="a">Barton, Frank Townend,</subfield>
+         <subfield code="d">1869?-1948.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/nr2005000148</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="4">
+         <subfield code="a">The horse in health, accident &amp; disease :</subfield>
+         <subfield code="b">a thoroughly practical guide for every horse owner /</subfield>
+         <subfield code="c">by Frank T. Barton.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">London :</subfield>
+         <subfield code="b">C. Arthur Pearson,</subfield>
+         <subfield code="c">1920.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">235 pages, 8 unnumbered leaves of plates :</subfield>
+         <subfield code="b">illustrations ;</subfield>
+         <subfield code="c">19 cm</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/subjects/sh85062160</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">00000000</subfield>
+         <subfield code="b">00000000</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Non-US</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

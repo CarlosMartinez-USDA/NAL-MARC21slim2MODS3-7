@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>01501cam a22004091  4500</leader>
+      <controlfield tag="001">9915533291007426</controlfield>
+      <controlfield tag="005">20221102133842.0</controlfield>
+      <controlfield tag="008">920619s1917    iluf     b    000 0 eng  </controlfield>
+      <datafield tag="010" ind1=" " ind2=" ">
+         <subfield code="a">   17014155 </subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT10501563</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">002468039</subfield>
+         <subfield code="2">Uk</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">407290</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)00551157</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)407290-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">DLC</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">DLC</subfield>
+         <subfield code="d">KSU</subfield>
+         <subfield code="d">AGL</subfield>
+         <subfield code="d">OCLCG</subfield>
+         <subfield code="d">KRTAS</subfield>
+         <subfield code="d">UKMGB</subfield>
+         <subfield code="d">KFH</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">TUFTV</subfield>
+      </datafield>
+      <datafield tag="042" ind1=" " ind2=" ">
+         <subfield code="a">premarc</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">RQIA</subfield>
+      </datafield>
+      <datafield tag="050" ind1="0" ind2="0">
+         <subfield code="a">SF285</subfield>
+         <subfield code="b">.M53</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">42</subfield>
+         <subfield code="b">M552</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">L100</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">L800</subfield>
+      </datafield>
+      <datafield tag="100" ind1="1" ind2=" ">
+         <subfield code="a">Merwin, Henry Childs,</subfield>
+         <subfield code="d">1853-1929.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/no91008905</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="4">
+         <subfield code="a">The horse,</subfield>
+         <subfield code="b">his breeding, care, and treatment in health and disease,</subfield>
+         <subfield code="c">by Henry Childs Merwin.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">Chicago,</subfield>
+         <subfield code="b">A.C. McClurg &amp; Co.,</subfield>
+         <subfield code="c">1917.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">xii pages, 1 leaf, 281 pages</subfield>
+         <subfield code="b">frontispiece, plates</subfield>
+         <subfield code="c">20 cm</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes bibliographical references (pages 271-274).</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/subjects/sh85062160</subfield>
+      </datafield>
+      <datafield tag="776" ind1="0" ind2="8">
+         <subfield code="i">Online version:</subfield>
+         <subfield code="a">Merwin, Henry Childs, 1853-1929.</subfield>
+         <subfield code="t">Horse.</subfield>
+         <subfield code="d">Chicago, A.C. McClurg &amp; co., 1917</subfield>
+         <subfield code="w">(OCoLC)653077137</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">00000000</subfield>
+         <subfield code="b">00000000</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Kirtas Technologies, Inc.</subfield>
+         <subfield code="b">KRTS</subfield>
+         <subfield code="n">655161</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Other US</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

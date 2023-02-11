@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>02371cam a2200601Ia 4500</leader>
+      <controlfield tag="001">9915514472407426</controlfield>
+      <controlfield tag="005">20221102182146.0</controlfield>
+      <controlfield tag="008">971014s1982    mtua     b   f000 0 eng d</controlfield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT31125213</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">1125213</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)41859555</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)1125213-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">MtU</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">MTG</subfield>
+         <subfield code="d">MTG</subfield>
+         <subfield code="d">WAU</subfield>
+         <subfield code="d">CUY</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">COF</subfield>
+         <subfield code="d">AGM</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">AGL</subfield>
+      </datafield>
+      <datafield tag="043" ind1=" " ind2=" ">
+         <subfield code="a">n-us-mt</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="050" ind1="1" ind2="0">
+         <subfield code="a">SB945.B3</subfield>
+         <subfield code="b">D82 1982</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">aSD11</subfield>
+         <subfield code="b">.U585 no. 82-18 1982</subfield>
+      </datafield>
+      <datafield tag="086" ind1="0" ind2=" ">
+         <subfield code="a">A 13.52/7rp:82-18</subfield>
+      </datafield>
+      <datafield tag="086" ind1="0" ind2=" ">
+         <subfield code="a">A 13.52/7-2:82-18</subfield>
+      </datafield>
+      <datafield tag="100" ind1="1" ind2=" ">
+         <subfield code="a">Dubreuil, Suzanne Hagle.</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="0">
+         <subfield code="a">Bark beetle history and root disease on the Hungry Horse District, Flathead National Forest /</subfield>
+         <subfield code="c">by S.H. Dubreuil, S. Tunnock, O.J. Dooling.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">[Missoula, Mont.] :</subfield>
+         <subfield code="b">USDA Forest Service, Northern Region, Cooperative Forestry and Pest Management,</subfield>
+         <subfield code="c">[1982]</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">11 pages :</subfield>
+         <subfield code="b">illustrations ;</subfield>
+         <subfield code="c">28 cm</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="490" ind1="1" ind2=" ">
+         <subfield code="a">Report ;</subfield>
+         <subfield code="v">82-18</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes bibliographical references (pages 8-10).</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Bark beetles</subfield>
+         <subfield code="z">Montana</subfield>
+         <subfield code="z">Flathead National Forest.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Fungi</subfield>
+         <subfield code="z">Montana</subfield>
+         <subfield code="z">Flathead National Forest.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Fir</subfield>
+         <subfield code="x">Diseases and pests</subfield>
+         <subfield code="z">Montana</subfield>
+         <subfield code="z">Flathead National Forest.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">Dendroctonus pseudotsugae.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">Phaeolus schweinitzii.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">Heterobasidion annosum.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">Pseudotsuga menziesii.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">Forest pests.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">Root rot.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">Fungi.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">Insect pests.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">Plant diseases and disorders.</subfield>
+      </datafield>
+      <datafield tag="651" ind1=" " ind2="3">
+         <subfield code="a">Montana</subfield>
+      </datafield>
+      <datafield tag="651" ind1=" " ind2="7">
+         <subfield code="a">Montana</subfield>
+         <subfield code="z">Flathead National Forest.</subfield>
+         <subfield code="2">fast</subfield>
+         <subfield code="0">(OCoLC)fst01241880</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Tunnock, Scott.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/n85205812</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Dooling, Oscar J.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/n82116824</subfield>
+      </datafield>
+      <datafield tag="710" ind1="1" ind2=" ">
+         <subfield code="a">United States.</subfield>
+         <subfield code="b">Forest Service.</subfield>
+         <subfield code="b">Northern Region.</subfield>
+         <subfield code="b">Cooperative Forestry &amp; Pest Management.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/n85320106</subfield>
+      </datafield>
+      <datafield tag="830" ind1=" " ind2="0">
+         <subfield code="a">Forest pest management (Missoula, Mont.) ;</subfield>
+         <subfield code="v">rept. no. 82-18.</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">20130529</subfield>
+         <subfield code="b">20130607</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="945" ind1=" " ind2=" ">
+         <subfield code="a">DigiMet</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">USDA</subfield>
+      </datafield>
+      <datafield tag="958" ind1=" " ind2=" ">
+         <subfield code="a">resource</subfield>
+         <subfield code="b">e</subfield>
+         <subfield code="c">2013/05/29</subfield>
+         <subfield code="d">n</subfield>
+         <subfield code="e">jondusko</subfield>
+         <subfield code="h">recon</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>05210cam a2200601 i 4500</leader>
+      <controlfield tag="001">9915550767007426</controlfield>
+      <controlfield tag="005">20221102195322.0</controlfield>
+      <controlfield tag="008">140212s2014    flua     b    001 0 eng  </controlfield>
+      <datafield tag="010" ind1=" " ind2=" ">
+         <subfield code="a">  2014006005</subfield>
+      </datafield>
+      <datafield tag="015" ind1=" " ind2=" ">
+         <subfield code="a">GBB495053</subfield>
+         <subfield code="2">bnb</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT31314856</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">101625772</subfield>
+         <subfield code="2">DNLM</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">016857896</subfield>
+         <subfield code="2">Uk</subfield>
+      </datafield>
+      <datafield tag="019" ind1=" " ind2=" ">
+         <subfield code="a">856567305</subfield>
+         <subfield code="a">856974396</subfield>
+         <subfield code="a">1107194990</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9781482221916</subfield>
+         <subfield code="q">(hbk. ;</subfield>
+         <subfield code="q">alk. paper)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">1482221918</subfield>
+         <subfield code="q">(hbk. ;</subfield>
+         <subfield code="q">alk. paper)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="z">9781482221923 (PDF ebook)</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">1314856</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)870890287</subfield>
+         <subfield code="z">(OCoLC)856567305</subfield>
+         <subfield code="z">(OCoLC)856974396</subfield>
+         <subfield code="z">(OCoLC)1107194990</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)1314856-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="z">(OCoLC)856567305</subfield>
+         <subfield code="z">(OCoLC)856974396</subfield>
+         <subfield code="z">(OCoLC)1107194990</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">DNLM/DLC</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="e">rda</subfield>
+         <subfield code="c">DLC</subfield>
+         <subfield code="d">YDX</subfield>
+         <subfield code="d">BTCTA</subfield>
+         <subfield code="d">NLM</subfield>
+         <subfield code="d">YDXCP</subfield>
+         <subfield code="d">CDX</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">AGL</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">BDX</subfield>
+         <subfield code="d">UKMGB</subfield>
+         <subfield code="d">U3G</subfield>
+         <subfield code="d">IEUOL</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCA</subfield>
+      </datafield>
+      <datafield tag="042" ind1=" " ind2=" ">
+         <subfield code="a">pcc</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="050" ind1="0" ind2="0">
+         <subfield code="a">SF951</subfield>
+         <subfield code="b">.R243 2014</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">SF951</subfield>
+         <subfield code="b">.R243 2014</subfield>
+      </datafield>
+      <datafield tag="100" ind1="1" ind2=" ">
+         <subfield code="a">Ramzan, Pieter H. L.,</subfield>
+         <subfield code="e">author.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/n2014181391</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="4">
+         <subfield code="a">The racehorse :</subfield>
+         <subfield code="b">a veterinary manual /</subfield>
+         <subfield code="c">Pieter H.L. Ramzan, BVSc(Sydney), MRCVS, Rossdales Veterinary Practice, Beaufort Cottage Stables, Newmarket, Suffolk, UK.</subfield>
+      </datafield>
+      <datafield tag="264" ind1=" " ind2="1">
+         <subfield code="a">Boca Raton :</subfield>
+         <subfield code="b">CRC Press/Taylor &amp; Francis,</subfield>
+         <subfield code="c">2014.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">xii, 372 pages :</subfield>
+         <subfield code="b">illustrations (some color) ;</subfield>
+         <subfield code="c">27 cm</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes bibliographical references and index.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="a">Machine generated contents note:</subfield>
+         <subfield code="g">pt. 1</subfield>
+         <subfield code="t">Injuries and Conditions of the Musculoskeletal System --</subfield>
+         <subfield code="g">ch. 1</subfield>
+         <subfield code="t">Injury management and rehabilitation --</subfield>
+         <subfield code="t">Introduction --</subfield>
+         <subfield code="t">Acute care and wound management --</subfield>
+         <subfield code="t">Management of joint disease --</subfield>
+         <subfield code="t">Rehabilitation --</subfield>
+         <subfield code="g">ch. 2</subfield>
+         <subfield code="t">Regional musculoskeletal conditions --</subfield>
+         <subfield code="t">The foot --</subfield>
+         <subfield code="t">The fetlock and pastern --</subfield>
+         <subfield code="t">The metacarpus/metatarsus (`cannon') --</subfield>
+         <subfield code="t">The carpus --</subfield>
+         <subfield code="t">The upper forelimb --</subfield>
+         <subfield code="t">The tarsus (hock) --</subfield>
+         <subfield code="t">The upper hindlimb --</subfield>
+         <subfield code="t">The pelvis --</subfield>
+         <subfield code="t">The neck and back --</subfield>
+         <subfield code="t">Other musculoskeletal conditions --</subfield>
+         <subfield code="g">pt. 2</subfield>
+         <subfield code="t">Other Body Systems --</subfield>
+         <subfield code="g">ch. 3</subfield>
+         <subfield code="t">Respiratory conditions --</subfield>
+         <subfield code="t">Upper airway obstructions --</subfield>
+         <subfield code="t">Lower airway disease --</subfield>
+         <subfield code="g">ch. 4</subfield>
+         <subfield code="t">Cardiovascular conditions --</subfield>
+         <subfield code="t">Heart murmurs --</subfield>
+         <subfield code="t">Arrhythmias --</subfield>
+         <subfield code="t">Jugular thrombosis/thrombophlebitis --</subfield>
+         <subfield code="t">Exercise-related sudden death (cardiopulmonary failure) --</subfield>
+         <subfield code="g">ch. 5</subfield>
+         <subfield code="t">The head --</subfield>
+         <subfield code="t">Dentistry --</subfield>
+         <subfield code="t">Wounds --</subfield>
+         <subfield code="t">Eyes --</subfield>
+         <subfield code="t">Airways --</subfield>
+         <subfield code="t">Other --</subfield>
+         <subfield code="g">ch. 6</subfield>
+         <subfield code="t">Gastrointestinal conditions --</subfield>
+         <subfield code="g">ch. 7</subfield>
+         <subfield code="t">Urogenital conditions --</subfield>
+         <subfield code="t">Urinary tract problems --</subfield>
+         <subfield code="t">Female reproductive system --</subfield>
+         <subfield code="t">Male reproductive system --</subfield>
+         <subfield code="t">Intersex disorders --</subfield>
+         <subfield code="g">ch. 8</subfield>
+         <subfield code="t">Neurological conditions --</subfield>
+         <subfield code="t">Vertebral column conditions --</subfield>
+         <subfield code="t">Viral infections --</subfield>
+         <subfield code="g">ch. 9</subfield>
+         <subfield code="t">Skin conditions --</subfield>
+         <subfield code="t">Injuries --</subfield>
+         <subfield code="t">Infections --</subfield>
+         <subfield code="t">Other conditions --</subfield>
+         <subfield code="g">ch. 10</subfield>
+         <subfield code="t">Miscellaneous conditions --</subfield>
+         <subfield code="g">ch. 11</subfield>
+         <subfield code="t">Infectious diseases --</subfield>
+         <subfield code="g">pt. 3</subfield>
+         <subfield code="t">Training and Management --</subfield>
+         <subfield code="g">ch. 12</subfield>
+         <subfield code="t">Selection of the racehorse --</subfield>
+         <subfield code="t">Overview --</subfield>
+         <subfield code="t">The vetting procedure --</subfield>
+         <subfield code="t">Pre-purchase radiography --</subfield>
+         <subfield code="t">Pre-purchase ultrasonography --</subfield>
+         <subfield code="t">Assessment of airway function --</subfield>
+         <subfield code="t">Public auction vetting: the yearling --</subfield>
+         <subfield code="t">Public auction vetting: the `breeze-up' 2 year old --</subfield>
+         <subfield code="t">Public auction vetting: the horse-in-training --</subfield>
+         <subfield code="t">Conformation --</subfield>
+         <subfield code="t">Heart size --</subfield>
+         <subfield code="t">Genetics of selection --</subfield>
+         <subfield code="g">ch. 13</subfield>
+         <subfield code="t">Exercise physiology and training --</subfield>
+         <subfield code="t">Overview of exercise physiology --</subfield>
+         <subfield code="t">The racehorse as athlete --</subfield>
+         <subfield code="t">Adaptations to training --</subfield>
+         <subfield code="t">Fundamentals of training --</subfield>
+         <subfield code="t">Training aids --</subfield>
+         <subfield code="t">Fitness testing --</subfield>
+         <subfield code="t">Track types --</subfield>
+         <subfield code="g">ch. 14</subfield>
+         <subfield code="t">Nutrition --</subfield>
+         <subfield code="t">Principles of feeding --</subfield>
+         <subfield code="t">Key nutrients --</subfield>
+         <subfield code="t">Basic feed types --</subfield>
+         <subfield code="t">Supplements --</subfield>
+         <subfield code="t">Assessing nutritional problems --</subfield>
+         <subfield code="t">Poor appetite/condition --</subfield>
+         <subfield code="t">Feeding for performance --</subfield>
+         <subfield code="g">ch. 15</subfield>
+         <subfield code="t">Ergogenic aids --</subfield>
+         <subfield code="t">Overview --</subfield>
+         <subfield code="t">Nutritional aids --</subfield>
+         <subfield code="t">Non-nutritional aids --</subfield>
+         <subfield code="g">ch. 16</subfield>
+         <subfield code="t">Blood analysis --</subfield>
+         <subfield code="t">Blood constituents --</subfield>
+         <subfield code="t">Sampling --</subfield>
+         <subfield code="t">Effects of training --</subfield>
+         <subfield code="t">Interpretation --</subfield>
+         <subfield code="g">ch. 17</subfield>
+         <subfield code="t">Herd health --</subfield>
+         <subfield code="t">Biosecurity --</subfield>
+         <subfield code="t">Housing and air hygiene --</subfield>
+         <subfield code="t">Lower airway disease --</subfield>
+         <subfield code="t">Musculoskeletal injuries --</subfield>
+         <subfield code="g">ch. 18</subfield>
+         <subfield code="t">Transport --</subfield>
+         <subfield code="t">Overview --</subfield>
+         <subfield code="t">Effects of transport --</subfield>
+         <subfield code="t">Veterinary management for long-distance transport --</subfield>
+         <subfield code="g">pt. 4</subfield>
+         <subfield code="t">Appendices --</subfield>
+         <subfield code="g">Appendix 1</subfield>
+         <subfield code="t">Normal clinical parameters --</subfield>
+         <subfield code="g">Appendix 2</subfield>
+         <subfield code="t">Drug administration reference table --</subfield>
+         <subfield code="g">Appendix 3</subfield>
+         <subfield code="t">Guide to best practice for humane destruction in emergency situations --</subfield>
+         <subfield code="g">Appendix 4</subfield>
+         <subfield code="t">Blood reference ranges.</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses</subfield>
+         <subfield code="x">Diseases.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/subjects/sh85062163</subfield>
+      </datafield>
+      <datafield tag="650" ind1="1" ind2="2">
+         <subfield code="a">Horse Diseases.</subfield>
+         <subfield code="0">https://id.nlm.nih.gov/mesh/D006734</subfield>
+      </datafield>
+      <datafield tag="650" ind1="2" ind2="2">
+         <subfield code="a">Horses.</subfield>
+         <subfield code="0">https://id.nlm.nih.gov/mesh/D006736</subfield>
+      </datafield>
+      <datafield tag="650" ind1="2" ind2="2">
+         <subfield code="a">Veterinary Sports Medicine</subfield>
+         <subfield code="x">methods.</subfield>
+         <subfield code="0">https://id.nlm.nih.gov/mesh/D064796Q000379</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">horse diseases.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">horses.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">methodology.</subfield>
+      </datafield>
+      <datafield tag="776" ind1="0" ind2="8">
+         <subfield code="i">ebook version:</subfield>
+         <subfield code="z">9781482221923</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">20150414</subfield>
+         <subfield code="b">00000000</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Brodart</subfield>
+         <subfield code="b">BROD</subfield>
+         <subfield code="n">110481275</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker and Taylor</subfield>
+         <subfield code="b">BTCP</subfield>
+         <subfield code="n">BK0013710382</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Coutts Information Services</subfield>
+         <subfield code="b">COUT</subfield>
+         <subfield code="n">26200968</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">YBP Library Services</subfield>
+         <subfield code="b">YANK</subfield>
+         <subfield code="n">11079116</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Other US</subfield>
+      </datafield>
+      <datafield tag="958" ind1=" " ind2=" ">
+         <subfield code="b">e</subfield>
+         <subfield code="c">2015/04/14</subfield>
+         <subfield code="d">c</subfield>
+         <subfield code="e">vperkins</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

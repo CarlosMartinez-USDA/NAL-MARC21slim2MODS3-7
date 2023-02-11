@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>02715cam a2200481 a 4500</leader>
+      <controlfield tag="001">9915496108207426</controlfield>
+      <controlfield tag="005">20221102083650.0</controlfield>
+      <controlfield tag="008">981021s1999    ilua          001 0 eng  </controlfield>
+      <datafield tag="010" ind1=" " ind2=" ">
+         <subfield code="a">   96079329 </subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT10856333</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">0813431158</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9780813431154</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">821963</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)39287504</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)821963-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">DLC</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">DLC</subfield>
+         <subfield code="d">AGL</subfield>
+         <subfield code="d">MUQ</subfield>
+         <subfield code="d">NOR</subfield>
+         <subfield code="d">BTCTA</subfield>
+         <subfield code="d">YDXCP</subfield>
+         <subfield code="d">BAKER</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">NTE</subfield>
+         <subfield code="d">OCLCO</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="050" ind1="0" ind2="0">
+         <subfield code="a">SF285</subfield>
+         <subfield code="b">.E53 1999</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">SF285.E53</subfield>
+         <subfield code="b">1999</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">L100</subfield>
+      </datafield>
+      <datafield tag="100" ind1="1" ind2=" ">
+         <subfield code="a">Ensminger, M. Eugene.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/n79018195</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="0">
+         <subfield code="a">Horses and horsemanship /</subfield>
+         <subfield code="c">by M.E. Ensminger.</subfield>
+      </datafield>
+      <datafield tag="250" ind1=" " ind2=" ">
+         <subfield code="a">7th ed.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">Danville, Ill. :</subfield>
+         <subfield code="b">Interstate Publishers,</subfield>
+         <subfield code="c">1999.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">ix, 629 pages :</subfield>
+         <subfield code="b">illustrations (some color) ;</subfield>
+         <subfield code="c">29 cm.</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="490" ind1="1" ind2=" ">
+         <subfield code="a">Animal agriculture series</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="g">1.</subfield>
+         <subfield code="t">History and development of the horse industry --</subfield>
+         <subfield code="g">2.</subfield>
+         <subfield code="t">Distribution, adaptation, and the future of the horse industry --</subfield>
+         <subfield code="g">3.</subfield>
+         <subfield code="t">Functional anatomy of the horse --</subfield>
+         <subfield code="g">4.</subfield>
+         <subfield code="t">Selecting and judging horses --</subfield>
+         <subfield code="g">5.</subfield>
+         <subfield code="t">Determining the age and height of horses --</subfield>
+         <subfield code="g">6.</subfield>
+         <subfield code="t">Unsoundnesses and stable vices --</subfield>
+         <subfield code="g">7.</subfield>
+         <subfield code="t">The horse in action --</subfield>
+         <subfield code="g">8.</subfield>
+         <subfield code="t">Types and classes of light horses according to use --</subfield>
+         <subfield code="g">9.</subfield>
+         <subfield code="t">Types and classes of work horses and mules --</subfield>
+         <subfield code="g">10.</subfield>
+         <subfield code="t">Breeds of light horses --</subfield>
+         <subfield code="g">11.</subfield>
+         <subfield code="t">Breeds of draft horses ; jacks and donkeys --</subfield>
+         <subfield code="g">12.</subfield>
+         <subfield code="t">Breeding horses --</subfield>
+         <subfield code="g">13.</subfield>
+         <subfield code="t">Feeding horses --</subfield>
+         <subfield code="g">14.</subfield>
+         <subfield code="g">Buildings and equipment for horses --</subfield>
+         <subfield code="g">15.</subfield>
+         <subfield code="t">Horse health, disease prevention, and parasite control --</subfield>
+         <subfield code="g">16.</subfield>
+         <subfield code="t">Horse behavior/training/environment --</subfield>
+         <subfield code="g">17.</subfield>
+         <subfield code="t">Horsemanship --</subfield>
+         <subfield code="g">18.</subfield>
+         <subfield code="t">Management --</subfield>
+         <subfield code="g">19.</subfield>
+         <subfield code="t">Business aspects of horse production --</subfield>
+         <subfield code="g">20.</subfield>
+         <subfield code="t">Glossary of horse terms --</subfield>
+         <subfield code="g">21.</subfield>
+         <subfield code="t">Careers in the world of horses.</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/subjects/sh85062160</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horsemanship.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/subjects/sh85062144</subfield>
+      </datafield>
+      <datafield tag="776" ind1="0" ind2="8">
+         <subfield code="i">Online version:</subfield>
+         <subfield code="a">Ensminger, M. Eugene.</subfield>
+         <subfield code="t">Horses and horsemanship.</subfield>
+         <subfield code="b">7th ed.</subfield>
+         <subfield code="d">Danville, Ill. : Interstate Publishers, 1999</subfield>
+         <subfield code="w">(OCoLC)767576040</subfield>
+      </datafield>
+      <datafield tag="800" ind1="1" ind2=" ">
+         <subfield code="a">Ensminger, M. Eugene.</subfield>
+         <subfield code="t">Animal agriculture series</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/n83722265</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">19981102</subfield>
+         <subfield code="b">19981110</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker &amp; Taylor</subfield>
+         <subfield code="b">BKTY</subfield>
+         <subfield code="c">66.70</subfield>
+         <subfield code="d">66.70</subfield>
+         <subfield code="i">0813431158</subfield>
+         <subfield code="n">0003136750</subfield>
+         <subfield code="s">active</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker and Taylor</subfield>
+         <subfield code="b">BTCP</subfield>
+         <subfield code="n">96079329</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">YBP Library Services</subfield>
+         <subfield code="b">YANK</subfield>
+         <subfield code="n">1565791</subfield>
+      </datafield>
+      <datafield tag="945" ind1=" " ind2=" ">
+         <subfield code="d">EJ</subfield>
+         <subfield code="e">98/10/20</subfield>
+         <subfield code="f">EJ</subfield>
+         <subfield code="g">98/10/21</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Other US</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

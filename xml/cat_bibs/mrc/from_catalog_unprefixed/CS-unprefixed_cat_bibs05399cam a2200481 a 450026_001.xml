@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>05399cam a2200481 a 4500</leader>
+      <controlfield tag="001">9915474040907426</controlfield>
+      <controlfield tag="005">20221102031305.0</controlfield>
+      <controlfield tag="008">050208s2005    enka     b    101 0 eng  </controlfield>
+      <datafield tag="015" ind1=" " ind2=" ">
+         <subfield code="a">GBA514237</subfield>
+         <subfield code="2">bnb</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT30948788</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">013113031</subfield>
+         <subfield code="2">Uk</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">1904761283</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9781904761280</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">948788</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)57691619</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)948788-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">UKM</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">UKM</subfield>
+         <subfield code="d">BWKUK</subfield>
+         <subfield code="d">AGL</subfield>
+         <subfield code="d">YDXCP</subfield>
+         <subfield code="d">BAKER</subfield>
+         <subfield code="d">UGX</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCL</subfield>
+         <subfield code="d">S3O</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">UKMGB</subfield>
+         <subfield code="d">CN3GA</subfield>
+      </datafield>
+      <datafield tag="042" ind1=" " ind2=" ">
+         <subfield code="a">ukblsr</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="050" ind1=" " ind2="0">
+         <subfield code="a">SF285.5</subfield>
+         <subfield code="b">.A38 2005</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">SF285.5</subfield>
+         <subfield code="b">.A39 2005</subfield>
+      </datafield>
+      <datafield tag="245" ind1="0" ind2="0">
+         <subfield code="a">Advances in equine nutrition III /</subfield>
+         <subfield code="c">edited by Joe D. Pagan.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">Nottingham :</subfield>
+         <subfield code="b">Nottingham University Press,</subfield>
+         <subfield code="c">2005.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">vii, 503 pages :</subfield>
+         <subfield code="b">illustrations ;</subfield>
+         <subfield code="c">24 cm</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes bibliographical references and index.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="t">Recent research developments from Kentucky equine research /</subfield>
+         <subfield code="r">J. D. Pagan --</subfield>
+         <subfield code="t">Pasture counts : the contribution of pasture to the diets of horses /</subfield>
+         <subfield code="r">N. Grace --</subfield>
+         <subfield code="t">Nutrition and the equine foot /</subfield>
+         <subfield code="r">P. Huntington and C. Pollitt --</subfield>
+         <subfield code="t">Dietary lipid form and function /</subfield>
+         <subfield code="r">C. E. Dunnett --</subfield>
+         <subfield code="t">glycemic and insulinemic index in horses /</subfield>
+         <subfield code="r">I. Vervuert and M. Coenen --</subfield>
+         <subfield code="t">Does it work? Testing the efficacy of feed supplements /</subfield>
+         <subfield code="r">K. H. McKeever --</subfield>
+         <subfield code="t">Can feed cause a positive blood test in racehorses? Some recent information on the effect of dietary supplements on plasma tCO[subscript 2] concentration in horses /</subfield>
+         <subfield code="r">K. H. McKeever --</subfield>
+         <subfield code="t">Oral joint supplements : panacea or expensive fad? /</subfield>
+         <subfield code="r">S. Duren --</subfield>
+         <subfield code="t">diagnostic potential of equine hair : a comparative review of hair analysis for assessing nutritional status, environmental poisoning, and drug use and abuse /</subfield>
+         <subfield code="r">M. Dunnett --</subfield>
+         <subfield code="t">Feeding management of horses under stressful conditions /</subfield>
+         <subfield code="r">J. D. Pagan --</subfield>
+         <subfield code="t">ounce of prevention : feeding management to minimize colic /</subfield>
+         <subfield code="r">K. Purcell --</subfield>
+         <subfield code="t">Bag O'Bones : managing the underweight horse /</subfield>
+         <subfield code="r">K. Crandell --</subfield>
+         <subfield code="t">Hidden killers : molds and mycotoxins /</subfield>
+         <subfield code="r">M. Murphy --</subfield>
+         <subfield code="t">Feeding fat to manage muscle disorders /</subfield>
+         <subfield code="r">S. Valberg and E. McKenzie --</subfield>
+         <subfield code="t">Trends in feeding the American endurance horse /</subfield>
+         <subfield code="r">K. Crandell --</subfield>
+         <subfield code="t">Sport horse nutrition -- an Australian perspective /</subfield>
+         <subfield code="r">E. Owens --</subfield>
+         <subfield code="t">Nutritional management of mares -- the foundation of a strong skeleton /</subfield>
+         <subfield code="r">P. J. Huntington, E. Owens, K. Crandell and J. D. Pagan --</subfield>
+         <subfield code="t">Effects of exercise and training on skeletal development in horses /</subfield>
+         <subfield code="r">L. A. Lawrence --</subfield>
+         <subfield code="t">Feeding more and getting less : effects of high grain intakes on digestive capacity and gastrointestinal health of performance horses /</subfield>
+         <subfield code="r">L. M. Lawrence --</subfield>
+         <subfield code="t">Exercise and immune function : nutritional influences /</subfield>
+         <subfield code="r">D. Nieman --</subfield>
+         <subfield code="t">Use of non-starch carbohydrate energy sources in performance horse feeds /</subfield>
+         <subfield code="r">J. E. Lindberg</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="t">Exercise and stress -- impact on adaptive processes involving water and electrolytes /</subfield>
+         <subfield code="r">M. Coenen --</subfield>
+         <subfield code="t">Principles of bone development in horses /</subfield>
+         <subfield code="r">L. A. Lawrence --</subfield>
+         <subfield code="t">Methods of assessing bone growth and development in young horses /</subfield>
+         <subfield code="r">E. C. Firth --</subfield>
+         <subfield code="t">Nutritional assessment of weanlings and yearlings /</subfield>
+         <subfield code="r">L. A. Lawrence --</subfield>
+         <subfield code="t">Managing growth for different commercial end points /</subfield>
+         <subfield code="r">J. D. Pagan --</subfield>
+         <subfield code="t">Conformation and soundness /</subfield>
+         <subfield code="r">C. W. McIlwraith --</subfield>
+         <subfield code="t">prevalence of radiographic changes in thoroughbred yearlings and the effect of those changes on future racing performance /</subfield>
+         <subfield code="r">C. W. McIlwraith --</subfield>
+         <subfield code="t">Incidence of radiographic changes in thoroughbred yearlings. 755 cases /</subfield>
+         <subfield code="r">N. J. Scott, S. Hance, P. Todhunter, P. Adams and A. Adkins --</subfield>
+         <subfield code="t">effect of growth promotants in young growing horses /</subfield>
+         <subfield code="r">A. Dart --</subfield>
+         <subfield code="t">Nutritional challenges of feeding the two-year-old /</subfield>
+         <subfield code="r">J. D. Pagan --</subfield>
+         <subfield code="t">Overview of bone disease /</subfield>
+         <subfield code="r">C. W. McIlwraith --</subfield>
+         <subfield code="t">Advanced techniques in the diagnosis of bone disease /</subfield>
+         <subfield code="r">C. W. McIlwraith --</subfield>
+         <subfield code="t">Surgical and medical management of osteochondritis dissecans (OCD) /</subfield>
+         <subfield code="r">C. W. McIlwraith --</subfield>
+         <subfield code="t">Recent advances in osteochondrosis research /</subfield>
+         <subfield code="r">E. C. Firth --</subfield>
+         <subfield code="t">role of nutrition in the management of developmental orthopedic disease /</subfield>
+         <subfield code="r">J. D. Pagan --</subfield>
+         <subfield code="t">relationship between glycemic response and the incidence of OCD in thoroughbred weanlings : a field study /</subfield>
+         <subfield code="r">J. D. Pagan --</subfield>
+         <subfield code="t">Laminitis : causes and cures /</subfield>
+         <subfield code="r">R. Redden --</subfield>
+         <subfield code="t">Cushing's disease and other problems of the older horse /</subfield>
+         <subfield code="r">R. Geor --</subfield>
+         <subfield code="t">Losing control : nutrition-related diseases of the central nervous system /</subfield>
+         <subfield code="r">J. H. Foreman --</subfield>
+         <subfield code="t">Muscle disorders : untying the knots through nutrition /</subfield>
+         <subfield code="r">S. J. Valberg, R. Geor and J. D. Pagan --</subfield>
+         <subfield code="t">Chronic respiratory disease : is there a nutrition link? /</subfield>
+         <subfield code="r">R. Geor --</subfield>
+         <subfield code="t">Chemical arthrodesis of the distal tarsal joints using sodium monoiodoacetate in 104 horses /</subfield>
+         <subfield code="r">B. Dowling and A. J. Dart.</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses</subfield>
+         <subfield code="x">Feeding and feeds</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses</subfield>
+         <subfield code="x">Nutrition</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="7">
+         <subfield code="a">Conference papers and proceedings.</subfield>
+         <subfield code="2">fast</subfield>
+         <subfield code="0">(OCoLC)fst01423772</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Pagan, Joe D.</subfield>
+      </datafield>
+      <datafield tag="710" ind1="2" ind2=" ">
+         <subfield code="a">Kentucky Equine Research.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/nb2005020601</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">20060123</subfield>
+         <subfield code="b">20060202</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker &amp; Taylor</subfield>
+         <subfield code="b">BKTY</subfield>
+         <subfield code="c">130.00</subfield>
+         <subfield code="d">130.00</subfield>
+         <subfield code="i">1904761283</subfield>
+         <subfield code="n">0007158576</subfield>
+         <subfield code="s">active</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">YBP Library Services</subfield>
+         <subfield code="b">YANK</subfield>
+         <subfield code="n">100378960</subfield>
+      </datafield>
+      <datafield tag="945" ind1=" " ind2=" ">
+         <subfield code="d">ryounger</subfield>
+         <subfield code="e">2006/01/23</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Non-US</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

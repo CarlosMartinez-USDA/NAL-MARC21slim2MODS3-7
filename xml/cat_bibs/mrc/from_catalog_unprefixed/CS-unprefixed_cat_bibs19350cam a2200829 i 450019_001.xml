@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>19350cam a2200829 i 4500</leader>
+      <controlfield tag="001">9915455102507426</controlfield>
+      <controlfield tag="005">20221102013107.0</controlfield>
+      <controlfield tag="008">940126s1994    nyua     b    101 0 eng  </controlfield>
+      <datafield tag="010" ind1=" " ind2=" ">
+         <subfield code="a">   94002222 </subfield>
+      </datafield>
+      <datafield tag="015" ind1=" " ind2=" ">
+         <subfield code="a">GB9436834</subfield>
+         <subfield code="2">bnb</subfield>
+      </datafield>
+      <datafield tag="015" ind1=" " ind2=" ">
+         <subfield code="a">GB94-36834</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT10664801</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">9419706</subfield>
+         <subfield code="2">DNLM</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">007069499</subfield>
+         <subfield code="2">Uk</subfield>
+      </datafield>
+      <datafield tag="019" ind1=" " ind2=" ">
+         <subfield code="a">30547324</subfield>
+         <subfield code="a">1166987791</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">0306446766</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9780306446764</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">611305</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)29845531</subfield>
+         <subfield code="z">(OCoLC)30547324</subfield>
+         <subfield code="z">(OCoLC)1166987791</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)611305-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="z">(OCoLC)30547324</subfield>
+         <subfield code="z">(OCoLC)1166987791</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">DNLM/DLC</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="e">rda</subfield>
+         <subfield code="c">DLC</subfield>
+         <subfield code="d">DAY</subfield>
+         <subfield code="d">AGL</subfield>
+         <subfield code="d">NLM</subfield>
+         <subfield code="d">UKM</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">BAKER</subfield>
+         <subfield code="d">NLGGC</subfield>
+         <subfield code="d">BTCTA</subfield>
+         <subfield code="d">LVB</subfield>
+         <subfield code="d">YDXCP</subfield>
+         <subfield code="d">ZWZ</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">UKMGB</subfield>
+         <subfield code="d">BDX</subfield>
+         <subfield code="d">WUM</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">TMC</subfield>
+         <subfield code="d">AU@</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCA</subfield>
+         <subfield code="d">L2U</subfield>
+         <subfield code="d">LUN</subfield>
+         <subfield code="d">KGN</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="050" ind1="0" ind2="0">
+         <subfield code="a">QP188.T4</subfield>
+         <subfield code="b">L33 1994</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">QP901.A33</subfield>
+         <subfield code="b">v.350</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">X380</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">X300</subfield>
+      </datafield>
+      <datafield tag="245" ind1="0" ind2="0">
+         <subfield code="a">Lacrimal gland, tear film, and dry eye syndromes :</subfield>
+         <subfield code="b">basic science and clinical relevance /</subfield>
+         <subfield code="c">edited by David A. Sullivan ; associate editors, B. Britt Bomberg, Michele M. Cripps ; assistant editors, Darlene A. Dartt [and others].</subfield>
+      </datafield>
+      <datafield tag="264" ind1=" " ind2="1">
+         <subfield code="a">New York :</subfield>
+         <subfield code="b">Plenum Press,</subfield>
+         <subfield code="c">©1994.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">xxii, 729 pages :</subfield>
+         <subfield code="b">illustrations (some color) ;</subfield>
+         <subfield code="c">26 cm.</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="490" ind1="1" ind2=" ">
+         <subfield code="a">Advances in experimental medicine and biology ;</subfield>
+         <subfield code="v">v. 350</subfield>
+      </datafield>
+      <datafield tag="490" ind1="1" ind2=" ">
+         <subfield code="a">The Language of science</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes bibliographical references and index.</subfield>
+      </datafield>
+      <datafield tag="520" ind1=" " ind2=" ">
+         <subfield code="a">This book is the proceedings of an antimicrobial symposium in November 1991 in Philadelphia. It focuses on methods and issues of in vitro testing in 17 chapters authored by laboratory scientists and representatives from industry. The purpose is to review antimicrobial susceptibility testing methods and issues important to clinical microbiologists in the 1990s. Because of increasing antimicrobial resistance and the changing health care climate, these topics are extremely important. Although not all viewpoints are represented equally, the range of issues covered is comprehensive. This book is best suited for clinical microbiologists and industry representatives, but government regulators, educators, and infectious disease clinicians also will benefit from its contents. Chapters are authored by recognized authorities. The illustrations represent data offered in oral presentations as projected slides. Each chapter is referenced, some voluminously and others offering only suggested readings. Especially useful topics are historical perspectives of antimicrobial testing, discussions of testing methods and interpretive problems, when and what to test, nontraditional approaches to quality control, and controversial issues resulting from health care changes of the 1990s. This is an excellent review and discussion of in vitro antimicrobial testing methods and controversial issues. Original data and data from the literature are used. Although it is slightly outdated, the proceedings occurred in 1991, and some chapters are sparsely referenced, it is an important resource for clinical microbiologists, university medical libraries, and those in industries related to antimicrobials andantimicrobial testing.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="t">Regulation of Tear Secretion /</subfield>
+         <subfield code="r">D. A. Dartt --</subfield>
+         <subfield code="t">Anatomy and Innervation of Lacrimal Glands /</subfield>
+         <subfield code="r">B. Walcott, R. H. Cameron and P. R. Brink --</subfield>
+         <subfield code="t">Light and Electron Microscopic Morphology of Accessory Lacrimal Glands /</subfield>
+         <subfield code="r">P. Seifert, M. Spitznas, F. Koch and A. Cusumano --</subfield>
+         <subfield code="t">Immunohistochemistry and Protein Secretion in the Rat Lacrimal Gland: A Morphophysiological Study /</subfield>
+         <subfield code="r">J. Singh, E. Adeghate, S. Burrows, F. C. Howarth and R. M. Williams --</subfield>
+         <subfield code="t">Carbonic Anhydrase and Acinar Cell Heterogeneity in Rat and Rabbit Lacrimal Glands /</subfield>
+         <subfield code="r">B. B. Bromberg, C. W. Hanemann, M. H. Welch, R. W. Beuerman and S. Githens --</subfield>
+         <subfield code="t">Basement Membrane Modulation of Stimulated Secretion by Lacrimal Acinar Cells /</subfield>
+         <subfield code="r">G. W. Laurie, J. D. Glass and R. A. Ogle --</subfield>
+         <subfield code="t">Galactose-Binding Sites in the Acinar Cells of the Human Accessory Lacrimal Gland /</subfield>
+         <subfield code="r">W. Breipohl, M. Spitznas, F. Sinowatz, O. Leip, W. Naib-Majani and A. Cusumano --</subfield>
+         <subfield code="t">Thoughts on the Ductules of the Aging Human Lacrimal Gland /</subfield>
+         <subfield code="r">O. G. Stasior and J. L. Roen --</subfield>
+         <subfield code="t">Parenchyma Accompanying Major Extraglandular Ducts within the Rat Lacrimal Cord /</subfield>
+         <subfield code="r">M. Lorber --</subfield>
+         <subfield code="t">Protein Secretion and the Identification of Neurotransmitters in the Isolated Pig Lacrimal Gland /</subfield>
+         <subfield code="r">J. Singh, E. Adeghate, S. Burrows, F. C. Howarth and T. Donath --</subfield>
+         <subfield code="t">Anti-Muscarinic Acetylcholine Receptor-Like Immunoreactivity in Lacrimal Glands /</subfield>
+         <subfield code="r">B. Walcott, R. Cameron, E. Grine, E. Roemer, M. Pastor and P. R. Brink --</subfield>
+         <subfield code="t">Innervation and Mast Cells of the Rat Lacrimal Gland: The Effects of Age /</subfield>
+         <subfield code="r">R. M. Williams, J. Singh and K. A. Sharkey --</subfield>
+         <subfield code="t">Immunogold Localization of Prolactin in Acinar Cells of Lacrimal Gland /</subfield>
+         <subfield code="r">R. L. Wood, K.-H. Park, J. P. Gierow and A. K. Mircheff --</subfield>
+         <subfield code="t">Subcellular Organization of Ion Transporters in Lacrimal Acinar Cells: Secretagogue-Induced Dynamics /</subfield>
+         <subfield code="r">A. K. Mircheff, Ross W. Lambert, Robert W. Lambert, C. A. Maves, J. P. Gierow and R. L. Wood</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="t">Effect of Acetylcholine on the Membrane Conductance of the Intralobular Duct Cells of the Rat Exorbital Lacrimal Gland /</subfield>
+         <subfield code="r">Y. Saito and S. Kuwahara --</subfield>
+         <subfield code="t">Circadian Rhythm of Lacrimal Secretion and Its Parameters, Determined in a Group of Healthy Individuals, and Its Potential Diagnostic and Therapeutic Significance /</subfield>
+         <subfield code="r">A. Romano, A. Peisich and B. Madjarov --</subfield>
+         <subfield code="t">Effects of Dihydrotestosterone and Prolactin on Lacrimal Gland Function /</subfield>
+         <subfield code="r">D. W. Warren, A. M. Azzarolo, L. Becker, K. Bjerrum, R. L. Kaswan and A. K. Mircheff --</subfield>
+         <subfield code="t">Na:H Exchanger Subtype Mediates Volume Regulation in Bovine Corneal Epithelial Cells /</subfield>
+         <subfield code="r">P. Reinach, V. Ganapathy and V. Torres-Zamorano --</subfield>
+         <subfield code="t">Endocytosis and Exocytosis in Rabbit Lacrimal Gland Acinar Cells /</subfield>
+         <subfield code="r">J. P. Gierow, R. L. Wood and A. K. Mircheff --</subfield>
+         <subfield code="t">Inositol Phosphate-Calcium Signalling System in Lacrimal Gland Cells /</subfield>
+         <subfield code="r">J. W. Putney, Jr. and G. St. J. Bird --</subfield>
+         <subfield code="t">Characterization of Rat Lacrimal Gland Protein Kinase C: Effects of Phorbol Esters and PKC Inhibitors on Histone Kinase Activity and Labelled Protein Discharge /</subfield>
+         <subfield code="r">D. Zoukhri, P. Mauduit and B. Rossignol --</subfield>
+         <subfield code="t">Inhibition of Lacrimal Function by Selective Opiate Agonists /</subfield>
+         <subfield code="r">M. M. Cripps and D. J. Bennett --</subfield>
+         <subfield code="t">Second Messenger Modulation of IgG Secretion from Chicken Lacrimal Gland /</subfield>
+         <subfield code="r">R. H. Cameron, B. Walcott, S. F. Fan, M. Pastor, E. Roemer, E. Grine and P. R. Brink --</subfield>
+         <subfield code="t">Identification of Sigma Receptors in Lacrimocytes and Their Therapeutic Implication in Dry Eye Syndrome /</subfield>
+         <subfield code="r">R. D. Schoenwald, C. F. Barfknecht, S. Shirolkar, E. Xia and C. C. Ignace --</subfield>
+         <subfield code="t">Role of Protein Kinase C in [alpha][subscript 1]-Adrenergic and Cholinergic Agonist Stimulated Protein Secretion /</subfield>
+         <subfield code="r">R. R. Hodges, D. M. Dicker and D. A. Dartt --</subfield>
+         <subfield code="t">Role of Membrane Channels in IgG Secretion by Plasma Cells in the Chicken Lacrimal Gland /</subfield>
+         <subfield code="r">P. R. Brink, B. Walcott, E. Roemer, R. Cameron and M. Pastor</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="t">Binding Characteristics, Immunocytochemical Location and Hormonal Regulation of Androgen Receptors in Lacrimal Tissue /</subfield>
+         <subfield code="r">F. J. Rocha, R. S. Kelleher, J. A. Edwards, J. D. O. Pena, M. Ono and D. A. Sullivan --</subfield>
+         <subfield code="t">Regulation of Lacrimal Gland Immune Responses /</subfield>
+         <subfield code="r">P. C. Montgomery, N. L. O'Sullivan, L. B. Martin, C. A. Skandera, J. V. Peppard and A. G. Pockley --</subfield>
+         <subfield code="t">Lacrimal Antibody Response to Viral and Chlamydial Infections /</subfield>
+         <subfield code="r">M. G. Friedman --</subfield>
+         <subfield code="t">Neural-Endocrine Control of Secretory Component Synthesis by Lacrimal Gland Acinar Cells: Specificity, Temporal Characteristics and Molecular Basis /</subfield>
+         <subfield code="r">R. W. Lambert, R. S. Kelleher, L. A. Wickham, J. Gao and D. A. Sullivan --</subfield>
+         <subfield code="t">Lymphocyte Adhesive Interaction with Lacrimal Gland Acinar Epithelium Involves Carbohydrate Recognition /</subfield>
+         <subfield code="r">N. L. O'Sullivan, R. Raja and P. C. Montgomery --</subfield>
+         <subfield code="t">Subclass Expression of IgA in Lacrimal Glands of Patients with Sjogren's Syndrome /</subfield>
+         <subfield code="r">M. Ono, K. Yoshino, K. Tsubota and I. Saito -- ^</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="t">Composition and Biophysical Properties of the Tear Film: Knowledge and Uncertainty /</subfield>
+         <subfield code="r">J. M. Tiffany --</subfield>
+         <subfield code="t">Structure and Function of the Tear Film /</subfield>
+         <subfield code="r">P. N. Dilly --</subfield>
+         <subfield code="t">Ocular Surface Changes Induced by Repeated Impression Cytology /</subfield>
+         <subfield code="r">M. Rolando, V. Brezzo and G. Calabria --</subfield>
+         <subfield code="t">Developmental Appearance of a Component of the Glycocalyx of the Ocular Surface Epithelium in the Rat /</subfield>
+         <subfield code="r">H. Watanabe, A. S. Tisdale, S. J. Spurr-Michaud and I. K. Gipson --</subfield>
+         <subfield code="t">Mixing of the Tear Film under the Eyelids /</subfield>
+         <subfield code="r">D. M. Maurice --</subfield>
+         <subfield code="t">Viscoelastic Properties of Human Tears and Polymer Solutions /</subfield>
+         <subfield code="r">J. M. Tiffany --</subfield>
+         <subfield code="t">Effect of Age on Human Tear Film Evaporation in Normals /</subfield>
+         <subfield code="r">A. Tomlinson and C. Giesbrecht --</subfield>
+         <subfield code="t">Advances in Ocular Tribology /</subfield>
+         <subfield code="r">F. J. Holly and T. F. Holly --</subfield>
+         <subfield code="t">Effect of Systemic Ingestion of Vitamin and Trace Element Dietary Supplements on the Stability of the Pre-Corneal Tear Film in Normal Subjects /</subfield>
+         <subfield code="r">S. Patel, C. Ferrier and J. Plaskow -- ^</subfield>
+         <subfield code="t">Patterns of Cytokeratin Expression in Impression Cytology Specimens from Normal Human Conjunctival Epithelium /</subfield>
+         <subfield code="r">K. L. Krenzer and T. F. Freddo --</subfield>
+         <subfield code="t">Increase in Tear Film Lipid Layer Thickness Following Treatment of Meibomian Gland Dysfunction /</subfield>
+         <subfield code="r">D. R. Korb and J. V. Greiner --</subfield>
+         <subfield code="t">Analysis and Function of the Human Tear Proteins /</subfield>
+         <subfield code="r">A. Kijlstra and A. Kuizenga --</subfield>
+         <subfield code="t">Tear Protein Composition and the Effects of Stimulus /</subfield>
+         <subfield code="r">R. J. Fullard and D. Tucker --</subfield>
+         <subfield code="t">Growth Factors in Human Tear Fluid and in Lacrimal Glands /</subfield>
+         <subfield code="r">G.-B. van Setten, G. S. Schultz and S. Macauley --</subfield>
+         <subfield code="t">Re-Examination of the Origin of Human Tear LDH /</subfield>
+         <subfield code="r">T. Tsubai and M. Murai --</subfield>
+         <subfield code="t">Tear Proteins and Enzymes in the Chimpanzee /</subfield>
+         <subfield code="r">N. J. van Haeringen, V. M. W. Bodelier and P. S. J. Klaver --</subfield>
+         <subfield code="t">Comparisons of Tear Proteins in the Cow, Horse, Dog and Rabbit /</subfield>
+         <subfield code="r">H. J. Davidson, G. L. Blanchard and P. C. Montgomery -- ^</subfield>
+         <subfield code="t">Tear Protein G Originates from Denatured Tear Specific Prealbumin as Revealed by Anti-TSP Antibody /</subfield>
+         <subfield code="r">J. Baguet, V. Claudon-Eyl and A. M. Gachon</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="t">Tear Lactoferrin Levels and Ocular Bacterial Flora in HIV Positive Patients /</subfield>
+         <subfield code="r">S. E. Comerie-Smith, J. Nunez, M. Hosmer and R. L. Farris --</subfield>
+         <subfield code="t">Vitronectin in Human Tears -- Protection Against Closed Eye Induced Inflammatory Damage /</subfield>
+         <subfield code="r">R. A. Sack, A. Underwood, K. O. Tan and C. Morris --</subfield>
+         <subfield code="t">Mucopolysaccharide Degrading Enzymes (MPDE) in the Tear Fluid: A New Diagnostic Test for Rapid Detection of Acute Ocular Infections /</subfield>
+         <subfield code="r">A. Romano --</subfield>
+         <subfield code="t">Tear Immunoglobulins and Lysozyme Levels in Corneal Ulcers /</subfield>
+         <subfield code="r">H. Lal and A. K. Khurana --</subfield>
+         <subfield code="t">Mucus and Pseudomonas aeruginosa Adherence to the Cornea /</subfield>
+         <subfield code="r">S. M. J. Fleiszig, T. S. Zaidi and G. B. Pier --</subfield>
+         <subfield code="t">Measurement of Human Tear Lysozyme Using a Novel Synthetic Substrate /</subfield>
+         <subfield code="r">M. D. Sherman, V. Cevallos, R. Gabriel, C. Dawson and R. S. Stephens --</subfield>
+         <subfield code="t">Retrospective Use of Frozen Schirmer Strips for the Measurement of Tear Lysozyme /</subfield>
+         <subfield code="r">M. D. Sherman, J. P. Whitcher and T. E. Daniels --</subfield>
+         <subfield code="t">Rapid Measurement of Selected Tear Proteins in Health and Disease Using the Touch Tear Microassay System /</subfield>
+         <subfield code="r">G. N. Foulks, K. Baratz and P. Ferrone --</subfield>
+         <subfield code="t">Tear Film: Pharmacological Approaches and Effects /</subfield>
+         <subfield code="r">J. P. Gilbard --</subfield>
+         <subfield code="t">Influence of Various Pharmaceutical Agents on Tear Flow as Assessed by Fluorophotometry /</subfield>
+         <subfield code="r">M. J. Gobbels and M. Spitznas --</subfield>
+         <subfield code="t">Neural Stimulation of Conjunctival Goblet Cell Mucous Secretion in Rats /</subfield>
+         <subfield code="r">T. L. Kessler and D. A. Dartt --</subfield>
+         <subfield code="t">Bioavailability of Prednisolone in Rabbits: Comparison of a High-Viscosity Gel and an Aqueous Suspension -- Single- and Repeated Applications /</subfield>
+         <subfield code="r">S. Johansen, E. Rask-Pedersen and J. U. Prause --</subfield>
+         <subfield code="t">Tear Film -- Contact Lens Interaction /</subfield>
+         <subfield code="r">D. R. Korb --</subfield>
+         <subfield code="t">Electrophoretic Patterns of Human Denatured Tear Proteins and Glycoproteins from Normal Subjects and Soft Contact Lens Wearers /</subfield>
+         <subfield code="r">V. Claudon-Eyl and J. Baguet --</subfield>
+         <subfield code="t">Refractive Index of Tears in Normals and Soft Lens Wearers /</subfield>
+         <subfield code="r">S. Patel, L. Anderson and K. Cairney</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="t">Role of Tear Deposits on Hydrogel Contact Lenses Induced Bacterial Keratitis: Pseudomonas aeruginosa Abhesives /</subfield>
+         <subfield code="r">M. Portoles and M. F. Refojo --</subfield>
+         <subfield code="t">Closed-Eye Challenge /</subfield>
+         <subfield code="r">B. A. Holden, K. O. Tan and R. A. Sack --</subfield>
+         <subfield code="t">Dry Eye Therapy: Evaluation of Current Directions and Clinical Trials /</subfield>
+         <subfield code="r">M. B. Abelson and E. Knight --</subfield>
+         <subfield code="t">Artificial Tear Issues /</subfield>
+         <subfield code="r">M. J. Sibley --</subfield>
+         <subfield code="t">Evaluation of Effects of a Physiologic Artificial Tear on the Corneal Epithelial Barrier: Electrical Resistance and Carboxyfluorescein Permeability /</subfield>
+         <subfield code="r">J. L. Ubels, K. K. Williams, D. L. Bernal and H. F. Edelhauser --</subfield>
+         <subfield code="t">Evaluation of a Physiological Tear Substitute in Patients with Keratoconjunctivitis Sicca /</subfield>
+         <subfield code="r">J. D. Nelson, M. M. Drake, J. T. Brewer, Jr. and M. Tuley --</subfield>
+         <subfield code="t">Scanning Electron Micrographic Comparison of the Effects of Two Preservative-Free Artificial Tear Solutions on the Corneal Epithelium as Compared to a Phosphate Buffered Saline and a 0.02% Benzalkonium Chloride Control /</subfield>
+         <subfield code="r">K. Schaefer, M. A. George, M. B. Abelson and C. Garofalo --</subfield>
+         <subfield code="t">Unique Therapeutic Artificial Tear Formulation /</subfield>
+         <subfield code="r">J. P. Gilbard and S. R. Rossi --</subfield>
+         <subfield code="t">Non-Sjogren Dry Eye: Pathogenesis, Diagnosis and Animal Models /</subfield>
+         <subfield code="r">A. J. Bron --</subfield>
+         <subfield code="t">Abnormalities of the Structure of the Superficial Lipid Layer on the In Vivo Dry-Eye Tear Film /</subfield>
+         <subfield code="r">M. G. Doane --</subfield>
+         <subfield code="t">Tear Osmolarity -- a New Gold Standard? /</subfield>
+         <subfield code="r">R. L. Farris --</subfield>
+         <subfield code="t">Micropachometric Differentiation of Dry Eye Syndromes /</subfield>
+         <subfield code="r">H. W. Roth and D. L. MacKeen --</subfield>
+         <subfield code="t">Decreased Tear Secretion in Chernobyl Children: External Eye Disorders in Children Subjected to Long-Term Low-Dose Radiation /</subfield>
+         <subfield code="r">D. Gamus, Z. Weschler, S. Greenberg and A. Romano --</subfield>
+         <subfield code="t">Lacrimal Dysfunction in Pediatric Acquired Immunodeficiency Syndrome /</subfield>
+         <subfield code="r">R. A. Neves, D. de Freitas, E. Sato, C. Oliveira and R. Belfort, Jr. --</subfield>
+         <subfield code="t">Keratoconjunctivitis Sicca in HIV-1 Infected Female Patients /</subfield>
+         <subfield code="r">J. A. Lucca, J. S. Kung and R. L. Farris</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="t">Increase of the Blink Interval in Ophthalmic Procedures /</subfield>
+         <subfield code="r">H. Takano, E. Takamura, K. Yoshino and K. Tsubota --</subfield>
+         <subfield code="t">Changes in Tear Ion Concentrations in Dry-Eye Disorders /</subfield>
+         <subfield code="r">J. P. Gilbard and S. R. Rossi --</subfield>
+         <subfield code="t">Quantitative Cellular Evaluation of Conjunctival Squamous Metaplasia in the Dry Eye Patient /</subfield>
+         <subfield code="r">E. Takamura, H. Takano, K. Yoshino, K. Negoro, K. Tsubota and T. Kobayashi --</subfield>
+         <subfield code="t">Topical Anesthetic Induced Pain as a Diagnostic Tool for Keratoconjunctivitis Sicca (KCS) /</subfield>
+         <subfield code="r">H. H. Stolze, A. Volprecht and U. Welter --</subfield>
+         <subfield code="t">Lacrimation Kinetics as Determined by a Schirmer-Type Technique /</subfield>
+         <subfield code="r">F. J. Holly --</subfield>
+         <subfield code="t">Precise Method of Using Rose Bengal in the Evaluation of Dry Eye and the Detection of Changes in Its Severity /</subfield>
+         <subfield code="r">M. A. George, M. B. Abelson, K. Schaefer, M. Mooshian and D. Weintraub --</subfield>
+         <subfield code="t">Dry Eye Syndromes: Treatment and Clinical Trials /</subfield>
+         <subfield code="r">M. A. Lemp --</subfield>
+         <subfield code="t">Keratoprosthesis in End-Stage Dry Eye /</subfield>
+         <subfield code="r">C. H. Dohlman and M. Doane --</subfield>
+         <subfield code="t">Amylase in Mare Lacrimale in Patients with Submandibular Salivary Gland Transplantation to the Lacrimal Basin /</subfield>
+         <subfield code="r">J. Murube, M. G. Marcos and R. Javate --</subfield>
+         <subfield code="t">Subjective Approach to the Treatment of Dry Eye Syndrome /</subfield>
+         <subfield code="r">R. S. Herrick --</subfield>
+         <subfield code="t">Simulation of Lacrimal Gland Output: a Tear Jet for Replacing Eye Moisture in Sjogren's Syndrome /</subfield>
+         <subfield code="r">J. H. Bertera --</subfield>
+         <subfield code="t">Characteristics of a Canine Model of KCS: Effective Treatment with Topical Cyclosporine /</subfield>
+         <subfield code="r">R. L. Kaswan --</subfield>
+         <subfield code="t">Treatment of Severe Eye Dryness and Problematic Eye Lesions with Enriched Bovine Colostrum Lactoserum /</subfield>
+         <subfield code="r">C. Chaumeil, S. Liotet and O. Kogbe --</subfield>
+         <subfield code="t">Efficiency of Short-Wave Diathermy and Laser Stimulation of the Lacrimal Gland in the Treatment of Dry Eye Syndrome /</subfield>
+         <subfield code="r">T. Kecik, I. Switka-Wieclawska, L. Portacha and J. Ciszewska --</subfield>
+         <subfield code="t">Effect of Collagen Punctal Occlusion on Tear Stability and Volume /</subfield>
+         <subfield code="r">S. Patel and D. Grierson --</subfield>
+         <subfield code="t">Sjogren's Syndrome: Immunologic and Neuroendocrine Mechanisms /</subfield>
+         <subfield code="r">R. I. Fox and I. Saito</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="t">Murine Models of Sjogren's Syndrome /</subfield>
+         <subfield code="r">D. A. Jabs and R. A. Prendergast --</subfield>
+         <subfield code="t">Utilization of the Non-Obese Diabetic (NOD) Mouse as an Animal Model for the Study of Secondary Sjogren's Syndrome /</subfield>
+         <subfield code="r">M. G. Humphreys-Beher, Y. Hu, Y. Nakagawa, P.-L. Wang and K. R. Purushotham --</subfield>
+         <subfield code="t">Expression of Granzyme A and Perforin in Lacrimal Gland of Sjogren's Syndrome /</subfield>
+         <subfield code="r">K. Tsubota, I. Saito and N. Miyasaka --</subfield>
+         <subfield code="t">Epstein-Barr Virus and the Lacrimal Gland Pathology of Sjogren's Syndrome /</subfield>
+         <subfield code="r">S. C. Pflugfelder, C. A. Crouse and S. S. Atherton --</subfield>
+         <subfield code="t">Sjogren's Syndrome (SS) and Epstein-Barr Virus (EBV) Reactivation /</subfield>
+         <subfield code="r">I. Toda, M. Ono, H. Fujishima and K. Tsubota --</subfield>
+         <subfield code="t">Hypothesis for Autoantigen Presentation and T Cell Activation /</subfield>
+         <subfield code="r">A. K. Mircheff, J. P. Gierow, R. L. Wood, R. H. Akashi and F. M. Hofman --</subfield>
+         <subfield code="t">Gingival Impression: A New Biological Test for Xerostomia in Diagnosis of Sjogren's Syndrome /</subfield>
+         <subfield code="r">S. Liotet, M. J. Wattiaux and Y. Morin --</subfield>
+         <subfield code="t">Sjogren's Syndrome Diagnosis: A Comparison of Conjunctival and Gingival Impressions and Salivary Gland Biopsy /</subfield>
+         <subfield code="r">S. Liotet, O. Kogbe and M. J. Wattiaux --</subfield>
+         <subfield code="t">Correlation of Labial Salivary Gland Biopsies with Ocular and Oral Findings in Patients with Sjogren's Syndrome /</subfield>
+         <subfield code="r">J. P. Whitcher, T. E. Daniels and M. D. Sherman --</subfield>
+         <subfield code="t">Comparative Study Between Tear Protein Electrophoresis and Accessory Salivary Gland Biopsy in Sjogren's Syndrome /</subfield>
+         <subfield code="r">F. Carre, S. Liotet and M. J. Wattiaux --</subfield>
+         <subfield code="t">Sjogren's Syndrome -- Close to Cause and Cure? /</subfield>
+         <subfield code="r">N. Talal --</subfield>
+         <subfield code="t">Androgen-induced suppression of autoimmune disease in lacrimal glands of mouse models of Sjogren's syndrome /</subfield>
+         <subfield code="r">D. A. Sullivan, H. Ariga, A. C. Vendramini, F. J. Rocha, M. Ono and E. H. Sato --</subfield>
+         <subfield code="t">Effect of Sodium Sucrose-Sulfate on the Ocular Surface of Patients with Keratoconjunctivitis Sicca in Sjogren's Syndrome /</subfield>
+         <subfield code="r">J. U. Prause, K. Bjerrum and S. Johansen</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="t">Comparative Efficacy of Androgen Analogues in Suppressing Lacrimal Gland Inflammation in a Mouse Model (MRL/lpr) of Sjogren's Syndrome /</subfield>
+         <subfield code="r">F. J. Rocha, E. H. Sato, B. D. Sullivan and D. A. Sullivan --</subfield>
+         <subfield code="t">National Sjogren's Syndrome Association /</subfield>
+         <subfield code="r">B. Latiff --</subfield>
+         <subfield code="t">Sjogren's Syndrome Foundation Inc. /</subfield>
+         <subfield code="r">E. K. Harris --</subfield>
+         <subfield code="t">Advertisement: Lacrimedics, Inc.</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Lacrimal apparatus</subfield>
+         <subfield code="x">Physiology</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Tears</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Dry eye syndromes</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Sjogren's syndrome</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="650" ind1="1" ind2="2">
+         <subfield code="a">Lacrimal Apparatus.</subfield>
+      </datafield>
+      <datafield tag="650" ind1="2" ind2="2">
+         <subfield code="a">Dry Eye Syndromes</subfield>
+         <subfield code="x">diagnosis.</subfield>
+      </datafield>
+      <datafield tag="650" ind1="2" ind2="2">
+         <subfield code="a">Dry Eye Syndromes</subfield>
+         <subfield code="x">therapy.</subfield>
+      </datafield>
+      <datafield tag="650" ind1="2" ind2="2">
+         <subfield code="a">Tears</subfield>
+         <subfield code="x">physiology.</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="2">
+         <subfield code="a">Congress.</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="7">
+         <subfield code="a">Conference papers and proceedings.</subfield>
+         <subfield code="2">fast</subfield>
+         <subfield code="0">(OCoLC)fst01423772</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="7">
+         <subfield code="a">Congresses (form)</subfield>
+         <subfield code="0">(NL-LeOCL)088142469</subfield>
+         <subfield code="2">gtt</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="7">
+         <subfield code="a">Conference papers and proceedings.</subfield>
+         <subfield code="2">lcgft</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/genreForms/gf2014026068</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Sullivan, David A.</subfield>
+      </datafield>
+      <datafield tag="711" ind1="2" ind2=" ">
+         <subfield code="a">International Conference on the Lacrimal Gland, Tear Film, and Dry Eye Syndromes: Basic Science and Clinical Relevance</subfield>
+         <subfield code="d">(1992 :</subfield>
+         <subfield code="c">Southampton, Bermuda Islands)</subfield>
+      </datafield>
+      <datafield tag="830" ind1=" " ind2="0">
+         <subfield code="a">Advances in experimental medicine and biology ;</subfield>
+         <subfield code="v">v. 350.</subfield>
+      </datafield>
+      <datafield tag="830" ind1=" " ind2="0">
+         <subfield code="a">Language of science</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">19940720</subfield>
+         <subfield code="b">19940722</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker &amp; Taylor</subfield>
+         <subfield code="b">BKTY</subfield>
+         <subfield code="c">304.00</subfield>
+         <subfield code="d">304.00</subfield>
+         <subfield code="i">0306446766</subfield>
+         <subfield code="n">0002431547</subfield>
+         <subfield code="s">active</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Brodart</subfield>
+         <subfield code="b">BROD</subfield>
+         <subfield code="n">46707506</subfield>
+         <subfield code="c">$145.00</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker and Taylor</subfield>
+         <subfield code="b">BTCP</subfield>
+         <subfield code="n">94002222</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">YBP Library Services</subfield>
+         <subfield code="b">YANK</subfield>
+         <subfield code="n">171230</subfield>
+      </datafield>
+      <datafield tag="945" ind1=" " ind2=" ">
+         <subfield code="d">sp</subfield>
+         <subfield code="e">94/06/23</subfield>
+         <subfield code="f">sp</subfield>
+         <subfield code="g">94/06/23</subfield>
+         <subfield code="n">1</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Other US</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

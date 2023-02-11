@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+    <marc:leader>03510nab a2200613 u 4500</marc:leader>
+    <marc:controlfield tag="001">9916288966107426</marc:controlfield>
+    <marc:controlfield tag="005">20221118121758.0</marc:controlfield>
+    <marc:controlfield tag="008">981119e199804 mdu|||||o|||||||||||eng||</marc:controlfield>
+    <marc:datafield tag="016" ind1="7" ind2=" ">
+        <marc:subfield code="a">IND21811969</marc:subfield>
+        <marc:subfield code="2">DNAL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="024" ind1="7" ind2=" ">
+        <marc:subfield code="a">10.1093/ee/27.2.355</marc:subfield>
+        <marc:subfield code="2">doi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+        <marc:subfield code="a">agid:1408166-01nal_inst</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+        <marc:subfield code="a">AGL</marc:subfield>
+        <marc:subfield code="b">eng</marc:subfield>
+        <marc:subfield code="c">AGL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+        <marc:subfield code="a">McCravy, K.W.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+        <marc:subfield code="a">Parasitism by Trichogramma spp. (Hymenoptera: Trichogrammatidae) in
+            relation to Nantucket pine tip moth (Lepidoptera: Tortricidae) egg density and
+            location</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+        <marc:subfield code="a">p. 355-359.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+        <marc:subfield code="a">2019-12-04</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+        <marc:subfield code="a">Patterns of parasitism by Trichogramma spp. relative to density and
+            location of Nantucket pine tip moth, Rhyacionia frustrana (Comstock), eggs were examined
+            during 1994 in a 13-ha, 2-yr-old Pinus taeda L. plantation in northeastern Georgia. Egg
+            densities were adjusted by temporarily enclosing trees in fine mesh screen cages and
+            introducing different numbers of tip moths. After exposing eggs to naturally occurring
+            parasitoids, all shoots were removed, and eggs were counted and evaluated for
+            parasitism. Tip moth egg densities ranged from 203 to 2,579 per tree for the spring
+            generation, and from 1 to 89 per tree for the summer generation. Tip moths deposited
+            significantly greater numbers of eggs on needles than shoots on high- versus
+            low-egg-density trees. Overall parasitism rates were 37.2 and 43.3% for spring- and
+            summer-generation eggs, respectively. Parasitism was density independent at the
+            whole-tree level in both generations, but spring-generation parasitism was strongly
+            inversely density dependent in the top whorl. Numbers of eggs per needle fascicle ranged
+            from 1 to 15 for spring-generation trees. Actual numbers of parasitized eggs per
+            discovered fascicle (one on which parasitism occurred) increased with egg density, but
+            the percentage of parasitized eggs decreased. Egg density had no effect on fascicle
+            discovery. These factors produced an inversely density-dependent relationship between
+            egg parasitism and density at the fascicle level. Eggs located on shoots suffered
+            significantly greater parasitism rates than those on needles. Implications of these
+            results are discussed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="593" ind1=" " ind2=" ">
+        <marc:subfield code="a">PubAg article</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="3">
+        <marc:subfield code="a">parasitism</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="3">
+        <marc:subfield code="a">parasitoids</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="3">
+        <marc:subfield code="a">Rhyacionia frustrana</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="3">
+        <marc:subfield code="a">ova</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="3">
+        <marc:subfield code="a">spatial distribution</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="3">
+        <marc:subfield code="a">host-parasite relationships</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="3">
+        <marc:subfield code="a">conifer needles</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="3">
+        <marc:subfield code="a">seasonal variation</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="3">
+        <marc:subfield code="a">Pinus taeda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="3">
+        <marc:subfield code="a">density</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="3">
+        <marc:subfield code="a">Trichogramma</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="3">
+        <marc:subfield code="a">shoots</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="3">
+        <marc:subfield code="a">Georgia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2="0">
+        <marc:subfield code="a">parasites</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2="0">
+        <marc:subfield code="a">host location</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2="0">
+        <marc:subfield code="a">parasites of insect pests</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+        <marc:subfield code="a">Berisford, C.W.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="773" ind1="0" ind2=" ">
+        <marc:subfield code="t">Environmental entomology.</marc:subfield>
+        <marc:subfield code="g">1998 Apr., v. 27, no. 2 p.355-359</marc:subfield>
+        <marc:subfield code="x">0046-225X</marc:subfield>
+        <marc:subfield code="7">nnas</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="787" ind1="1" ind2=" ">
+        <marc:subfield code="o">islandora_article_repository</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="787" ind1="1" ind2=" ">
+        <marc:subfield code="o">product_pubag</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="787" ind1="1" ind2=" ">
+        <marc:subfield code="o">(Journal)jnl3243</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+        <marc:subfield code="a">DNAL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+        <marc:subfield code="u">http://dx.doi.org/10.1093/ee/27.2.355</marc:subfield>
+        <marc:subfield code="3">Available from publisher's Web site</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="912" ind1=" " ind2=" ">
+        <marc:subfield code="a">Article</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="914" ind1=" " ind2=" ">
+        <marc:subfield code="a">Journal:jnl3243</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="914" ind1=" " ind2=" ">
+        <marc:subfield code="f">Environ. entomol</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="917" ind1=" " ind2=" ">
+        <marc:subfield code="a">issued</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="930" ind1=" " ind2=" ">
+        <marc:subfield code="a">19990101</marc:subfield>
+        <marc:subfield code="b">19990111</marc:subfield>
+        <marc:subfield code="c">00000000</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="935" ind1=" " ind2=" ">
+        <marc:subfield code="a">IND21811969</marc:subfield>
+        <marc:subfield code="9">ExL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="945" ind1=" " ind2=" ">
+        <marc:subfield code="a">IND</marc:subfield>
+        <marc:subfield code="d">NZM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="946" ind1=" " ind2=" ">
+        <marc:subfield code="a">Other US</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+        <marc:subfield code="a">19990101 19990111 00000000</marc:subfield>
+        <marc:subfield code="b">IND NZM </marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="974" ind1=" " ind2=" ">
+        <marc:subfield code="a">agid:1408166</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="984" ind1=" " ind2=" ">
+        <marc:subfield code="a">2014-12-25</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="985" ind1=" " ind2=" ">
+        <marc:subfield code="a">Converted from MARCXML to MODS version 3.4 using
+            MARC21slim2MODS3-4.xsl (Revision 1.95 2014/04/23)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="986" ind1=" " ind2=" ">
+        <marc:subfield code="a">3315514</marc:subfield>
+    </marc:datafield>
+</marc:record>

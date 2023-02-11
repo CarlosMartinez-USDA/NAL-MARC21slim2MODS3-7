@@ -111,8 +111,7 @@
          <text type="year">1998</text>
          <text type="month">Apr</text>
       </part>
-   </relatedItem>
-   <identifier type="doi">10.1093/ee/27.2.355</identifier>
+   </relatedItem>            bh4rm        <identifier type="doi">10.1093/ee/27.2.355</identifier>
    <identifier type="control">9916288966107426</identifier>
    <identifier type="agricola">IND21811969</identifier>
    <identifier type="local">agid:1408166</identifier>
@@ -126,7 +125,7 @@
       <recordCreationDate encoding="marc">981119</recordCreationDate>
       <recordChangeDate encoding="iso8601">20221118121758.0</recordChangeDate>
       <recordIdentifier>9916288966107426</recordIdentifier>
-      <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:11:14.810068-05:00</recordOrigin>
+      <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-06 11:21:20</recordOrigin>
       <languageOfCataloging>
          <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </languageOfCataloging>

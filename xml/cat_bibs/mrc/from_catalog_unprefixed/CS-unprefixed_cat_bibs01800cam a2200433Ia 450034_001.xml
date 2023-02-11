@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>01800cam a2200433Ia 4500</leader>
+      <controlfield tag="001">9915495039007426</controlfield>
+      <controlfield tag="005">20221102070922.0</controlfield>
+      <controlfield tag="008">970512s1995    acaab         100 0 eng  </controlfield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT10827255</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">795574</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)36864760</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)795574-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">AGL</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">AGL</subfield>
+         <subfield code="d">OCL</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCL</subfield>
+      </datafield>
+      <datafield tag="043" ind1=" " ind2=" ">
+         <subfield code="a">u-at---</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">SF951.W53</subfield>
+         <subfield code="b">1995</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">L830</subfield>
+      </datafield>
+      <datafield tag="100" ind1="1" ind2=" ">
+         <subfield code="a">Wilson, George R.</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="2">
+         <subfield code="a">A report of a workshop &amp; background papers on quarantine processes &amp; the management of horse disease emergencies /</subfield>
+         <subfield code="c">prepared by George R. Wilson.</subfield>
+      </datafield>
+      <datafield tag="246" ind1="3" ind2=" ">
+         <subfield code="a">Report of a workshop and background papers on quarantine processes &amp; the management of horse disease emergencies</subfield>
+      </datafield>
+      <datafield tag="246" ind1="1" ind2="4">
+         <subfield code="a">Quarantine processes &amp; the management of horse disease emergencies</subfield>
+      </datafield>
+      <datafield tag="246" ind1="3" ind2=" ">
+         <subfield code="a">Quarantine processes and the management of horse disease emergencies</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">Canberra, A.C.T. :</subfield>
+         <subfield code="b">ACIL Economics and Policy Pty.,</subfield>
+         <subfield code="c">[1995]</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">82 pages :</subfield>
+         <subfield code="b">illustrations, map ;</subfield>
+         <subfield code="c">30 cm</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses</subfield>
+         <subfield code="x">Diseases</subfield>
+         <subfield code="z">Australia</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses</subfield>
+         <subfield code="x">Infections</subfield>
+         <subfield code="z">Australia</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Quarantine, Veterinary</subfield>
+         <subfield code="z">Australia</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="651" ind1=" " ind2="7">
+         <subfield code="a">Australia.</subfield>
+         <subfield code="2">fast</subfield>
+         <subfield code="0">(OCoLC)fst01204543</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="7">
+         <subfield code="a">Conference papers and proceedings.</subfield>
+         <subfield code="2">fast</subfield>
+         <subfield code="0">(OCoLC)fst01423772</subfield>
+      </datafield>
+      <datafield tag="710" ind1="2" ind2=" ">
+         <subfield code="a">Rural Industries Research and Development Corporation.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/no92025561</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">19970602</subfield>
+         <subfield code="b">19970606</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="945" ind1=" " ind2=" ">
+         <subfield code="d">ARS</subfield>
+         <subfield code="e">97/05/07</subfield>
+         <subfield code="f">CM</subfield>
+         <subfield code="g">97/05/12</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Non-US</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

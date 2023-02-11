@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<collection>
+<collection xmlns="http://www.loc.gov/mods/v3"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
     <record>
         <leader>01596cam a2200433Ia 4500</leader>
         <controlfield tag="001">9915427698807426</controlfield>
@@ -927,7 +929,7 @@
             <subfield code="b">AGL</subfield>
         </datafield>
     </record>
-    <record>
+    <record>                                                           
         <leader>07836cam a22007214a 4500</leader>
         <controlfield tag="001">9915443877507426</controlfield>
         <controlfield tag="005">20221101230546.0</controlfield>

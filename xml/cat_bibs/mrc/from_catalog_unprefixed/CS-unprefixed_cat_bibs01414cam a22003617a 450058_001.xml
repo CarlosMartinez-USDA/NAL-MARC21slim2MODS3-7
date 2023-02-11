@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>01414cam a22003617a 4500</leader>
+      <controlfield tag="001">9915545057107426</controlfield>
+      <controlfield tag="005">20221102210514.0</controlfield>
+      <controlfield tag="008">851115s1984    xx       b    000 0 eng  </controlfield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT85828844</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">304505</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)12797602</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)304505-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">AGL</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">AGL</subfield>
+         <subfield code="d">OCLCQ</subfield>
+      </datafield>
+      <datafield tag="041" ind1="1" ind2=" ">
+         <subfield code="a">eng</subfield>
+         <subfield code="h">fre</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">TRANSL</subfield>
+         <subfield code="b">32117</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">L833</subfield>
+      </datafield>
+      <datafield tag="100" ind1="1" ind2=" ">
+         <subfield code="a">Maurice, Y.</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="0">
+         <subfield code="a">Serological investigation of animal arboviruses in Central Africa (African Horse Sickness, Bluetongue, Wesselsbron disease, Rift Valley Fever) =</subfield>
+         <subfield code="b">Sondages serologiques sur les arboviroses animales en Afrique Centrale (Peste equine, Blue Tongue, Maladie de Wesselsbron, Fievre de la Vallee du Rift /</subfield>
+         <subfield code="c">by Maurice, Y. and A. Provost.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">[Place of publication not identified] :</subfield>
+         <subfield code="b">[publisher not identified],</subfield>
+         <subfield code="c">[1984?]</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">12 leaves ;</subfield>
+         <subfield code="c">28 cm</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes bibliographical references (leaves 10-12).</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="841" ind1=" " ind2=" ">
+         <subfield code="a">x   </subfield>
+         <subfield code="b">8706030u    0   4   uu   1870603</subfield>
+         <subfield code="e">z</subfield>
+      </datafield>
+      <datafield tag="852" ind1=" " ind2=" ">
+         <subfield code="a">DNAL</subfield>
+         <subfield code="i">TRANSL 32117</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1="0" ind2="1">
+         <subfield code="a">00000000</subfield>
+         <subfield code="b">00000000</subfield>
+         <subfield code="c">19851130</subfield>
+         <subfield code="e">1 851130</subfield>
+         <subfield code="f">0 851130</subfield>
+         <subfield code="s">1 851130</subfield>
+      </datafield>
+      <datafield tag="945" ind1=" " ind2=" ">
+         <subfield code="d">JR</subfield>
+         <subfield code="e">85/09/26</subfield>
+         <subfield code="f">JR</subfield>
+         <subfield code="g">85/11/13</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Translation</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

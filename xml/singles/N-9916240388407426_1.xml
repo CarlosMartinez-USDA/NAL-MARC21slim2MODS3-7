@@ -116,6 +116,7 @@
          <title>Environmental entomology</title>
       </titleInfo>
       <identifier type="issn">0046-225X</identifier>
+      <identifier type="local">Journal:jnl3243</identifier>
       <part>
          <detail type="volume">
             <number>33</number>
@@ -134,6 +135,14 @@
          <text type="month">June</text>
       </part>
    </relatedItem>
+   <relatedItem>
+      <originInfo>
+         <edition>0046-225X</edition>
+      </originInfo>
+      <name>
+         <namePart>Journal:jnl3243</namePart>
+      </name>
+   </relatedItem>
    <identifier type="doi">10.1603/0046-225X-33.3.727</identifier>
    <identifier type="control">9916240388407426</identifier>
    <identifier type="agricola">IND43637071</identifier>
@@ -148,7 +157,7 @@
       <recordCreationDate encoding="marc">040804</recordCreationDate>
       <recordChangeDate encoding="iso8601">20221117223015.0</recordChangeDate>
       <recordIdentifier>9916240388407426</recordIdentifier>
-      <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:11:11.440155-05:00</recordOrigin>
+      <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-11 09:53:35</recordOrigin>
       <languageOfCataloging>
          <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </languageOfCataloging>

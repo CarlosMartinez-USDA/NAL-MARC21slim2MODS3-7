@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>01212cam a2200337Ka 4500</leader>
+      <controlfield tag="001">9915467720007426</controlfield>
+      <controlfield tag="005">20221101220852.0</controlfield>
+      <controlfield tag="008">830514s1982       ab         00010 eng d</controlfield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">IND83042946</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">1223043</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)1223043-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">AGL</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2="0">
+         <subfield code="a">F821</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2="0">
+         <subfield code="a">F831</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2="0">
+         <subfield code="a">K001</subfield>
+      </datafield>
+      <datafield tag="100" ind1="1" ind2=" ">
+         <subfield code="a">Dubreuil, S.H.</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="0">
+         <subfield code="a">Bark beetle history and root disease on the Hungry Horse District Flathead National Forest.</subfield>
+      </datafield>
+      <datafield tag="246" ind1="0" ind2=" ">
+         <subfield code="i">Enriched title:</subfield>
+         <subfield code="a">Bark beetle history and root disease on the Hungry Horse District Flathead National Forest [Dendroctonus pseudotsugae, Phaeolus schweinitzii, correlations].</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">11 p.</subfield>
+         <subfield code="b">ill., maps.</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes references.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">Dendroctonus pseudotsugae</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">Phaeolus schweinitzii</subfield>
+      </datafield>
+      <datafield tag="651" ind1=" " ind2="3">
+         <subfield code="a">Montana</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Tunnock, S.</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Dooling, O.J.</subfield>
+      </datafield>
+      <datafield tag="773" ind1="1" ind2=" ">
+         <subfield code="t">Report - USDA Forest Service, Northern Region, State and Private Forestry.</subfield>
+         <subfield code="p">Rep U S Dep Agric For Serv North Reg State Priv For</subfield>
+         <subfield code="g">June 1982. (82-18)</subfield>
+         <subfield code="7">nnas</subfield>
+         <subfield code="9">jnl10098</subfield>
+      </datafield>
+      <datafield tag="852" ind1=" " ind2=" ">
+         <subfield code="a">DNAL</subfield>
+         <subfield code="i">aSD11.U585</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">00000000</subfield>
+         <subfield code="b">19830514</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">USDA</subfield>
+      </datafield>
+   </record>
+</collection>

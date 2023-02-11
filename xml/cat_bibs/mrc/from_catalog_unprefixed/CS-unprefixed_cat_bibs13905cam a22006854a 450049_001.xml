@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>13905cam a22006854a 4500</leader>
+      <controlfield tag="001">9915523515707426</controlfield>
+      <controlfield tag="005">20221102185122.0</controlfield>
+      <controlfield tag="008">100820s2011    mouaf    b    001 0 eng  </controlfield>
+      <datafield tag="010" ind1=" " ind2=" ">
+         <subfield code="a">  2010035776</subfield>
+      </datafield>
+      <datafield tag="015" ind1=" " ind2=" ">
+         <subfield code="a">GBB095678</subfield>
+         <subfield code="2">bnb</subfield>
+      </datafield>
+      <datafield tag="015" ind1=" " ind2=" ">
+         <subfield code="a">GBB807277</subfield>
+         <subfield code="2">bnb</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT31077383</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">101538780</subfield>
+         <subfield code="2">DNLM</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">015623980</subfield>
+         <subfield code="2">Uk</subfield>
+      </datafield>
+      <datafield tag="019" ind1=" " ind2=" ">
+         <subfield code="a">610830099</subfield>
+         <subfield code="a">655663625</subfield>
+         <subfield code="a">1043227979</subfield>
+         <subfield code="a">1058386998</subfield>
+         <subfield code="a">1061326877</subfield>
+         <subfield code="a">1076766246</subfield>
+         <subfield code="a">1090673344</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9781416060697</subfield>
+         <subfield code="q">(hardcover ;</subfield>
+         <subfield code="q">alk. paper)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">1416060693</subfield>
+         <subfield code="q">(hardcover ;</subfield>
+         <subfield code="q">alk. paper)</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">1077383</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)658536645</subfield>
+         <subfield code="z">(OCoLC)610830099</subfield>
+         <subfield code="z">(OCoLC)655663625</subfield>
+         <subfield code="z">(OCoLC)1043227979</subfield>
+         <subfield code="z">(OCoLC)1058386998</subfield>
+         <subfield code="z">(OCoLC)1061326877</subfield>
+         <subfield code="z">(OCoLC)1076766246</subfield>
+         <subfield code="z">(OCoLC)1090673344</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)1077383-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="z">(OCoLC)610830099</subfield>
+         <subfield code="z">(OCoLC)655663625</subfield>
+         <subfield code="z">(OCoLC)1043227979</subfield>
+         <subfield code="z">(OCoLC)1058386998</subfield>
+         <subfield code="z">(OCoLC)1061326877</subfield>
+         <subfield code="z">(OCoLC)1076766246</subfield>
+         <subfield code="z">(OCoLC)1090673344</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">DNLM/DLC</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">DLC</subfield>
+         <subfield code="d">YDX</subfield>
+         <subfield code="d">BTCTA</subfield>
+         <subfield code="d">NLM</subfield>
+         <subfield code="d">YDXCP</subfield>
+         <subfield code="d">U5D</subfield>
+         <subfield code="d">AGL</subfield>
+         <subfield code="d">CDX</subfield>
+         <subfield code="d">IG#</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">UKM</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">AU@</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCA</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">IEUOL</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">CN3GA</subfield>
+      </datafield>
+      <datafield tag="042" ind1=" " ind2=" ">
+         <subfield code="a">pcc</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="050" ind1="1" ind2="0">
+         <subfield code="a">SF959.L25</subfield>
+         <subfield code="b">R67 2011</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">SF959.L25</subfield>
+         <subfield code="b">R67 2011</subfield>
+      </datafield>
+      <datafield tag="245" ind1="0" ind2="0">
+         <subfield code="a">Diagnosis and management of lameness in the horse /</subfield>
+         <subfield code="c">[edited by] Mike W. Ross, Sue J. Dyson.</subfield>
+      </datafield>
+      <datafield tag="250" ind1=" " ind2=" ">
+         <subfield code="a">2nd ed.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">St. Louis, Mo. :</subfield>
+         <subfield code="b">Elsevier/Saunders,</subfield>
+         <subfield code="c">©2011.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">xxii, 1396 pages, 4 unnumbered pages of plates :</subfield>
+         <subfield code="b">illustrations (some color) ;</subfield>
+         <subfield code="c">29 cm</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes bibliographical references and index.</subfield>
+      </datafield>
+      <datafield tag="520" ind1="8" ind2=" ">
+         <subfield code="a">Helping you to apply many different diagnostic tools, this book explores both traditional treatments and alternative therapies for conditions that can cause gait abnormalities in horses. It emphasizes accurate and systematic observation and clinical examination, with descriptions of diagnostic analgesia, radiography and ultrasonography.</subfield>
+      </datafield>
+      <datafield tag="506" ind1=" " ind2=" ">
+         <subfield code="a">Licence conditions preclude Library use of accompanying Website.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="a">Machine generated contents note:</subfield>
+         <subfield code="g">pt. I</subfield>
+         <subfield code="t">DIAGNOSIS OF LAMENESS --</subfield>
+         <subfield code="g">Section 1</subfield>
+         <subfield code="t">Lameness Examination --</subfield>
+         <subfield code="g">1.</subfield>
+         <subfield code="t">Lameness Examination: Historical Perspective /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">2.</subfield>
+         <subfield code="t">Lameness in Horses: Basic Facts Before Starting /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">3.</subfield>
+         <subfield code="t">Anamnesis (History) /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">4.</subfield>
+         <subfield code="t">Conformation and Lameness /</subfield>
+         <subfield code="r">C. Wayne Mcilwraith --</subfield>
+         <subfield code="g">5.</subfield>
+         <subfield code="t">Observation: Symmetry and Posture /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">6.</subfield>
+         <subfield code="t">Palpation /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="t">Churchill Hock Test /</subfield>
+         <subfield code="r">Dan L. Hawkins --</subfield>
+         <subfield code="t">Saphenous Filling Time /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">7.</subfield>
+         <subfield code="t">Movement /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">8.</subfield>
+         <subfield code="t">Manipulation /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">9.</subfield>
+         <subfield code="t">Applied Anatomy of the Musculoskeletal System /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">10.</subfield>
+         <subfield code="t">Diagnostic Analgesia /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">11.</subfield>
+         <subfield code="t">Neurological Examination and Neurological Conditions Causing Gait Deficits /</subfield>
+         <subfield code="r">Jill Beech --</subfield>
+         <subfield code="g">12.</subfield>
+         <subfield code="t">Unexplained Lameness /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">13.</subfield>
+         <subfield code="t">Assessment of Acute-Onset, Severe Lameness /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">14.</subfield>
+         <subfield code="t">Swollen Limb /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">Section 2</subfield>
+         <subfield code="t">Diagnostic Imaging --</subfield>
+         <subfield code="g">15.</subfield>
+         <subfield code="t">Radiography and Radiology /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">16.</subfield>
+         <subfield code="t">Ultrasonographic Evaluation of the Equine Limb: Technique /</subfield>
+         <subfield code="r">Ronald L. Genovese --</subfield>
+         <subfield code="g">17.</subfield>
+         <subfield code="t">Ultrasonographic Examination of Joints /</subfield>
+         <subfield code="r">Jean-Marie Denoix --</subfield>
+         <subfield code="g">18.</subfield>
+         <subfield code="t">Ultrasonography and Orthopedic (Nonarticular) Disease /</subfield>
+         <subfield code="r">Virginia B. Reef --</subfield>
+         <subfield code="g">19.</subfield>
+         <subfield code="t">Nuclear Medicine /</subfield>
+         <subfield code="r">Vivian S. Stacy --</subfield>
+         <subfield code="g">20.</subfield>
+         <subfield code="t">Computed Tomography /</subfield>
+         <subfield code="r">Sarah M. Puchalski --</subfield>
+         <subfield code="g">21.</subfield>
+         <subfield code="t">Magnetic Resonance Imaging /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">22.</subfield>
+         <subfield code="t">Gait Analysis for the Quantification of Lameness /</subfield>
+         <subfield code="r">Kevin G. Keegan --</subfield>
+         <subfield code="g">23.</subfield>
+         <subfield code="t">Arthroscopic Examination /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">24.</subfield>
+         <subfield code="t">Tenoscopy and Bursoscopy /</subfield>
+         <subfield code="r">Eddy R. J. Cauvin --</subfield>
+         <subfield code="g">25.</subfield>
+         <subfield code="t">Thermography: Use in Equine Lameness /</subfield>
+         <subfield code="r">Andrew P. Bathe --</subfield>
+         <subfield code="g">pt. II</subfield>
+         <subfield code="t">FOOT --</subfield>
+         <subfield code="g">26.</subfield>
+         <subfield code="t">Biomechanics of the Equine Limb and Its Effect on Lameness /</subfield>
+         <subfield code="r">Renate Weller --</subfield>
+         <subfield code="g">27.</subfield>
+         <subfield code="t">Foot and Shoeing --</subfield>
+         <subfield code="t">Foot Balance, Conformation, and Lameness /</subfield>
+         <subfield code="r">Andrew H. Parks --</subfield>
+         <subfield code="t">Horseshoes and Shoeing /</subfield>
+         <subfield code="r">Andrew H. Parks</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="a">Note continued:</subfield>
+         <subfield code="t">Natural Balance Trimming and Shoeing /</subfield>
+         <subfield code="r">Gene Ovnicek --</subfield>
+         <subfield code="t">Hoof Reconstruction Materials and Glue-On Shoes /</subfield>
+         <subfield code="r">Patrick T. Reilly --</subfield>
+         <subfield code="g">28.</subfield>
+         <subfield code="t">Trauma to the Sole and Wall /</subfield>
+         <subfield code="r">G. Kent Carter --</subfield>
+         <subfield code="t">Penetrating Wounds to the Navicular Bursa (Bursa Podotrochlearis), Infectious (Septic) Navicular Bursitis, "Streetnail," /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="t">Canker /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">29.</subfield>
+         <subfield code="t">Functional Anatomy of the Palmar Aspect of the Foot /</subfield>
+         <subfield code="r">Robert M. Bowker --</subfield>
+         <subfield code="g">30.</subfield>
+         <subfield code="t">Navicular Disease /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">31.</subfield>
+         <subfield code="t">Fracture of the Navicular Bone and Congenital Bipartite Navicular Bone /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">32.</subfield>
+         <subfield code="t">Primary Lesions of the Deep Digital Flexor Tendon within the Hoof Capsule /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">33.</subfield>
+         <subfield code="t">Distal Phalanx and Distal Interphalangeal Joint /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">34.</subfield>
+         <subfield code="t">Laminitis --</subfield>
+         <subfield code="t">Pathophysiology of Laminitis /</subfield>
+         <subfield code="r">Christopher C. Pollitt --</subfield>
+         <subfield code="t">Diagnosis of Laminitis /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="t">Medical Therapy of Laminitis /</subfield>
+         <subfield code="r">Christopher C. Pollitt --</subfield>
+         <subfield code="t">Chronic Laminitis /</subfield>
+         <subfield code="r">Simon N. Collins --</subfield>
+         <subfield code="t">Venography /</subfield>
+         <subfield code="r">Greg Baldwin --</subfield>
+         <subfield code="t">Hoof Care of a Laminitic Horse /</subfield>
+         <subfield code="r">Frank A. Nickels --</subfield>
+         <subfield code="t">Deep Digital Flexor Tenotomy for Managing Laminitis /</subfield>
+         <subfield code="r">Robert J. Hunt --</subfield>
+         <subfield code="t">Other Management Aspects of Laminitis /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">pt. III</subfield>
+         <subfield code="t">FORELIMB --</subfield>
+         <subfield code="g">35.</subfield>
+         <subfield code="t">Proximal and Middle Phalanges and Proximal Interphalangeal Joint /</subfield>
+         <subfield code="r">Alan J. Ruggles --</subfield>
+         <subfield code="g">36.</subfield>
+         <subfield code="t">Metacarpophalangeal Joint /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">37.</subfield>
+         <subfield code="t">Metacarpal Region /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">38.</subfield>
+         <subfield code="t">Carpus /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">39.</subfield>
+         <subfield code="t">Antebrachium /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">40.</subfield>
+         <subfield code="t">Elbow, Brachium, and Shoulder /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">pt. IV</subfield>
+         <subfield code="t">HINDLIMB --</subfield>
+         <subfield code="g">41.</subfield>
+         <subfield code="t">Hind Foot and Pastern /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">42.</subfield>
+         <subfield code="t">Metatarsophalangeal Joint /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">43.</subfield>
+         <subfield code="t">Metatarsal Region /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">44.</subfield>
+         <subfield code="t">Tarsus /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">45.</subfield>
+         <subfield code="t">Crus /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">46.</subfield>
+         <subfield code="t">Stifle /</subfield>
+         <subfield code="r">John P. Walmsley --</subfield>
+         <subfield code="g">47.</subfield>
+         <subfield code="t">Thigh /</subfield>
+         <subfield code="r">Mike W. Ross -- ^</subfield>
+         <subfield code="t">Gluteal Syndrome /</subfield>
+         <subfield code="r">Dan L. Hawkins --</subfield>
+         <subfield code="t">Trochanteric Bursitis /</subfield>
+         <subfield code="r">Dan L. Hawkins</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="a">Note continued:</subfield>
+         <subfield code="g">48.</subfield>
+         <subfield code="t">Mechanical and Neurological Lameness in the Forelimbs and Hindlimbs /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">pt. V</subfield>
+         <subfield code="t">AXIAL SKELETON --</subfield>
+         <subfield code="g">49.</subfield>
+         <subfield code="t">Diagnosis and Management of Pelvic Fractures in the Thoroughbred Racehorse /</subfield>
+         <subfield code="r">Robert C. Pilsworth --</subfield>
+         <subfield code="g">50.</subfield>
+         <subfield code="t">Lumbosacral and Pelvic Injuries in Sports and Pleasure Horses /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">51.</subfield>
+         <subfield code="t">Diagnosis and Management of Sacroiliac Joint Injuries /</subfield>
+         <subfield code="r">Kevin K. Haussler --</subfield>
+         <subfield code="g">52.</subfield>
+         <subfield code="t">Thoracolumbar Spine /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">53.</subfield>
+         <subfield code="t">Cervical Spine and Soft Tissues of the Neck /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">pt. VI</subfield>
+         <subfield code="t">DEVELOPMENTAL ORTHOPEDIC DISEASE AND LAMENESS --</subfield>
+         <subfield code="g">54.</subfield>
+         <subfield code="t">Pathogenesis of Osteochondrosis /</subfield>
+         <subfield code="r">Janet Douglas --</subfield>
+         <subfield code="g">55.</subfield>
+         <subfield code="t">Role of Nutrition in Developmental Orthopedic Disease: Nutritional Management /</subfield>
+         <subfield code="r">Joe D. Pagan --</subfield>
+         <subfield code="g">56.</subfield>
+         <subfield code="t">Diagnosis and Management of Osteochondrosis and Osseous Cystlike Lesions /</subfield>
+         <subfield code="r">Dean W. Richardson --</subfield>
+         <subfield code="g">57.</subfield>
+         <subfield code="t">Physitis /</subfield>
+         <subfield code="r">David R. Ellis --</subfield>
+         <subfield code="g">58.</subfield>
+         <subfield code="t">Angular Limb Deformities /</subfield>
+         <subfield code="r">Eric J. Parente --</subfield>
+         <subfield code="t">Surgical Management /</subfield>
+         <subfield code="r">Jose M. Garcia-Lopez --</subfield>
+         <subfield code="g">59.</subfield>
+         <subfield code="t">Flexural Limb Deformities in Foals /</subfield>
+         <subfield code="r">Robert J. Hunt --</subfield>
+         <subfield code="g">60.</subfield>
+         <subfield code="t">Cervical Stenotic Myelopathy /</subfield>
+         <subfield code="r">Richard J. Piercy --</subfield>
+         <subfield code="g">pt. VII</subfield>
+         <subfield code="t">ARTHRITIS --</subfield>
+         <subfield code="g">61.</subfield>
+         <subfield code="t">Osteoarthritis /</subfield>
+         <subfield code="r">John P. Caron --</subfield>
+         <subfield code="g">62.</subfield>
+         <subfield code="t">Markers of Osteoarthritis: Implications for Early Diagnosis and Monitoring of the Pathological Course and Effects of Therapy /</subfield>
+         <subfield code="r">David D. Frisbie --</subfield>
+         <subfield code="g">63.</subfield>
+         <subfield code="t">Gene Therapy /</subfield>
+         <subfield code="r">David D. Frisbie --</subfield>
+         <subfield code="g">64.</subfield>
+         <subfield code="t">Models of Equine Joint Disease /</subfield>
+         <subfield code="r">Chris E. Kawcak --</subfield>
+         <subfield code="g">65.</subfield>
+         <subfield code="t">Infectious Arthritis and Fungal Infectious Arthritis /</subfield>
+         <subfield code="r">Jennifer M. Cohen --</subfield>
+         <subfield code="t">Infectious Arthritis /</subfield>
+         <subfield code="r">Alicia L. Bertone --</subfield>
+         <subfield code="t">Fungal Infectious Arthritis /</subfield>
+         <subfield code="r">Jennifer M. Cohen --</subfield>
+         <subfield code="g">66.</subfield>
+         <subfield code="t">Noninfectious Arthritis /</subfield>
+         <subfield code="r">Alicia L. Bertone --</subfield>
+         <subfield code="g">67.</subfield>
+         <subfield code="t">Other Joint Conditions /</subfield>
+         <subfield code="r">Chris E. Kawcak --</subfield>
+         <subfield code="g">pt. VIII</subfield>
+         <subfield code="t">SOFT TISSUES --</subfield>
+         <subfield code="g">68.</subfield>
+         <subfield code="t">Pathophysiology of Tendon Injury /</subfield>
+         <subfield code="r">Roger K. W. Smith --</subfield>
+         <subfield code="g">69.</subfield>
+         <subfield code="t">Superficial Digital Flexor Tendonitis /</subfield>
+         <subfield code="r">Joan S. Jorgensen --</subfield>
+         <subfield code="t">Superficial Digital Flexor Tendonitis in Racehorses /</subfield>
+         <subfield code="r">Mike W. Ross</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="a">Note continued:</subfield>
+         <subfield code="t">Surgical Management of Superficial Digital Flexor Tendonitis /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="t">Superficial Digital Flexor Tendonitis in Event Horses, Show Jumpers, Dressage Horses, and Pleasure Horses /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">70.</subfield>
+         <subfield code="t">Deep Digital Flexor Tendon /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">71.</subfield>
+         <subfield code="t">Injuries of the Accessory Ligament of the Deep Digital Flexor Tendon /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">72.</subfield>
+         <subfield code="t">Suspensory Apparatus /</subfield>
+         <subfield code="r">Ronald L. Genovese --</subfield>
+         <subfield code="g">73.</subfield>
+         <subfield code="t">Clinical Use of Stem Cells, Marrow Components, and Other Growth Factors /</subfield>
+         <subfield code="r">Lisa Fortier --</subfield>
+         <subfield code="g">74.</subfield>
+         <subfield code="t">Diseases of the Digital Flexor Tendon Sheath, Palmar Annular Ligament, and Digital Annular Ligaments /</subfield>
+         <subfield code="r">Roger K.W. Smith --</subfield>
+         <subfield code="g">75.</subfield>
+         <subfield code="t">Carpal Canal and Carpal Synovial Sheath /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">76.</subfield>
+         <subfield code="t">Tarsal Sheath /</subfield>
+         <subfield code="r">Eddy R.J. Cauvin --</subfield>
+         <subfield code="g">77.</subfield>
+         <subfield code="t">Extensor Tendon Injury /</subfield>
+         <subfield code="r">Michael C. Schramme --</subfield>
+         <subfield code="g">78.</subfield>
+         <subfield code="t">Curb /</subfield>
+         <subfield code="r">Ronald L. Genovese --</subfield>
+         <subfield code="g">79.</subfield>
+         <subfield code="t">Bursae and Other Soft Tissue Swellings /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">80.</subfield>
+         <subfield code="t">Other Soft Tissue Injuries /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">81.</subfield>
+         <subfield code="t">Tendon Lacerations /</subfield>
+         <subfield code="r">Alicia L. Bertone --</subfield>
+         <subfield code="g">82.</subfield>
+         <subfield code="t">Soft Tissue Injuries of the Pastern /</subfield>
+         <subfield code="r">Ronald L. Genovese --</subfield>
+         <subfield code="g">83.</subfield>
+         <subfield code="t">Skeletal Muscle and Lameness /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="t">Nutritional Myopathies /</subfield>
+         <subfield code="r">Stephanie J. Valberg --</subfield>
+         <subfield code="t">Hyperkalemic Periodic Paralysis /</subfield>
+         <subfield code="r">Sharon J. Spier --</subfield>
+         <subfield code="g">pt. IX</subfield>
+         <subfield code="t">THERAPEUTICS --</subfield>
+         <subfield code="g">Section 1</subfield>
+         <subfield code="t">Traditional Therapy --</subfield>
+         <subfield code="g">84.</subfield>
+         <subfield code="t">Principles and Practices of Joint Disease Treatment /</subfield>
+         <subfield code="r">C. Wayne Mcllwraith --</subfield>
+         <subfield code="g">85.</subfield>
+         <subfield code="t">Analgesia and Hindlimb Lameness /</subfield>
+         <subfield code="r">Rose M. McMurphy --</subfield>
+         <subfield code="g">86.</subfield>
+         <subfield code="t">Bandaging, Splinting, and Casting /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">87.</subfield>
+         <subfield code="t">External Skeletal Fixation /</subfield>
+         <subfield code="r">David M. Nunamaker --</subfield>
+         <subfield code="g">88.</subfield>
+         <subfield code="t">Counterirritation /</subfield>
+         <subfield code="r">Stephen P. Dey III --</subfield>
+         <subfield code="g">89.</subfield>
+         <subfield code="t">Cryotherapy /</subfield>
+         <subfield code="r">Thomas P.S. Oliver --</subfield>
+         <subfield code="g">90.</subfield>
+         <subfield code="t">Radiation Therapy /</subfield>
+         <subfield code="r">Alain P. Theon --</subfield>
+         <subfield code="g">91.</subfield>
+         <subfield code="t">Rest and Rehabilitation /</subfield>
+         <subfield code="r">Barrie D. Grant --</subfield>
+         <subfield code="g">Section 2</subfield>
+         <subfield code="t">Complementary (Nontraditional) Therapy --</subfield>
+         <subfield code="g">92.</subfield>
+         <subfield code="t">Acupuncture -- ^</subfield>
+         <subfield code="t">Equine Acupuncture for Lameness Diagnosis and Treatment /</subfield>
+         <subfield code="r">Allen M. Schoen</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="a">Note continued:</subfield>
+         <subfield code="t">Acupuncture Channel Palpation and Equine Musculoskeletal Pain /</subfield>
+         <subfield code="r">William H. McCormick --</subfield>
+         <subfield code="g">93.</subfield>
+         <subfield code="t">Chiropractic Evaluation and Management of Musculoskeletal Disorders /</subfield>
+         <subfield code="r">Kevin K. Houssler --</subfield>
+         <subfield code="g">94.</subfield>
+         <subfield code="t">Electrophysical Agents in Physiotherapy /</subfield>
+         <subfield code="r">Tim Watson --</subfield>
+         <subfield code="g">95.</subfield>
+         <subfield code="t">Osteopathic Treatment of the Axial Skeleton of the Horse /</subfield>
+         <subfield code="r">Julia Brooks --</subfield>
+         <subfield code="g">96.</subfield>
+         <subfield code="t">Shock Wave Therapy /</subfield>
+         <subfield code="r">Scott R. McClure --</subfield>
+         <subfield code="g">pt. X</subfield>
+         <subfield code="t">LAMENESS IN THE SPORTS HORSE --</subfield>
+         <subfield code="g">Section 1</subfield>
+         <subfield code="t">Poor Performance --</subfield>
+         <subfield code="g">97.</subfield>
+         <subfield code="t">Poor Performance and Lameness /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">98.</subfield>
+         <subfield code="t">Experiences Using a High-Speed Treadmill to Evaluate Lameness /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">Section 2</subfield>
+         <subfield code="t">Racehorse --</subfield>
+         <subfield code="g">99.</subfield>
+         <subfield code="t">Sales Yearling --</subfield>
+         <subfield code="t">Purchase Examination of a Thoroughbred Sales Yearling in North America /</subfield>
+         <subfield code="r">Mark W. Cheney --</subfield>
+         <subfield code="t">Purchase Examination of a Thoroughbred Sales Yearling in Europe /</subfield>
+         <subfield code="r">David R. Ellis --</subfield>
+         <subfield code="t">North American Standardbred Sales Yearling /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">100.</subfield>
+         <subfield code="t">Pathophysiology and Clinical Diagnosis of Cortical and Subchondral Bone Injury /</subfield>
+         <subfield code="r">Elizabeth J. Davidson --</subfield>
+         <subfield code="g">101.</subfield>
+         <subfield code="t">Bone Biomakers /</subfield>
+         <subfield code="r">Joanna Price --</subfield>
+         <subfield code="g">102.</subfield>
+         <subfield code="t">Bucked-Shin Complex --</subfield>
+         <subfield code="t">Etiology, Pathogenesis, and Conservative Management /</subfield>
+         <subfield code="r">David M. Nunamaker --</subfield>
+         <subfield code="t">Stress Fractures of the Third Metacarpal Bone: Surgical Management /</subfield>
+         <subfield code="r">Alan J. Ruggles --</subfield>
+         <subfield code="g">103.</subfield>
+         <subfield code="t">On-the-Track Catastrophes in the Thoroughbred Racehorse /</subfield>
+         <subfield code="r">W. Theodore Hill --</subfield>
+         <subfield code="g">104.</subfield>
+         <subfield code="t">Catastrophic Injuries /</subfield>
+         <subfield code="r">Dean W. Richardson --</subfield>
+         <subfield code="g">105.</subfield>
+         <subfield code="t">Track Surfaces and Lameness: Epidemiological Aspects of Racehorse Injury /</subfield>
+         <subfield code="r">Tim D. H. Parkin --</subfield>
+         <subfield code="g">106.</subfield>
+         <subfield code="t">North American Thoroughbred /</subfield>
+         <subfield code="r">Mark W. Cheney --</subfield>
+         <subfield code="g">107.</subfield>
+         <subfield code="t">European Thoroughbred /</subfield>
+         <subfield code="r">Robert C. Pilsworth --</subfield>
+         <subfield code="g">108.</subfield>
+         <subfield code="t">North American Standardbred /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">109.</subfield>
+         <subfield code="t">European and Australasian Standardbreds --</subfield>
+         <subfield code="t">European Standardbred /</subfield>
+         <subfield code="r">Fabio Torre --</subfield>
+         <subfield code="t">Australasian Standardbred /</subfield>
+         <subfield code="r">R. Chris Whitton --</subfield>
+         <subfield code="g">110.</subfield>
+         <subfield code="t">Racing Quarter Horse /</subfield>
+         <subfield code="r">Nancy L. Goodman -- ^</subfield>
+         <subfield code="g">111.</subfield>
+         <subfield code="t">Lamness in the Arabian Racehorse: Middle East and North America /</subfield>
+         <subfield code="r">Mark C. Rick</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="a">Note continued:</subfield>
+         <subfield code="g">112.</subfield>
+         <subfield code="t">National Hunt Racehorse, Point to Point Horse, and Timber Racing Horse /</subfield>
+         <subfield code="r">Anthony Stirk --</subfield>
+         <subfield code="g">113.</subfield>
+         <subfield code="t">Finnish Horse and Other Scandinavian Cold-Blooded Trotters /</subfield>
+         <subfield code="r">Jukka Houttu --</subfield>
+         <subfield code="g">Section 3</subfield>
+         <subfield code="t">Nonracing Sports Horses --</subfield>
+         <subfield code="g">114.</subfield>
+         <subfield code="t">Prepurchase Examination of the Performance Horse /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">115.</subfield>
+         <subfield code="t">Lameness in the Show Hunter and Show Jumper /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">116.</subfield>
+         <subfield code="t">Lameness in the Dressage Horse /</subfield>
+         <subfield code="r">Sue J. Dyson --</subfield>
+         <subfield code="g">117.</subfield>
+         <subfield code="t">Lameness in teh Three Day Event Horse /</subfield>
+         <subfield code="r">Andrew P. Bathe --</subfield>
+         <subfield code="g">118.</subfield>
+         <subfield code="t">Lameness in Endrurance Horses /</subfield>
+         <subfield code="r">Martha M. Misheff --</subfield>
+         <subfield code="g">119.</subfield>
+         <subfield code="t">Lameness in the Polo Pony /</subfield>
+         <subfield code="r">Mike W. Ross --</subfield>
+         <subfield code="g">120.</subfield>
+         <subfield code="t">Western Performance Horse --</subfield>
+         <subfield code="t">Cutting Horse /</subfield>
+         <subfield code="r">Robin M. Dabareiner --</subfield>
+         <subfield code="t">Roping Horse /</subfield>
+         <subfield code="r">Robin M. Dabareiner --</subfield>
+         <subfield code="t">Reined Cow Horse /</subfield>
+         <subfield code="r">Van E. Snow --</subfield>
+         <subfield code="t">Barrel-Racing Horses /</subfield>
+         <subfield code="r">Robin M. Dabareiner --</subfield>
+         <subfield code="t">European Western Performance Horse /</subfield>
+         <subfield code="r">Franco Ferrero --</subfield>
+         <subfield code="g">121.</subfield>
+         <subfield code="t">Walking Horses /</subfield>
+         <subfield code="r">James C. Sternberg --</subfield>
+         <subfield code="g">122.</subfield>
+         <subfield code="t">Lameness in the American Saddlebred and other Trotting Breeds with Collection /</subfield>
+         <subfield code="r">Scott D. Bennett --</subfield>
+         <subfield code="g">123.</subfield>
+         <subfield code="t">Lameness in the Arabian and Half-Arabian Show Horse /</subfield>
+         <subfield code="r">Bradley S. Root --</subfield>
+         <subfield code="g">124.</subfield>
+         <subfield code="t">Lameness in the Driving Horse /</subfield>
+         <subfield code="r">Graham Munroe --</subfield>
+         <subfield code="g">125.</subfield>
+         <subfield code="t">Lameness in Draft Horses /</subfield>
+         <subfield code="r">Dallas O. Goble --</subfield>
+         <subfield code="g">126.</subfield>
+         <subfield code="t">Lameness in the Pony /</subfield>
+         <subfield code="r">Andrew M. McDiarmid --</subfield>
+         <subfield code="g">127.</subfield>
+         <subfield code="t">Lameness in Breeding Stallions and Broodmares /</subfield>
+         <subfield code="r">Sue M. McDonnell --</subfield>
+         <subfield code="g">128.</subfield>
+         <subfield code="t">Lameness in Foals /</subfield>
+         <subfield code="r">Robert J. Hunt.</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Lameness in horses.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/subjects/sh85074192</subfield>
+      </datafield>
+      <datafield tag="650" ind1="1" ind2="2">
+         <subfield code="a">Horse Diseases.</subfield>
+      </datafield>
+      <datafield tag="650" ind1="1" ind2="2">
+         <subfield code="a">Lameness, Animal.</subfield>
+      </datafield>
+      <datafield tag="650" ind1="2" ind2="2">
+         <subfield code="a">Horses</subfield>
+         <subfield code="x">injuries.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">horse diseases.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="3">
+         <subfield code="a">horses.</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Ross, Mike W.</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Dyson, Sue J.</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">20110315</subfield>
+         <subfield code="b">20110402</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker and Taylor</subfield>
+         <subfield code="b">BTCP</subfield>
+         <subfield code="n">BK0008943913</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Coutts Information Services</subfield>
+         <subfield code="b">COUT</subfield>
+         <subfield code="n">13108945</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Ingram</subfield>
+         <subfield code="b">INGR</subfield>
+         <subfield code="n">9781416060697</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">YBP Library Services</subfield>
+         <subfield code="b">YANK</subfield>
+         <subfield code="n">3439708</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Other US</subfield>
+      </datafield>
+      <datafield tag="958" ind1=" " ind2=" ">
+         <subfield code="b">e</subfield>
+         <subfield code="c">2011/03/15</subfield>
+         <subfield code="d">c</subfield>
+         <subfield code="e">arojas</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

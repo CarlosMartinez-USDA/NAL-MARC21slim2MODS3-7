@@ -257,22 +257,64 @@
             <xd:p><xd:b>NAL Custom XSLT Functions:</xd:b></xd:p>
             <xd:p>
                 <xd:ul>
-                    <xd:li><xd:i>1.<xd:ref name="f:add-namespace-prefix" type="function"></xd:ref>f:add-namespace-prefix</xd:i></xd:li>
+                    <xd:li><xd:i>1.<xd:ref name="f:add-namespace-and-prefix" type="function"></xd:ref>f:add-namespace-prefix</xd:i></xd:li>
                     <xd:li><xd:i>2.<xd:ref name="f:subjCatCode" type="function"></xd:ref>f:subjCatCode</xd:i></xd:li>
                     <xd:li><xd:i>3.<xd:ref name="f:decodeMARCCountry" type="function"></xd:ref>f:decodeMARCCountry</xd:i></xd:li>
-                    <xd:li><xd:i>4.<xd:ref name="f:nal:isoTwo2Lang" type="function"></xd:ref>f:isoTwo2Lang</xd:i></xd:li>
+                    <xd:li><xd:i>4.<xd:ref name="f:f:isoTwo2Lang" type="function"></xd:ref>f:isoTwo2Lang</xd:i></xd:li>
                     <xd:li><xd:i>5.<xd:ref name="f:isoOne2Two" type="function"></xd:ref>f:isoOne2Two</xd:i></xd:li>
                     <xd:li><xd:i>6.<xd:ref name="f:capitalize-first" type="function"></xd:ref>f:capitalize-first</xd:i></xd:li>
                     <xd:li><xd:i>7.<xd:ref name="f:sentence-case" type="function"></xd:ref>f:sentence-case</xd:i></xd:li>
-                    <xd:li><xd:i>8.<xd:ref name="f:nal:proper-case" type="function"></xd:ref>f:nal:proper-case</xd:i></xd:li>
+                    <xd:li><xd:i>8.<xd:ref name="f:f:proper-case" type="function"></xd:ref>f:f:proper-case</xd:i></xd:li>
                     <xd:li><xd:i>9.<xd:ref name="f:nameIdentifier" type="function"></xd:ref>f:nameIdentifier</xd:i></xd:li>
                 </xd:ul>     
             </xd:p>
         </xd:desc>
+       
     </xd:doc>
-   
+    
+    <xd:doc id="f:add-namespace-and-prefix" scope="component">
+        <xd:desc>
+            <xd:p><xd:b>Function: </xd:b>f:add-namespace-prefix</xd:p>
+            <xd:p><xd:b>Usage: </xd:b>f:add-namespace-prefix([nodes],[namespace to add],[added namespace prefix])</xd:p>
+            <xd:p><xd:b>Purpose: </xd:b>Change namespace of $elements, but </xd:p>
+        </xd:desc>
+    <xd:param name="elements"/>
+    <xd:param name="newns"/>
+    <xd:param name="prefix"/>
+    </xd:doc>
     <!--f:add-namespace-prefix-->
-    <xd:doc id="f:add-namespace-prefix" scope="component">
+    <xsl:function name="f:add-namespace" as="element()?"
+        xmlns:f="http://functions">
+        <xsl:param name="elements" as="element()*"/>
+        <xsl:param name="newns" as="xs:string"/>
+        <xsl:param name="prefix" as="xs:string"/>
+        
+        <xsl:for-each select="$elements">
+            <xsl:choose>
+                <xsl:when test="$element instance of element()">
+            <xsl:variable name="element" select="."/>
+                    <xsl:element name="{concat($prefix,
+                        if ($prefix = '')
+                        then ''
+                        else ':',
+                        local-name($element))}"
+                        namespace="{$newns}">
+                        <xsl:sequence select="($element/@*,
+                            f:add-namespace-and-prefix($element/node(),
+                            $newns, $prefix))"/>
+                    </xsl:element>
+                </xsl:when>
+            <xsl:when test="$element instance of document-node()">
+                <xsl:document>
+                    <xsl:sequence select="f:add-namespace-and-prefix(
+                        $element/node(), $add-namespace, $add-prefix)"/>
+                </xsl:document>
+            </xsl:when>
+            </xsl:choose>
+        </xsl:for-each>
+        
+    </xsl:function>
+    <xd:doc id="f:add-namespace-and-prefix" scope="component">
         <xd:desc>
             <xd:p><xd:b>Function: </xd:b>f:add-namespace-prefix</xd:p>
             <xd:p><xd:b>Usage: </xd:b>f:add-namespace-prefix([nodes],[namespace to add],[added namespace prefix])</xd:p>
@@ -283,14 +325,14 @@
         <xd:param name="add-namespace">declare no namespace</xd:param>
         <xd:param name="add-prefix">adds the namespace prefix</xd:param>
     </xd:doc>
-    <xsl:function name="f:add-namespace-prefix" as="node()*"
+    <xsl:function name="f:add-namespace-and-prefix" as="node()*"
         xmlns:f="http://functions">
         <xsl:param name="elements" as="node()*"/>
         <xsl:param name="add-namespace" as="xs:string"/>
         <xsl:param name="add-prefix" as="xs:string"/>
         <xsl:for-each select="$elements">
             <xsl:variable name="element" select="."/>
-            <xsl:choose>
+             <xsl:choose>
                 <xsl:when test="$element instance of element()">
                     <xsl:element name="{concat($add-prefix,
                         if ($add-prefix = '')
@@ -299,13 +341,13 @@
                         local-name($element))}"
                         namespace="{$add-namespace}">
                         <xsl:sequence select="($element/@*,
-                          f:add-namespace-prefix($element/node(),
+                          f:add-namespace-and-prefix($element/node(),
                             $add-namespace, $add-prefix))"/>
                     </xsl:element>
                 </xsl:when>
                 <xsl:when test="$element instance of document-node()">
                     <xsl:document>
-                        <xsl:sequence select="f:add-namespace-prefix(
+                        <xsl:sequence select="f:add-namespace-and-prefix(
                             $element/node(), $add-namespace, $add-prefix)"/>
                     </xsl:document>
                 </xsl:when>
@@ -361,7 +403,7 @@
         <xsl:param name="marccode" as="xs:string"/>	
         <xsl:variable name="MARCcode">
             <xsl:variable name="nodes">
-                <xsl:copy-of select="document('commo8ns/xml/marcCountry.xml')"/>
+                <xsl:copy-of select="document('commons/xml/marcCountry.xml')"/>
             </xsl:variable>
             <xsl:choose>
                 <xsl:when test="$marccode=''"/>
@@ -398,7 +440,7 @@
         <xsl:sequence select="$iso639-2b"/>
     </xsl:function>
     
-    <!--nal:isoOne2Two-->
+    <!--f:isoOne2Two-->
     <xd:doc scope="component">
         <xd:desc>
             <xd:p><xd:b>Function: </xd:b>f:isoOne2Two</xd:p>
@@ -421,7 +463,7 @@
         <xd:desc>
             <xd:p><xd:b>Function: </xd:b>f:capitalize-first</xd:p>
             <xd:p><xd:b>Usage: </xd:b>f:capitalize-first(XPath)</xd:p>
-            <xd:p><xd:b>Purpose: </xd:b>The nal:capitalize-first function capitalizes the first
+            <xd:p><xd:b>Purpose: </xd:b>The f:capitalize-first function capitalizes the first
                 character of $arg. If the first character is not a lowercase letter, $arg is left
                 unchanged. It capitalizes only the first character of the entire string, not the
                 first letter of every word<xd:i>f:capitalize-first</xd:i></xd:p>
@@ -438,12 +480,12 @@
         />
     </xsl:function>
     
-    <!--nal:sentence-case-->
+    <!--f:sentence-case-->
     <xd:doc>
         <xd:desc>
             <xd:p><xd:b>Function: </xd:b>f:sentence-case</xd:p>
             <xd:p><xd:b>Usage: </xd:b>f:sentence-case(XPath)</xd:p>
-            <xd:p><xd:b>Purpose:</xd:b>The nal:sentence-case function  treats a string like
+            <xd:p><xd:b>Purpose:</xd:b>The f:sentence-case function  treats a string like
                 two parts; the first character of $arg is capitalized, the rest of the string is
                 lowercase. (e.g. "STRING THEORY" ---> "String theory"). Thus, even if the second letter of $arg is not
                 a lowercase letter, the rest of the string is still lowercase. </xd:p>
@@ -465,7 +507,7 @@
         <xd:desc>
             <xd:p><xd:b>Function: </xd:b>f:proper-case</xd:p>
             <xd:p><xd:b>Usage: </xd:b>f:proper-case(XPath)</xd:p>
-            <xd:p><xd:b>Purpose: </xd:b>The nal:proper-case function performs a "choose when" test
+            <xd:p><xd:b>Purpose: </xd:b>The f:proper-case function performs a "choose when" test
                 first determining if a string contains two substrings, when it does, it capitalizes
                 the first character of each substring. when it does not, it capitalizes the first
                 character of the substring, and the rest of the string is lowercase, making use of
@@ -487,8 +529,35 @@
             else f:sentence-case($arg)"
         />
     </xsl:function>
+    <!-- f:proper-case -->
+    <xd:doc>
+        <xd:desc>
+            <xd:p><xd:b>Function: </xd:b>f:proper-case</xd:p>
+            <xd:p><xd:b>Usage: </xd:b>f:proper-case(XPath)</xd:p>
+            <xd:p><xd:b>Purpose: </xd:b>The f:proper-case function performs a "choose when" test
+                first determining if a string contains two substrings, when it does, it capitalizes
+                the first character of each substring. when it does not, it capitalizes the first
+                character of the substring, and the rest of the string is lowercase, making use of
+                <xd:i>f:proper-case</xd:i>function in both instances</xd:p>
+            <xd:p>
+                <xd:b>Parameters</xd:b>
+            </xd:p>
+        </xd:desc>
+        <xd:param name="arg"/>
+    </xd:doc>
+    <xsl:function name="f:tokenize-chars" xmlns:f="http://functions">
+        <xsl:param name="arg" as="xs:string?"/>
+        <xsl:variable name="tokenized-chars" select="tokenize($arg,',. ')"/>
+        <xsl:variable name="substring1" select="substring-before($arg, $tokenized-chars)"/>
+        <xsl:variable name="substring2" select="substring-after($arg, $tokenized-chars)"/>
+        <xsl:sequence select="
+            if (contains($arg, $tokenized-chars))
+            then concat(f:sentence-case($substring1), ($tokenized-chars), (f:sentence-case($substring2)))
+            else f:sentence-case($arg)"
+        />
+    </xsl:function>
     
-    <!-- nal:substring-before-match -->
+    <!-- f:substring-before-match -->
     <xd:doc>
         <xd:desc/>
         <xd:param name="arg"/>
@@ -505,14 +574,16 @@
         <xd:desc>
             <xd:p><xd:b>Function: </xd:b>f:nameIdentifier</xd:p>
             <xd:p><xd:b>Usage: </xd:b>f:nameIdentifier(XPath)</xd:p>
-            <xd:p><xd:b>Purpose: </xd:b>The nal:nameIdentifier takes the xpath provided as $arg.
-                First fn:matches($arg, $regex) tests the $arg. If $arg matches the $regex, then  
-                fn:replace($arg, $regex, $flag),</xd:p> 
+            <xd:p><xd:b>Purpose: </xd:b>The f:nameIdentifier creates the mods:nameIndentifier @type attribute's label. 
+                The function takes an xpath expression provided as the $arg parameter. 
+                First fn:matches($arg, $regex) tests the $arg.
+                If $arg matches the $regex, then fn:replace($arg, $regex, $flag).
+                The same procedure is repeated for more complex URI's </xd:p> 
             <xd:p><xd:b>Returns: </xd:b> Removes the first and last substrings, leaving
                 the org name.</xd:p> 
             <xd:p><xd:b>Parameters</xd:b></xd:p>
         </xd:desc>
-        <xd:param name="arg"/>
+        <xd:param name="arg" />
     </xd:doc>
     <xsl:function name="f:nameIdentifier" as="xs:string">
         <xsl:param name="arg" as="xs:string"/>		

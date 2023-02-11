@@ -122,7 +122,7 @@
       <recordCreationDate encoding="marc">200821</recordCreationDate>
       <recordChangeDate encoding="iso8601">20221120114555.0</recordChangeDate>
       <recordIdentifier>9916031399307426</recordIdentifier>
-      <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-np.xsl (NAL-MARC21slim2MODS3-7.xsl (Revision 1.170 202301 cm3), Transformed on: 2023-01-23 02:10:58.478838-05:00</recordOrigin>
+      <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-29 09:52:18</recordOrigin>
       <languageOfCataloging>
          <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
       </languageOfCataloging>

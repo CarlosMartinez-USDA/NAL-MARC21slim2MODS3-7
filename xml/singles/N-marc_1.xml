@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3"
+      xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd"
+      version="3.7">
+   <name type="personal">
+      <displayForm>Michael</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <displayForm>Seth</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <displayForm>Robert</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <name type="personal">
+      <displayForm>Stephen</displayForm>
+      <role>
+         <roleTerm type="text">author</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <genre authority="marcgt">government publication</genre>
+   <originInfo>
+      <issuance>monographic</issuance>
+      <dateIssued>2001</dateIssued>
+   </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <note>2019-12-06</note>
+   <subject>
+      <geographic>New Caledonia</geographic>
+   </subject>
+   <location>
+      <url usage="primary display">https://handle.nal.usda.gov/10113/5421326</url>
+   </location>
+   <location>
+      <url displayLabel="electronic resource">http://dx.doi.org/10.1046/j.1469-8137.2001.00067.x</url>
+   </location>
+   <relatedItem type="host">
+      <titleInfo>
+         <title>New phytologist</title>
+      </titleInfo>
+      <identifier type="issn">1469-8137</identifier>
+      <identifier type="local">Journal:jnl44665</identifier>
+      <part>
+         <detail level="1">
+            <number>150</number>
+         </detail>
+         <detail level="2">
+            <number>1</number>
+         </detail>
+         <extent unit="page">
+            <start>49</start>
+         </extent>
+      </part>
+   </relatedItem>
+   <identifier type="control">ns11110</identifier>
+   <marc:recordInfo xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <marc:recordIdentifier>ns11110</marc:recordIdentifier>
+      <marc:recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-04 04:36:41</marc:recordOrigin>
+   </marc:recordInfo>
+</mods>

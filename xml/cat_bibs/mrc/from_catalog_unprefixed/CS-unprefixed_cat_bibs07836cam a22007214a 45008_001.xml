@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>07836cam a22007214a 4500</leader>
+      <controlfield tag="001">9915443877507426</controlfield>
+      <controlfield tag="005">20221101230546.0</controlfield>
+      <controlfield tag="008">030124s2003    moua     b    001 0 eng  </controlfield>
+      <datafield tag="010" ind1=" " ind2=" ">
+         <subfield code="a">  2002033674</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT11128744</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">101153019</subfield>
+         <subfield code="2">DNLM</subfield>
+      </datafield>
+      <datafield tag="019" ind1=" " ind2=" ">
+         <subfield code="a">1022712199</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">0323017134</subfield>
+         <subfield code="q">(pbk.)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9780323017138</subfield>
+         <subfield code="q">(pbk.)</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">896299</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)50511337</subfield>
+         <subfield code="z">(OCoLC)1022712199</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)896299-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="z">(OCoLC)1022712199</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">DNLM/DLC</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">DLC</subfield>
+         <subfield code="d">NLM</subfield>
+         <subfield code="d">C#P</subfield>
+         <subfield code="d">AGL</subfield>
+         <subfield code="d">MUQ</subfield>
+         <subfield code="d">BAKER</subfield>
+         <subfield code="d">BTCTA</subfield>
+         <subfield code="d">COO</subfield>
+         <subfield code="d">YDXCP</subfield>
+         <subfield code="d">IG#</subfield>
+         <subfield code="d">UBY</subfield>
+         <subfield code="d">ILU</subfield>
+         <subfield code="d">OSU</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCO</subfield>
+      </datafield>
+      <datafield tag="042" ind1=" " ind2=" ">
+         <subfield code="a">pcc</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="050" ind1="0" ind2="0">
+         <subfield code="a">SF768.2.H67</subfield>
+         <subfield code="b">M36 2003</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">SF768.2.H67</subfield>
+         <subfield code="b">B58 2003</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">L210</subfield>
+      </datafield>
+      <datafield tag="245" ind1="0" ind2="0">
+         <subfield code="a">Manual of equine reproduction /</subfield>
+         <subfield code="c">T.L. Blanchard [and others].</subfield>
+      </datafield>
+      <datafield tag="250" ind1=" " ind2=" ">
+         <subfield code="a">2nd ed.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">St. Louis :</subfield>
+         <subfield code="b">Mosby,</subfield>
+         <subfield code="c">©2003.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">xi, 253 pages :</subfield>
+         <subfield code="b">illustrations ;</subfield>
+         <subfield code="c">28 cm</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes bibliographical references and index.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="g">1.</subfield>
+         <subfield code="t">Reproductive Anatomy of the Mare --</subfield>
+         <subfield code="t">Ovaries --</subfield>
+         <subfield code="t">Oviducts --</subfield>
+         <subfield code="t">Uterus --</subfield>
+         <subfield code="t">Cervix --</subfield>
+         <subfield code="t">Vagina --</subfield>
+         <subfield code="t">Vestibule --</subfield>
+         <subfield code="t">Vulva --</subfield>
+         <subfield code="t">Examination of the Reproductive Tract of the Mare Per Rectum --</subfield>
+         <subfield code="g">2.</subfield>
+         <subfield code="t">Reproductive Physiology of the Nonpregnant Mare --</subfield>
+         <subfield code="t">The Estrous Cycle --</subfield>
+         <subfield code="t">Staging the Estrous Cycle by Examination --</subfield>
+         <subfield code="t">Seasonality --</subfield>
+         <subfield code="t">Operational Breeding Season.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="g">3.</subfield>
+         <subfield code="t">Manipulation of Estrus in the Mare --</subfield>
+         <subfield code="t">Introduction --</subfield>
+         <subfield code="t">Physiologic Changes During Transition from Seasonal Anestrus Through Onset of the Breeding Season --</subfield>
+         <subfield code="t">Artificial Lighting --</subfield>
+         <subfield code="t">Shortening the Duration of the Late Transition Period by Administering Progestogens --</subfield>
+         <subfield code="t">Hastening Ovulation During the Late Transition Period --</subfield>
+         <subfield code="t">Waiting To Bread Mares Until Regular Estrous Cycles Occur --</subfield>
+         <subfield code="t">Induction of Ovulation in Cycling Mares --</subfield>
+         <subfield code="t">Synchronization of Estrus in the Cycling Mare --</subfield>
+         <subfield code="t">Hormonal Therapy To Improve Fertility of Mares Early in the Postpartum Period.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="g">4.</subfield>
+         <subfield code="t">Breeding Soundness Examination of the Mare --</subfield>
+         <subfield code="t">History --</subfield>
+         <subfield code="t">General Physical Examination --</subfield>
+         <subfield code="t">Reproductive Examination --</subfield>
+         <subfield code="t">Vaginal Speculum Examination --</subfield>
+         <subfield code="t">Uterine (Endometrial) Culture --</subfield>
+         <subfield code="t">Uterine Cytologic Analysis --</subfield>
+         <subfield code="t">Other Diagnostic Aids --</subfield>
+         <subfield code="t">Written Summary for Client/Owner.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="g">5.</subfield>
+         <subfield code="t">Transrectal Ultrasonography in Broodmare Practice --</subfield>
+         <subfield code="t">Instrumentation --</subfield>
+         <subfield code="t">Procedural Considerations --</subfield>
+         <subfield code="t">Examination of the Ovaries --</subfield>
+         <subfield code="t">Evaluation of the Tubular Tract --</subfield>
+         <subfield code="t">Diagnosis and Evaluation of Pregnancy by Transrectal Ultrasonographic Examination --</subfield>
+         <subfield code="t">Determination of Fetal Gender by Transrectal Ultrasonography --</subfield>
+         <subfield code="t">Diagnosis of Pathologic Uterine Conditions by Transrectal Ultrasonography.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="g">6.</subfield>
+         <subfield code="t">Endometritis --</subfield>
+         <subfield code="t">Terminology for Genital Infections --</subfield>
+         <subfield code="t">Endometritis --</subfield>
+         <subfield code="t">Treatment of Genital Infections --</subfield>
+         <subfield code="t">Prevention of Genital Infection --</subfield>
+         <subfield code="g">7.</subfield>
+         <subfield code="t">Pregnancy: Physiology and Diagnosis --</subfield>
+         <subfield code="t">Early Events of Pregnancy --</subfield>
+         <subfield code="t">Endometrial Cup Formation --</subfield>
+         <subfield code="t">Development of Supplementary Corpora Lutea --</subfield>
+         <subfield code="t">Progestin Production by the Fetoplacental Unit --</subfield>
+         <subfield code="t">Summary of Methods of Pregnancy Diagnosis --</subfield>
+         <subfield code="t">Detection of Pregnancy by Ultrasound Examination --</subfield>
+         <subfield code="t">Equine Chorionic Gonadotropin Detection --</subfield>
+         <subfield code="t">Estrogen Detection in Blood or Urine.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="g">8.</subfield>
+         <subfield code="t">Pregnancy Loss --</subfield>
+         <subfield code="t">Causes of Embryonic Death --</subfield>
+         <subfield code="t">Diagnosis of Embryonic Death (After Ultrasonographic Determination of Pregnancy) --</subfield>
+         <subfield code="t">Development of Uterine Edema During Early Pregnancy --</subfield>
+         <subfield code="t">Management of Mares With Signs of Abnormal Embryonic Development --</subfield>
+         <subfield code="t">Pregnancy Loss Beyond the Embryonic Period --</subfield>
+         <subfield code="t">Abortion --</subfield>
+         <subfield code="t">Gestational Abnormalities --</subfield>
+         <subfield code="g">9.</subfield>
+         <subfield code="t">Management of the Pregnant Mare --</subfield>
+         <subfield code="t">Length of Gestation --</subfield>
+         <subfield code="t">Preventive Health Care --</subfield>
+         <subfield code="t">Monitoring and Preparing the Mare for Parturition --</subfield>
+         <subfield code="t">Stages of Parturition --</subfield>
+         <subfield code="t">Induced Parturition --</subfield>
+         <subfield code="t">The Postpartum Period.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="g">10.</subfield>
+         <subfield code="t">Dystocia and Postparturient Disease --</subfield>
+         <subfield code="t">DYSTOCIA --</subfield>
+         <subfield code="t">Postparturient Abnormalities --</subfield>
+         <subfield code="g">11.</subfield>
+         <subfield code="t">Routine Management of the Neonatal Foal --</subfield>
+         <subfield code="t">Evaluation of Respiratory and Cardiac Function --</subfield>
+         <subfield code="t">Viability Assessment and Resuscitation Procedure --</subfield>
+         <subfield code="t">Interpretation of Clinical Laboratory Data --</subfield>
+         <subfield code="t">Physical Examination --</subfield>
+         <subfield code="t">Care of the Umbilical Cord --</subfield>
+         <subfield code="t">Dam-Foal Interaction --</subfield>
+         <subfield code="t">Giving Enemas --</subfield>
+         <subfield code="t">Antibiotic Injections --</subfield>
+         <subfield code="t">Vitamin Injections --</subfield>
+         <subfield code="t">Neonatal Vaccination --</subfield>
+         <subfield code="t">Colostrum Acquisition --</subfield>
+         <subfield code="t">Failure of Passive Antibody Transfer --</subfield>
+         <subfield code="g">12.</subfield>
+         <subfield code="t">Semen Collection and Artificial Insemination --</subfield>
+         <subfield code="t">Advantages and Disadvantages --</subfield>
+         <subfield code="t">Semen Collection --</subfield>
+         <subfield code="t">Artificial Insemination.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="g">13.</subfield>
+         <subfield code="t">Examination of the Stallion for Breeding Soundness --</subfield>
+         <subfield code="t">Objective --</subfield>
+         <subfield code="t">History and Identification --</subfield>
+         <subfield code="t">General Physical Examination --</subfield>
+         <subfield code="t">Physical Examination of Reproductive Tract --</subfield>
+         <subfield code="t">Observation of Libido and Mating Ability --</subfield>
+         <subfield code="t">Examination for Venereal Disease --</subfield>
+         <subfield code="t">Collection of Semen --</subfield>
+         <subfield code="t">Evaluation of Semen --</subfield>
+         <subfield code="t">Spermatozoal Concentration --</subfield>
+         <subfield code="t">Seminal pH --</subfield>
+         <subfield code="t">Spermatozoal Motility --</subfield>
+         <subfield code="t">Spermatozoal Morphology --</subfield>
+         <subfield code="t">Chemical Analysis of Seminal Plasma --</subfield>
+         <subfield code="t">Transmission Electron Microscopic Examination of Spermatozoa --</subfield>
+         <subfield code="t">Evaluation of the Ability of Spermatozoa to Undergo the Acrosome Reaction --</subfield>
+         <subfield code="t">Urethral Endoscopy.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="t">Radiography --</subfield>
+         <subfield code="t">Chromosomal Analysis --</subfield>
+         <subfield code="t">Hormonal Analyses --</subfield>
+         <subfield code="t">Testicular Biopsy --</subfield>
+         <subfield code="t">Interpretation of Findings -- Breeding Soundness Examination --</subfield>
+         <subfield code="g">14.</subfield>
+         <subfield code="t">Semen Preservation --</subfield>
+         <subfield code="t">Equine Semen Preservation: Cooled and Frozen Semen --</subfield>
+         <subfield code="t">General Considerations --</subfield>
+         <subfield code="t">Cooled Semen --</subfield>
+         <subfield code="t">Cryopreservation of Semen --</subfield>
+         <subfield code="g">15.</subfield>
+         <subfield code="t">Surgery of the Mare Reproductive Tract --</subfield>
+         <subfield code="t">Selection of Candidates for Surgery --</subfield>
+         <subfield code="t">Pneumovagina --</subfield>
+         <subfield code="t">Urovagina --</subfield>
+         <subfield code="t">Perineal Lacerations and Rectovaginal Fistulas --</subfield>
+         <subfield code="t">Cervical Lacerations.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="g">16.</subfield>
+         <subfield code="t">Surgery of the Stallion Reproductive Tract --</subfield>
+         <subfield code="t">Castration --</subfield>
+         <subfield code="t">Cryptorchidism --</subfield>
+         <subfield code="t">Inguinal Herniation --</subfield>
+         <subfield code="t">Torsion of the Spermatic Cord --</subfield>
+         <subfield code="t">Hydrocele --</subfield>
+         <subfield code="t">Hematocele --</subfield>
+         <subfield code="t">Varicocele --</subfield>
+         <subfield code="t">Testicular Neoplasia --</subfield>
+         <subfield code="t">Penile and Preputial Injuries --</subfield>
+         <subfield code="t">Paraphimosis/Penile Prolapse --</subfield>
+         <subfield code="t">Phimosis --</subfield>
+         <subfield code="t">Neoplasia of the Penis and Prepuce --</subfield>
+         <subfield code="t">Cutaneous Habronemiasis --</subfield>
+         <subfield code="t">Priapism --</subfield>
+         <subfield code="t">Hemospermia --</subfield>
+         <subfield code="t">Hematuria.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="g">17.</subfield>
+         <subfield code="t">An Overview of Embryo Transfer in Horses --</subfield>
+         <subfield code="t">Background --</subfield>
+         <subfield code="t">Technique --</subfield>
+         <subfield code="t">Selection and Management of Donor Mares --</subfield>
+         <subfield code="t">Selection of Recipient Mares --</subfield>
+         <subfield code="t">Superovulation --</subfield>
+         <subfield code="t">Synchronization of Ovulation --</subfield>
+         <subfield code="t">Embryo Recovery --</subfield>
+         <subfield code="t">Embryo Transfer --</subfield>
+         <subfield code="t">Transport of Embryos --</subfield>
+         <subfield code="t">Storage of Embryos --</subfield>
+         <subfield code="g">18.</subfield>
+         <subfield code="t">Evaluation of Breeding Records --</subfield>
+         <subfield code="t">Learning to Evaluate Breeding Farm Records --</subfield>
+         <subfield code="t">Interpretation --</subfield>
+         <subfield code="t">Mathematics of Horse Breeding.</subfield>
+      </datafield>
+      <datafield tag="520" ind1=" " ind2=" ">
+         <subfield code="a">This practical field guide succinctly covers all aspects of the reproductive management of stallions, pregnant mares, and neonatal foals. Inside, you'll find today's best techniques for reproductive examination, breeding, pregnancy diagnosis, foaling, and reproductive tract surgery.--COVER.</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses</subfield>
+         <subfield code="x">Reproduction.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses</subfield>
+         <subfield code="x">Breeding.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/subjects/sh2003003006</subfield>
+      </datafield>
+      <datafield tag="650" ind1="1" ind2="2">
+         <subfield code="a">Reproduction</subfield>
+         <subfield code="x">physiology</subfield>
+      </datafield>
+      <datafield tag="650" ind1="1" ind2="2">
+         <subfield code="a">Horses</subfield>
+         <subfield code="x">physiology</subfield>
+      </datafield>
+      <datafield tag="650" ind1="2" ind2="2">
+         <subfield code="a">Genital Diseases, Female</subfield>
+         <subfield code="x">veterinary</subfield>
+      </datafield>
+      <datafield tag="650" ind1="2" ind2="2">
+         <subfield code="a">Reproductive Techniques, Assisted</subfield>
+         <subfield code="x">veterinary</subfield>
+      </datafield>
+      <datafield tag="650" ind1="2" ind2="2">
+         <subfield code="a">Horse Diseases</subfield>
+         <subfield code="x">therapy</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Blanchard, Terry L.</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Blanchard, Terry L.</subfield>
+         <subfield code="t">Manual of equine reproduction.</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">20030203</subfield>
+         <subfield code="b">20030211</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker &amp; Taylor</subfield>
+         <subfield code="b">BKTY</subfield>
+         <subfield code="c">60.95</subfield>
+         <subfield code="d">.00</subfield>
+         <subfield code="i">0323017134</subfield>
+         <subfield code="n">0004028282</subfield>
+         <subfield code="s">active</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker and Taylor</subfield>
+         <subfield code="b">BTCP</subfield>
+         <subfield code="n">2002033674</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Ingram</subfield>
+         <subfield code="b">INGR</subfield>
+         <subfield code="n">9780323017138</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">YBP Library Services</subfield>
+         <subfield code="b">YANK</subfield>
+         <subfield code="n">1902136</subfield>
+      </datafield>
+      <datafield tag="945" ind1=" " ind2=" ">
+         <subfield code="d">JR</subfield>
+         <subfield code="e">2003/01/24</subfield>
+         <subfield code="f">JR</subfield>
+         <subfield code="g">2003/01/24</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Other US</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>12812cam a22006494a 4500</leader>
+      <controlfield tag="001">9915492910107426</controlfield>
+      <controlfield tag="005">20221102045256.0</controlfield>
+      <controlfield tag="008">041123s2005    nyuab    b    001 0 eng c</controlfield>
+      <datafield tag="010" ind1=" " ind2=" ">
+         <subfield code="a">  2005297469</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT30942031</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="019" ind1=" " ind2=" ">
+         <subfield code="a">270844646</subfield>
+         <subfield code="a">493125205</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">0824754964</subfield>
+         <subfield code="q">(print)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9780824754969</subfield>
+         <subfield code="q">(print)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">0824754956</subfield>
+         <subfield code="q">(online)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9780824754952</subfield>
+         <subfield code="q">(online)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">0824747968</subfield>
+         <subfield code="q">(combo)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9780824747961</subfield>
+         <subfield code="q">(combo)</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">942031</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)57033325</subfield>
+         <subfield code="z">(OCoLC)270844646</subfield>
+         <subfield code="z">(OCoLC)493125205</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)942031-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="z">(OCoLC)270844646</subfield>
+         <subfield code="z">(OCoLC)493125205</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">MFP</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">MFP</subfield>
+         <subfield code="d">VPI</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">DLC</subfield>
+         <subfield code="d">MUQ</subfield>
+         <subfield code="d">BAKER</subfield>
+         <subfield code="d">CUX</subfield>
+         <subfield code="d">AGL</subfield>
+         <subfield code="d">IFK</subfield>
+         <subfield code="d">OKS</subfield>
+         <subfield code="d">UBA</subfield>
+         <subfield code="d">YDXCP</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">DEBBG</subfield>
+         <subfield code="d">ZWZ</subfield>
+         <subfield code="d">HALAN</subfield>
+         <subfield code="d">TULIB</subfield>
+         <subfield code="d">BDX</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">TRUTT</subfield>
+         <subfield code="d">RIU</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">XFF</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">UAF</subfield>
+         <subfield code="d">OLDSC</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">WLU</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">DVR</subfield>
+         <subfield code="d">CCH</subfield>
+         <subfield code="d">CPO</subfield>
+         <subfield code="d">SNN</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">XFF</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">AU@</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCA</subfield>
+      </datafield>
+      <datafield tag="042" ind1=" " ind2=" ">
+         <subfield code="a">pcc</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="050" ind1="0" ind2="0">
+         <subfield code="a">SF61</subfield>
+         <subfield code="b">.E496 2005</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">SF61</subfield>
+         <subfield code="b">.E55 2005</subfield>
+      </datafield>
+      <datafield tag="245" ind1="0" ind2="0">
+         <subfield code="a">Encyclopedia of animal science /</subfield>
+         <subfield code="c">edited by Wilson G. Pond, Alan W. Bell.</subfield>
+      </datafield>
+      <datafield tag="246" ind1="3" ind2="0">
+         <subfield code="a">Animal science</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">New York, NY :</subfield>
+         <subfield code="b">Marcel Dekker,</subfield>
+         <subfield code="c">©2005.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">xxi, 926 pages :</subfield>
+         <subfield code="b">illustrations, map ;</subfield>
+         <subfield code="c">29 cm</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes bibliographical references and index.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="t">Adaptation and Stress: Animal State of Being</subfield>
+         <subfield code="g">1 --</subfield>
+         <subfield code="t">Adaptation and Stress: Neuroendocrine, Physiological, and Behavioral Responses</subfield>
+         <subfield code="g">5 --</subfield>
+         <subfield code="t">Amino Acids: Metabolism and Functions</subfield>
+         <subfield code="g">9 --</subfield>
+         <subfield code="t">Angora Goats: Production and Management</subfield>
+         <subfield code="g">13 --</subfield>
+         <subfield code="t">Animal Agriculture and Social Ethics for Animals</subfield>
+         <subfield code="g">16 --</subfield>
+         <subfield code="t">Animal By-Products: Biological and Industrial Products</subfield>
+         <subfield code="g">19 --</subfield>
+         <subfield code="t">Animal Handling-Behavior</subfield>
+         <subfield code="g">22 --</subfield>
+         <subfield code="t">Animal Health:Diagnostics</subfield>
+         <subfield code="g">25 --</subfield>
+         <subfield code="t">Animal Source Food: Nutritional Value</subfield>
+         <subfield code="g">30 --</subfield>
+         <subfield code="t">Animal Source Food: Quality and Safety-Meat and Poultry</subfield>
+         <subfield code="g">33 --</subfield>
+         <subfield code="t">Animal Source Food: Quality and Safety-Milk and Eggs</subfield>
+         <subfield code="g">36 --</subfield>
+         <subfield code="t">Antibiotics: Microbial Resistance</subfield>
+         <subfield code="g">39 --</subfield>
+         <subfield code="t">Antibiotics: Subtherapeutic Levels</subfield>
+         <subfield code="g">42 --</subfield>
+         <subfield code="t">Antimicrobial Use in Food Animals: Potential Alternatives</subfield>
+         <subfield code="g">45 --</subfield>
+         <subfield code="t">Aquaculture: Production, Processing, Marketing</subfield>
+         <subfield code="g">48 --</subfield>
+         <subfield code="t">Aquatic Animals: Fishes-Major</subfield>
+         <subfield code="g">52 --</subfield>
+         <subfield code="t">Aquatic Animals: Fishes-Minor</subfield>
+         <subfield code="g">55 --</subfield>
+         <subfield code="t">Beef: Carcass Composition and Quality</subfield>
+         <subfield code="g">58 --</subfield>
+         <subfield code="t">Beef Cattle Management: Crossbreeding</subfield>
+         <subfield code="g">61 --</subfield>
+         <subfield code="t">Beef Cattle Management: Extensive</subfield>
+         <subfield code="g">65 --</subfield>
+         <subfield code="t">Beef Cattle Management: Intensive</subfield>
+         <subfield code="g">68 --</subfield>
+         <subfield code="t">Beef Cattle: Behavior Management and Well-Being</subfield>
+         <subfield code="g">71 --</subfield>
+         <subfield code="t">Beef Cattle: Breeds and Genetics</subfield>
+         <subfield code="g">74 --</subfield>
+         <subfield code="t">Beef Cattle: Housing</subfield>
+         <subfield code="g">77 --</subfield>
+         <subfield code="t">Beef Cattle: Marketing</subfield>
+         <subfield code="g">81 --</subfield>
+         <subfield code="t">Beef Cattle: Nutritional Management</subfield>
+         <subfield code="g">85 --</subfield>
+         <subfield code="t">Beef Cattle: Reproduction Management</subfield>
+         <subfield code="g">88 --</subfield>
+         <subfield code="t">Behavior: Aberrant</subfield>
+         <subfield code="g">91 --</subfield>
+         <subfield code="t">Behavior: Feeding</subfield>
+         <subfield code="g">94 --</subfield>
+         <subfield code="t">Behavior: Maternal</subfield>
+         <subfield code="g">97 --</subfield>
+         <subfield code="t">Behavior: Reproductive</subfield>
+         <subfield code="g">101 --</subfield>
+         <subfield code="t">Beta Adrenergic Agonists</subfield>
+         <subfield code="g">104 --</subfield>
+         <subfield code="t">Bioavailability: Amino Acids</subfield>
+         <subfield code="g">108 --</subfield>
+         <subfield code="t">Bioavailability: Energy</subfield>
+         <subfield code="g">111 --</subfield>
+         <subfield code="t">Bioavailability: Fat-Soluble Vitamins</subfield>
+         <subfield code="g">115 --</subfield>
+         <subfield code="t">Bioavailability: Mineral Elements</subfield>
+         <subfield code="g">117 --</subfield>
+         <subfield code="t">Bioavailability: Water-Soluble Vitamins</subfield>
+         <subfield code="g">120 --</subfield>
+         <subfield code="t">Biodiversity: Germplasm Banks</subfield>
+         <subfield code="g">124 --</subfield>
+         <subfield code="t">Biodiversity: Grazing Management</subfield>
+         <subfield code="g">127 --</subfield>
+         <subfield code="t">Biotechnology: Artificial Insemination</subfield>
+         <subfield code="g">130 --</subfield>
+         <subfield code="t">Biotechnology: Cloning Animals</subfield>
+         <subfield code="g">133 --</subfield>
+         <subfield code="t">Biotechnology: Embryo Technology for Cattle</subfield>
+         <subfield code="g">136 --</subfield>
+         <subfield code="t">Biotechnology: Genetically Modified Feeds</subfield>
+         <subfield code="g">139 --</subfield>
+         <subfield code="t">Biotechnology: Sexing Sperm</subfield>
+         <subfield code="g">143 --</subfield>
+         <subfield code="t">Biotechnology: Stem Cell and Germ Cell Technology</subfield>
+         <subfield code="g">146 --</subfield>
+         <subfield code="t">Biotechnology: Transgenic Animals</subfield>
+         <subfield code="g">149 --</subfield>
+         <subfield code="t">Biotechnology: Xenotransplantation</subfield>
+         <subfield code="g">152 --</subfield>
+         <subfield code="t">Body Composition: Breed and Species Effects</subfield>
+         <subfield code="g">155 --</subfield>
+         <subfield code="t">Body Composition: Chemical Analysis</subfield>
+         <subfield code="g">159 --</subfield>
+         <subfield code="t">Body Composition: Genetic Influence</subfield>
+         <subfield code="g">163 --</subfield>
+         <subfield code="t">Body Composition: Indirect Measurement</subfield>
+         <subfield code="g">166 --</subfield>
+         <subfield code="t">Body Composition: Linear Dimensions</subfield>
+         <subfield code="g">170 --</subfield>
+         <subfield code="t">Body Composition: Nutritional Influence</subfield>
+         <subfield code="g">174 --</subfield>
+         <subfield code="t">Body Composition: Technical Options for Change</subfield>
+         <subfield code="g">177 --</subfield>
+         <subfield code="t">By-Product Feeds: Animal Origin</subfield>
+         <subfield code="g">180 --</subfield>
+         <subfield code="t">By-Product Feeds: Plant Origin</subfield>
+         <subfield code="g">184 --</subfield>
+         <subfield code="t">Camelids</subfield>
+         <subfield code="g">187 --</subfield>
+         <subfield code="t">Carcass Composition and Quality: Genetic Influence</subfield>
+         <subfield code="g">191 --</subfield>
+         <subfield code="t">Carcass Composition and Quality: Postmortem</subfield>
+         <subfield code="g">195 --</subfield>
+         <subfield code="t">Channel Catfish</subfield>
+         <subfield code="g">198 --</subfield>
+         <subfield code="t">Chickens: Behavior Management and Well-Being</subfield>
+         <subfield code="g">202 --</subfield>
+         <subfield code="t">Chickens: Broiler Housing</subfield>
+         <subfield code="g">205 --</subfield>
+         <subfield code="t">Chickens: Broiler Nutrition Management</subfield>
+         <subfield code="g">208 --</subfield>
+         <subfield code="t">Chickens: Broiler Reproduction Management</subfield>
+         <subfield code="g">211 --</subfield>
+         <subfield code="t">Chickens: Layer Health Management</subfield>
+         <subfield code="g">215 --</subfield>
+         <subfield code="t">Chickens: Layer Housing</subfield>
+         <subfield code="g">219 --</subfield>
+         <subfield code="t">Chickens: Layer Nutrition Management</subfield>
+         <subfield code="g">222 --</subfield>
+         <subfield code="t">Chickens: Layer Reproduction Management</subfield>
+         <subfield code="g">225 --</subfield>
+         <subfield code="t">Colostrum</subfield>
+         <subfield code="g">229 --</subfield>
+         <subfield code="t">Competition for Land Use: Agricultural/Urban Interface</subfield>
+         <subfield code="g">232 --</subfield>
+         <subfield code="t">Conjugated Linoleic Acid</subfield>
+         <subfield code="g">235 --</subfield>
+         <subfield code="t">Contributions to Society: Biomedical Research Models</subfield>
+         <subfield code="g">239 --</subfield>
+         <subfield code="t">Contributions to Society: Companions and Pleasure</subfield>
+         <subfield code="g">242 --</subfield>
+         <subfield code="t">Contributions to Society: Conversion of Feed to Food</subfield>
+         <subfield code="g">245 --</subfield>
+         <subfield code="t">Contributions to Society: Draft and Transport</subfield>
+         <subfield code="g">248 --</subfield>
+         <subfield code="t">Contributions to Society: Improved Animal Source Foods</subfield>
+         <subfield code="g">251 --</subfield>
+         <subfield code="t">Contributions to Society: Manure-Fertilizer/Fuel, Developed Countries</subfield>
+         <subfield code="g">254 --</subfield>
+         <subfield code="t">Contributions to Society: Slaughter By-Products</subfield>
+         <subfield code="g">258 --</subfield>
+         <subfield code="t">Dairy Cattle: Behavior Management and State of Being</subfield>
+         <subfield code="g">261 --</subfield>
+         <subfield code="t">Dairy Cattle: Breeding and Genetics</subfield>
+         <subfield code="g">264 --</subfield>
+         <subfield code="t">Dairy Cattle: Health Management</subfield>
+         <subfield code="g">268 --</subfield>
+         <subfield code="t">Dairy Cattle: Nutrition Management</subfield>
+         <subfield code="g">272 --</subfield>
+         <subfield code="t">Dairy Cattle: Reproduction Management</subfield>
+         <subfield code="g">275 --</subfield>
+         <subfield code="t">Deer and EIk</subfield>
+         <subfield code="g">279 --</subfield>
+         <subfield code="t">Digesta Processing and Fermentation</subfield>
+         <subfield code="g">282 --</subfield>
+         <subfield code="t">Digestion and Absorption of Nutrients</subfield>
+         <subfield code="g">285 --</subfield>
+         <subfield code="t">Disease Resistance: Genetics</subfield>
+         <subfield code="g">288 --</subfield>
+         <subfield code="t">Diseases: Metabolic Disorders of Ruminants</subfield>
+         <subfield code="g">291 --</subfield>
+         <subfield code="t">Domestication of Animals</subfield>
+         <subfield code="g">294 --</subfield>
+         <subfield code="t">Ducks: Health Management</subfield>
+         <subfield code="g">297 --</subfield>
+         <subfield code="t">Ducks: Nutrition Management</subfield>
+         <subfield code="g">300 --</subfield>
+         <subfield code="t">Ecology and Environment: Issues</subfield>
+         <subfield code="g">303 --</subfield>
+         <subfield code="t">Egg Products: Retail, Catering and Food Service Products</subfield>
+         <subfield code="g">306 --</subfield>
+         <subfield code="t">Eggs: Marketing</subfield>
+         <subfield code="g">311 --</subfield>
+         <subfield code="t">Eggs: Pricing</subfield>
+         <subfield code="g">314 --</subfield>
+         <subfield code="t">Eggs: Processing, Inspection, and Grading</subfield>
+         <subfield code="g">317 --</subfield>
+         <subfield code="t">Egg Products: Industrial Egg Products</subfield>
+         <subfield code="g">320 --</subfield>
+         <subfield code="t">Eggs: Shell Egg Products</subfield>
+         <subfield code="g">325 --</subfield>
+         <subfield code="t">Embryo Transfer in Farm Animals</subfield>
+         <subfield code="g">329 --</subfield>
+         <subfield code="t">Environment: Accommodations for Animals</subfield>
+         <subfield code="g">332 --</subfield>
+         <subfield code="t">Environment: Effects on Animal Health</subfield>
+         <subfield code="g">335 --</subfield>
+         <subfield code="t">Environmental Pollutants</subfield>
+         <subfield code="g">338 --</subfield>
+         <subfield code="t">Estrous Cycle: Cattle, Sheep, Goat</subfield>
+         <subfield code="g">342 --</subfield>
+         <subfield code="t">Estrous Cycle: Mare, Sow</subfield>
+         <subfield code="g">345 --</subfield>
+         <subfield code="t">Estrus Synchronization: Cattle</subfield>
+         <subfield code="g">349 --</subfield>
+         <subfield code="t">Estrus Synchronization: Horses, Pigs, Sheep, and Goats</subfield>
+         <subfield code="g">353 --</subfield>
+         <subfield code="t">Farm Animal Welfare: Philosophical Aspects</subfield>
+         <subfield code="g">356 --</subfield>
+         <subfield code="t">Feed Quality: External Flow Markers</subfield>
+         <subfield code="g">359 --</subfield>
+         <subfield code="t">Feed Quality: Natural Plant Markers-Alkanes</subfield>
+         <subfield code="g">362 --</subfield>
+         <subfield code="t">Feed Quality: Natural Plant Markers-Indigestible Fiber</subfield>
+         <subfield code="g">365 --</subfield>
+         <subfield code="t">Feed Supplements: Antibiotics</subfield>
+         <subfield code="g">369 --</subfield>
+         <subfield code="t">Feed Supplements: Crystalline Vitamins</subfield>
+         <subfield code="g">372 --</subfield>
+         <subfield code="t">Feed Supplements: Enzymes, Probiotics, Yeasts</subfield>
+         <subfield code="g">376 --</subfield>
+         <subfield code="t">Feed Supplements: Mineral Salts</subfield>
+         <subfield code="g">379 --</subfield>
+         <subfield code="t">Feed Toxicants</subfield>
+         <subfield code="g">384 --</subfield>
+         <subfield code="t">Feedstuffs: High-Energy Sources</subfield>
+         <subfield code="g">387 --</subfield>
+         <subfield code="t">Feedstuffs: Nonconventional Energy Sources</subfield>
+         <subfield code="g">390 --</subfield>
+         <subfield code="t">Feedstuffs: Protein Sources</subfield>
+         <subfield code="g">393 --</subfield>
+         <subfield code="t">Female Reproduction: Anatomy and Physiology</subfield>
+         <subfield code="g">398 --</subfield>
+         <subfield code="t">Female Reproduction: Endocrine System</subfield>
+         <subfield code="g">404 --</subfield>
+         <subfield code="t">Female Reproduction: Maternal-Fetal Relationship</subfield>
+         <subfield code="g">408 --</subfield>
+         <subfield code="t">Fertilization</subfield>
+         <subfield code="g">411 --</subfield>
+         <subfield code="t">Fiber-Producing Animals</subfield>
+         <subfield code="g">414 --</subfield>
+         <subfield code="t">Forages: Grasses</subfield>
+         <subfield code="g">417 --</subfield>
+         <subfield code="t">Forages: Legumes</subfield>
+         <subfield code="g">421 --</subfield>
+         <subfield code="t">Forages: Shrubs and Forbs</subfield>
+         <subfield code="g">425 --</subfield>
+         <subfield code="t">Fur and Mink</subfield>
+         <subfield code="g">429 --</subfield>
+         <subfield code="t">Future of Animal Agriculture: Demand for Animal Products</subfield>
+         <subfield code="g">432 --</subfield>
+         <subfield code="t">Future of Animal Agriculture: Market Strategies</subfield>
+         <subfield code="g">436 --</subfield>
+         <subfield code="t">Future of Animal Agriculture: Urban/Rural Agriculture Ecosystems</subfield>
+         <subfield code="g">440 --</subfield>
+         <subfield code="t">GI Tract: Anatomical and Functional Comparisons</subfield>
+         <subfield code="g">445 --</subfield>
+         <subfield code="t">GI Tract: Animal/Microbial Symbiosis</subfield>
+         <subfield code="g">449 --</subfield>
+         <subfield code="t">Geese</subfield>
+         <subfield code="g">453 --</subfield>
+         <subfield code="t">Gene Action, Types of</subfield>
+         <subfield code="g">456 --</subfield>
+         <subfield code="t">Gene Mapping</subfield>
+         <subfield code="g">459 --</subfield>
+         <subfield code="t">Genetics: Mendelian</subfield>
+         <subfield code="g">463 --</subfield>
+         <subfield code="t">Genetics: Molecular</subfield>
+         <subfield code="g">466 --</subfield>
+         <subfield code="t">Genomics</subfield>
+         <subfield code="g">469 --</subfield>
+         <subfield code="t">Goat Meat: Carcass Composition/Quality</subfield>
+         <subfield code="g">472 --</subfield>
+         <subfield code="t">Goat Milk: Composition, Characteristics</subfield>
+         <subfield code="g">474 --</subfield>
+         <subfield code="t">Goat Milk Products: Quality, Composition, Processing, Marketing</subfield>
+         <subfield code="g">478 --</subfield>
+         <subfield code="t">Goats: Behavior, Stress, and Management</subfield>
+         <subfield code="g">482 --</subfield>
+         <subfield code="t">Goats: Breeding and Genetics</subfield>
+         <subfield code="g">486 --</subfield>
+         <subfield code="t">Goats: Breeds</subfield>
+         <subfield code="g">489 --</subfield>
+         <subfield code="t">Goats: Health Management</subfield>
+         <subfield code="g">492 --</subfield>
+         <subfield code="t">Goats: Nutrition Management</subfield>
+         <subfield code="g">496 --</subfield>
+         <subfield code="t">Grazing Practices, Soil Conservation</subfield>
+         <subfield code="g">499 --</subfield>
+         <subfield code="t">Growth and Development: Avian Embryos</subfield>
+         <subfield code="g">502 --</subfield>
+         <subfield code="t">Growth and Development: Cell Differentiation</subfield>
+         <subfield code="g">505 --</subfield>
+         <subfield code="t">Growth and Development: Mammalian Fetus</subfield>
+         <subfield code="g">510 --</subfield>
+         <subfield code="t">Growth and Development: Postnatal</subfield>
+         <subfield code="g">513 --</subfield>
+         <subfield code="t">Hormones: Anabolic Agents</subfield>
+         <subfield code="g">517 --</subfield>
+         <subfield code="t">Hormones: Protein</subfield>
+         <subfield code="g">520 --</subfield>
+         <subfield code="t">Hormones: Steroid</subfield>
+         <subfield code="g">523 --</subfield>
+         <subfield code="t">Horse: Nutrition Management</subfield>
+         <subfield code="g">528 --</subfield>
+         <subfield code="t">Horses: Behavior Management and Well-Being</subfield>
+         <subfield code="g">531 --</subfield>
+         <subfield code="t">Horses: Breeds/Breeding/Genetics</subfield>
+         <subfield code="g">534 --</subfield>
+         <subfield code="t">Horses: Reproduction Management</subfield>
+         <subfield code="g">536 --</subfield>
+         <subfield code="t">Immune System: Nutrition Effects</subfield>
+         <subfield code="g">541 --</subfield>
+         <subfield code="t">Immune System: Stress Effects</subfield>
+         <subfield code="g">544 --</subfield>
+         <subfield code="t">Immunity: Acquired</subfield>
+         <subfield code="g">548 --</subfield>
+         <subfield code="t">Immunity: Innate</subfield>
+         <subfield code="g">552 --</subfield>
+         <subfield code="t">Implantation</subfield>
+         <subfield code="g">555 --</subfield>
+         <subfield code="t">International Animal Germplasm Exchange</subfield>
+         <subfield code="g">559 --</subfield>
+         <subfield code="t">Lactation, Land Mammals, Species Comparisons</subfield>
+         <subfield code="g">562 --</subfield>
+         <subfield code="t">Lactation, Marine Mammals, Species Comparisons</subfield>
+         <subfield code="g">565 --</subfield>
+         <subfield code="t">Lamb: Carcass Composition and Quality</subfield>
+         <subfield code="g">568 --</subfield>
+         <subfield code="t">Lamb: International Marketing</subfield>
+         <subfield code="g">571 --</subfield>
+         <subfield code="t">Lamb: U.S. Marketing</subfield>
+         <subfield code="g">575 --</subfield>
+         <subfield code="t">Lipids</subfield>
+         <subfield code="g">578 --</subfield>
+         <subfield code="t">Livestock Breeds</subfield>
+         <subfield code="g">582 --</subfield>
+         <subfield code="t">Lower Digestive Tract Microbiology</subfield>
+         <subfield code="g">585 --</subfield>
+         <subfield code="t">Male Reproduction: Physiological Comparisons</subfield>
+         <subfield code="g">588 --</subfield>
+         <subfield code="t">Mammals: Carnivores</subfield>
+         <subfield code="g">591 --</subfield>
+         <subfield code="t">Mammals: Nonruminant Herbivores</subfield>
+         <subfield code="g">593 --</subfield>
+         <subfield code="t">Mammals: Omnivores</subfield>
+         <subfield code="g">597 --</subfield>
+         <subfield code="t">Mammals: Ruminants</subfield>
+         <subfield code="g">599 --</subfield>
+         <subfield code="t">Mammary Glands: Developmental Changes</subfield>
+         <subfield code="g">603 --</subfield>
+         <subfield code="t">Mathematical Models: Metabolism</subfield>
+         <subfield code="g">606 --</subfield>
+         <subfield code="t">Mathematical Models: Population Dynamics</subfield>
+         <subfield code="g">609 --</subfield>
+         <subfield code="t">Mathematical Models: Production Systems</subfield>
+         <subfield code="g">612 --</subfield>
+         <subfield code="t">Mating Systems</subfield>
+         <subfield code="g">615 --</subfield>
+         <subfield code="t">Meat Quality in Carcasses: Visual Appraisal</subfield>
+         <subfield code="g">619 --</subfield>
+         <subfield code="t">Meat Quality in Cattle: Live Evaluation</subfield>
+         <subfield code="g">622 --</subfield>
+         <subfield code="t">Milk Composition, Species Comparisons</subfield>
+         <subfield code="g">625 --</subfield>
+         <subfield code="t">Milk Synthesis</subfield>
+         <subfield code="g">629 --</subfield>
+         <subfield code="t">Milk Yield Differences</subfield>
+         <subfield code="g">632 --</subfield>
+         <subfield code="t">Mineral Elements: Macro</subfield>
+         <subfield code="g">635 --</subfield>
+         <subfield code="t">Mineral Elements: Micro (Trace)</subfield>
+         <subfield code="g">638 --</subfield>
+         <subfield code="t">Mitosis and Meiosis</subfield>
+         <subfield code="g">642 --</subfield>
+         <subfield code="t">Mohair: Biology and Characteristics</subfield>
+         <subfield code="g">645 --</subfield>
+         <subfield code="t">Mohair: Production and Marketing</subfield>
+         <subfield code="g">649 --</subfield>
+         <subfield code="t">Molecular Biology: Animal</subfield>
+         <subfield code="g">653 --</subfield>
+         <subfield code="t">Molecular Biology: Microbial</subfield>
+         <subfield code="g">657 --</subfield>
+         <subfield code="t">Myostatin: Physiology and Applications</subfield>
+         <subfield code="g">661 --</subfield>
+         <subfield code="t">Nutrient Management: Diet Modification</subfield>
+         <subfield code="g">664 --</subfield>
+         <subfield code="t">Nutrient Management: Water Quality/Use</subfield>
+         <subfield code="g">667 --</subfield>
+         <subfield code="t">Nutrient Requirements: Carnivores</subfield>
+         <subfield code="g">670 --</subfield>
+         <subfield code="t">Nutrient Requirements: Nonruminant Herbivores</subfield>
+         <subfield code="g">674 --</subfield>
+         <subfield code="t">Nutrient Requirements: Ruminants</subfield>
+         <subfield code="g">678 --</subfield>
+         <subfield code="t">Omega-3 and -6 Fatty Acids</subfield>
+         <subfield code="g">681 --</subfield>
+         <subfield code="t">Ontogeny: Adipose Tissue</subfield>
+         <subfield code="g">684 --</subfield>
+         <subfield code="t">Ontogeny: Muscle</subfield>
+         <subfield code="g">688 --</subfield>
+         <subfield code="t">Ontogeny: Skeleton</subfield>
+         <subfield code="g">692 --</subfield>
+         <subfield code="t">Overall Contributions of Domestic Animals to Society</subfield>
+         <subfield code="g">696 --</subfield>
+         <subfield code="t">Pathogens in Animal Products: Major Biological Hazards</subfield>
+         <subfield code="g">698 --</subfield>
+         <subfield code="t">Pathogens in Animal Products: Sources and Control</subfield>
+         <subfield code="g">701 --</subfield>
+         <subfield code="t">Phytases</subfield>
+         <subfield code="g">704 --</subfield>
+         <subfield code="t">Placenta: Development</subfield>
+         <subfield code="g">708 --</subfield>
+         <subfield code="t">Placenta: Functions</subfield>
+         <subfield code="g">712 --</subfield>
+         <subfield code="t">Placenta: Types</subfield>
+         <subfield code="g">716 --</subfield>
+         <subfield code="t">Policy Issues: Local/State Land Use Regulation</subfield>
+         <subfield code="g">719 --</subfield>
+         <subfield code="t">Policy Issues: Rural/Urban Community Effects</subfield>
+         <subfield code="g">722 --</subfield>
+         <subfield code="t">Pork: Carcass Composition and Quality</subfield>
+         <subfield code="g">725 --</subfield>
+         <subfield code="t">Pork: Inspection/Processing/Marketing</subfield>
+         <subfield code="g">728 --</subfield>
+         <subfield code="t">Poultry Meat: Carcass Composition and Characteristics</subfield>
+         <subfield code="g">731 --</subfield>
+         <subfield code="t">Poultry Meat: Inspection/Grading</subfield>
+         <subfield code="g">735 --</subfield>
+         <subfield code="t">Poultry Meat: Processing</subfield>
+         <subfield code="g">740 --</subfield>
+         <subfield code="t">Poultry Production: Manure and Wastewater Management</subfield>
+         <subfield code="g">744 --</subfield>
+         <subfield code="t">Pregnancy: Maternal Response</subfield>
+         <subfield code="g">748 --</subfield>
+         <subfield code="t">Pregnancy: Recognition/Signaling</subfield>
+         <subfield code="g">751 --</subfield>
+         <subfield code="t">Probiotics</subfield>
+         <subfield code="g">754 --</subfield>
+         <subfield code="t">Proteins</subfield>
+         <subfield code="g">757 --</subfield>
+         <subfield code="t">Quantitative Trait Loci (QTL)</subfield>
+         <subfield code="g">760 --</subfield>
+         <subfield code="t">Ratites: Biology, Housing, and Management</subfield>
+         <subfield code="g">763 --</subfield>
+         <subfield code="t">Ratites: Nutrition Management</subfield>
+         <subfield code="g">767 --</subfield>
+         <subfield code="t">Religious Foods: Jewish and Muslim Laws for Animal Slaughter/Welfare</subfield>
+         <subfield code="g">770 --</subfield>
+         <subfield code="t">Rumen Microbiology</subfield>
+         <subfield code="g">773 --</subfield>
+         <subfield code="t">Salmon</subfield>
+         <subfield code="g">777 --</subfield>
+         <subfield code="t">Selection: Marker Assisted</subfield>
+         <subfield code="g">781 --</subfield>
+         <subfield code="t">Selection: Traditional Methods</subfield>
+         <subfield code="g">784 --</subfield>
+         <subfield code="t">Sheep: Breeding/Genetics-Improving Meat Production</subfield>
+         <subfield code="g">787 --</subfield>
+         <subfield code="t">Sheep: Health Management</subfield>
+         <subfield code="g">791.</subfield>
+      </datafield>
+      <datafield tag="520" ind1="2" ind2=" ">
+         <subfield code="a">Containing case studies that complement key material presented in the text, the vast range of this definitive Encyclopedia encompasses animal physiology; animal growth and development; animal behavior; animal reproduction and breeding; alternative approaches to animal maintenance; meat science and muscle biology; farmed animal welfare and bioethics; and food safety. (Midwest).</subfield>
+      </datafield>
+      <datafield tag="506" ind1=" " ind2=" ">
+         <subfield code="a">Electronic version is restricted to susbcribing institutions.</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Livestock</subfield>
+         <subfield code="v">Encyclopedias.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Animal industry</subfield>
+         <subfield code="v">Encyclopedias.</subfield>
+      </datafield>
+      <datafield tag="650" ind1="1" ind2="2">
+         <subfield code="a">Animals, Domestic.</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="7">
+         <subfield code="a">Encyclopedias.</subfield>
+         <subfield code="2">fast</subfield>
+         <subfield code="0">(OCoLC)fst01423798</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="7">
+         <subfield code="a">Encyclopedias.</subfield>
+         <subfield code="2">lcgft</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="2">
+         <subfield code="a">Encyclopedia.</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Pond, Wilson G.,</subfield>
+         <subfield code="d">1930-</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/n80159031</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Bell, Alan W.</subfield>
+      </datafield>
+      <datafield tag="830" ind1=" " ind2="0">
+         <subfield code="a">Informaworld.</subfield>
+      </datafield>
+      <datafield tag="830" ind1=" " ind2="0">
+         <subfield code="a">Dekker.</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">20050818</subfield>
+         <subfield code="b">00000000</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker &amp; Taylor</subfield>
+         <subfield code="b">BKTY</subfield>
+         <subfield code="c">350.00</subfield>
+         <subfield code="d">350.00</subfield>
+         <subfield code="i">0824754956</subfield>
+         <subfield code="n">0006671936</subfield>
+         <subfield code="s">active</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker &amp; Taylor</subfield>
+         <subfield code="b">BKTY</subfield>
+         <subfield code="c">540.00</subfield>
+         <subfield code="d">540.00</subfield>
+         <subfield code="i">0824754964</subfield>
+         <subfield code="n">0004335796</subfield>
+         <subfield code="s">active</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Brodart</subfield>
+         <subfield code="b">BROD</subfield>
+         <subfield code="n">00838330</subfield>
+         <subfield code="c">$335.00</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">YBP Library Services</subfield>
+         <subfield code="b">YANK</subfield>
+         <subfield code="n">2042650</subfield>
+      </datafield>
+      <datafield tag="945" ind1=" " ind2=" ">
+         <subfield code="d">ryounger</subfield>
+         <subfield code="e">2005/08/12</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Other US</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

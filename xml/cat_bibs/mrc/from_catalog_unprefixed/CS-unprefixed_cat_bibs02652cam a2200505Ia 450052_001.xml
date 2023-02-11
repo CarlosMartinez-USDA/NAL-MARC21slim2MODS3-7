@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>02652cam a2200505Ia 4500</leader>
+      <controlfield tag="001">9915533211107426</controlfield>
+      <controlfield tag="005">20221102134708.0</controlfield>
+      <controlfield tag="008">920620s1874    enkaf    b    001 0 eng d</controlfield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT10503902</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">407341</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)02564339</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)407341-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">GUA</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="e">dcrmb</subfield>
+         <subfield code="c">GUA</subfield>
+         <subfield code="d">OCL</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">AGL</subfield>
+         <subfield code="d">OCLCG</subfield>
+         <subfield code="d">GZM</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">UIU</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCA</subfield>
+         <subfield code="d">OCL</subfield>
+         <subfield code="d">NTE</subfield>
+         <subfield code="d">OCLCQ</subfield>
+      </datafield>
+      <datafield tag="043" ind1=" " ind2=" ">
+         <subfield code="a">e-uk---</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">RQIA</subfield>
+      </datafield>
+      <datafield tag="050" ind1=" " ind2="0">
+         <subfield code="a">SF285</subfield>
+         <subfield code="b">.M540 1874</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">42</subfield>
+         <subfield code="b">M59M</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">L100</subfield>
+      </datafield>
+      <datafield tag="100" ind1="1" ind2=" ">
+         <subfield code="a">Miles, W. J.</subfield>
+         <subfield code="q">(William J.)</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/nr2004012839</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="0">
+         <subfield code="a">Modern practical farriery :</subfield>
+         <subfield code="b">a complete guide to all that relates to the horse, its history, varieties, and uses, breaking, training, feeding, stabling, and grooming, how to buy, keep, and treat a horse in health and disease, etc., etc. : forming a complete system of the veterinary art, as at present practised at the Royal Veterinary College, London /</subfield>
+         <subfield code="c">by W.J. Milles, M.R.C.V.S.L. ; with numerous illustrations and a series of anatomical plates, engraved from original drawings from nature, by Benjamin Herring, Esq. ; to which is added an essay on the diseases and management of cattle, sheep, and pigs, by J.I. Lupton, M.R.C.V.S.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">London :</subfield>
+         <subfield code="b">William MacKenzie, 69 Ludgate Hill, E.C.; Glasgow, and Edinburgh,</subfield>
+         <subfield code="c">[1874]</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">536, vii, [1], iv, 96 p., [41] leaves of plates :</subfield>
+         <subfield code="b">ill. (some col.) ;</subfield>
+         <subfield code="c">32 cm</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes bibliographical references and index.</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses</subfield>
+         <subfield code="z">Great Britain</subfield>
+         <subfield code="y">19th century.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses</subfield>
+         <subfield code="z">Great Britain</subfield>
+         <subfield code="x">Anatomy</subfield>
+         <subfield code="y">19th century.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses</subfield>
+         <subfield code="x">Diseases</subfield>
+         <subfield code="z">Great Britain</subfield>
+         <subfield code="y">19th century.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horse racing</subfield>
+         <subfield code="z">Great Britain</subfield>
+         <subfield code="y">19th century.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Veterinary medicine</subfield>
+         <subfield code="z">Great Britain</subfield>
+         <subfield code="y">19th century.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Cattle</subfield>
+         <subfield code="x">Diseases</subfield>
+         <subfield code="z">Great Britain</subfield>
+         <subfield code="y">19th century.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Sheep</subfield>
+         <subfield code="x">Diseases</subfield>
+         <subfield code="z">Great Britain</subfield>
+         <subfield code="y">19th century.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Swine</subfield>
+         <subfield code="x">Diseases</subfield>
+         <subfield code="z">Great Britain</subfield>
+         <subfield code="y">19th century.</subfield>
+      </datafield>
+      <datafield tag="651" ind1=" " ind2="7">
+         <subfield code="a">Great Britain.</subfield>
+         <subfield code="2">fast</subfield>
+         <subfield code="0">(OCoLC)fst01204623</subfield>
+      </datafield>
+      <datafield tag="648" ind1=" " ind2="7">
+         <subfield code="a">1800-1899</subfield>
+         <subfield code="2">fast</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Herring, Benjamin,</subfield>
+         <subfield code="d">1830-1871,</subfield>
+         <subfield code="e">illustrator.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/nr2003041429</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Mackenzie, William</subfield>
+         <subfield code="c">(Publisher)</subfield>
+         <subfield code="e">publisher.</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2="2">
+         <subfield code="a">Lupton, James Irvine.</subfield>
+         <subfield code="t">Diseases of cattle, sheep, and pigs.</subfield>
+      </datafield>
+      <datafield tag="752" ind1=" " ind2=" ">
+         <subfield code="a">Great Britain</subfield>
+         <subfield code="b">England</subfield>
+         <subfield code="d">London.</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">00000000</subfield>
+         <subfield code="b">00000000</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Non-US</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

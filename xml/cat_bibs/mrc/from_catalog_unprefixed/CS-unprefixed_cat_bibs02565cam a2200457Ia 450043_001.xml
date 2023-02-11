@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>02565cam a2200457Ia 4500</leader>
+      <controlfield tag="001">9915509781707426</controlfield>
+      <controlfield tag="005">20221102145744.0</controlfield>
+      <controlfield tag="008">021030s2002    paua     b    001 0 eng d</controlfield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT11125818</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">892678</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)50732006</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)892678-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">IPL</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">IPL</subfield>
+         <subfield code="d">AGL</subfield>
+         <subfield code="d">CS1</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">NHA</subfield>
+         <subfield code="d">OCLCQ</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="050" ind1=" " ind2="0">
+         <subfield code="a">SF951</subfield>
+         <subfield code="b">.V43 v.18, no.2</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">SF951</subfield>
+         <subfield code="b">.V47 v. 18 no. 2</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">L800</subfield>
+      </datafield>
+      <datafield tag="245" ind1="0" ind2="0">
+         <subfield code="a">Endocrinology /</subfield>
+         <subfield code="c">Nat T. Messer IV and Philip J. Johnson, guest editors.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">Philadelphia, Pa. :</subfield>
+         <subfield code="b">W.B. Saunders,</subfield>
+         <subfield code="c">©2002.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">xii, 205-390 pages :</subfield>
+         <subfield code="b">illustrations ;</subfield>
+         <subfield code="c">24 cm.</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="490" ind1="1" ind2=" ">
+         <subfield code="a">The veterinary clinics of North America. Equine practice,</subfield>
+         <subfield code="x">0749-0739 ;</subfield>
+         <subfield code="v">v. 18, no. 2</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes bibliographical references and index.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="t">Gastrointestinal neuroendocrinology /</subfield>
+         <subfield code="r">David A. Schneider and Ayman I. Sayegh --</subfield>
+         <subfield code="t">Glucocorticoids and laminitis in the horse /</subfield>
+         <subfield code="r">Philip J. Johnson [and others] --</subfield>
+         <subfield code="t">Pituitary pars intermedia dysfunction: Equine Cushing's disease /</subfield>
+         <subfield code="r">Harold C. Schott II --</subfield>
+         <subfield code="t">The equine metabolic syndrome: Peripheral Cushing's syndrome /</subfield>
+         <subfield code="r">Philip J. Johnson --</subfield>
+         <subfield code="t">Insulin and glucose regulation /</subfield>
+         <subfield code="r">Sarah L. Ralston --</subfield>
+         <subfield code="t">Equine thyroid dysfunction /</subfield>
+         <subfield code="r">Nicholas Frank, Janice Sojka, and Nat T. Messer IV --</subfield>
+         <subfield code="t">The endocrine system and the challenge of exercise /</subfield>
+         <subfield code="r">Kenneth Harrington McKeever --</subfield>
+         <subfield code="t">Equine anhidrosis /</subfield>
+         <subfield code="r">Jeremy D. Hubert, Ralph E. Beadle, and Gary Norwood --</subfield>
+         <subfield code="t">Endocrine alterations associated with ergopeptine alkaloid exposure during equine pregnancy /</subfield>
+         <subfield code="r">Tim J. Evans.</subfield>
+      </datafield>
+      <datafield tag="530" ind1=" " ind2=" ">
+         <subfield code="a">Also issued online.</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Endocrinology.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/subjects/sh85043068</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses</subfield>
+         <subfield code="x">Diseases.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/subjects/sh85062163</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="4">
+         <subfield code="a">Electronic journals</subfield>
+         <subfield code="x">Sciences.</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="4">
+         <subfield code="a">Electronic journals</subfield>
+         <subfield code="x">Medicine.</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="4">
+         <subfield code="a">Electronic journals</subfield>
+         <subfield code="x">Nursing.</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Messer, Nat T.,</subfield>
+         <subfield code="e">editor.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/no2004052189</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Johnson, Philip J.</subfield>
+         <subfield code="q">(Philip James),</subfield>
+         <subfield code="e">editor.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/no2014013844</subfield>
+      </datafield>
+      <datafield tag="830" ind1=" " ind2="0">
+         <subfield code="a">Veterinary clinics of North America.</subfield>
+         <subfield code="p">Equine practice ;</subfield>
+         <subfield code="v">v. 18, no. 2.</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">20021104</subfield>
+         <subfield code="b">20021107</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="945" ind1=" " ind2=" ">
+         <subfield code="d">AR</subfield>
+         <subfield code="e">2002/10/30</subfield>
+         <subfield code="f">AR</subfield>
+         <subfield code="g">2002/10/30</subfield>
+         <subfield code="n">1</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Other US</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

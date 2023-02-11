@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns:mods="http://www.loc.gov/mods/v3"
+                xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+   <mods version="3.7">
+      <titleInfo>
+         <title>Radial patterns of carbon isotopes in the xylem extractives and cellulose of Douglas-fir</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">A.M.</namePart>
+         <namePart type="family">Taylor</namePart>
+         <displayForm>Taylor, A.M.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">J.R.</namePart>
+         <namePart type="family">Brooks</namePart>
+         <displayForm>Brooks, J.R.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">B.</namePart>
+         <namePart type="family">Lachenbruch</namePart>
+         <displayForm>Lachenbruch, B.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">J.J.</namePart>
+         <namePart type="family">Morrell</namePart>
+         <displayForm>Morrell, J.J.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <publisher>Elsevier Science</publisher>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2007-06</dateIssued>
+         <dateIssued encoding="marc">2007</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 921-927.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">Heartwood extractives (nonstructural wood components) are believed to be formed from a combination of compounds present in the adjacent sapwood and materials imported from the phloem. The roles of local compounds and imported material in heartwood formation could have important implications for the wood quality of species having naturally durable wood. Stable isotope composition (δ(13)C) was analyzed to assess radial variation in sapwood extractives, and to estimate the relative importance of adjacent sapwood extractives and imported photosynthate in the formation of heartwood extractives. Cellulose and extractives from the outer 39 annual rings of six Douglas-fir (Pseudotsuga menziesii (Mirb.) Franco) trees were isolated and their δ(13)C composition determined. Although the extractives and the cellulose showed different absolute δ(13)C values, the patterns of change over time (as represented by the annual rings) were similar in most cases. Within an annual ring, carbon isotope ratios of extractives were correlated with the cellulose isotope ratio (R(2) = 0.33 in sapwood, R(2) = 0.34 in heartwood for aqueous acetone-soluble extractives; R2 = 0.41 in sapwood for hot-water-soluble extractives). These data suggest that some sapwood extractives are formed when the wood ring forms, and remain in place until they are converted to heartwood extractives many years later. Sapwood extractives appear to be important sources of materials for the biosynthesis of heartwood extractives in Douglas-fir.</abstract>
+      <note>2019-12-04</note>
+      <subject authority="atg">
+         <topic>radionuclides</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>quantitative analysis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>stems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>radiolabeling</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>heartwood</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>cellulose</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>carbon</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spatial variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>chemical constituents of plants</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Pseudotsuga menziesii</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>sapwood</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Biological Transport</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Carbon Isotopes</topic>
+         <topic>metabolism</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Cellulose</topic>
+         <topic>metabolism</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Plant Exudates</topic>
+         <topic>metabolism</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Pseudotsuga</topic>
+         <topic>metabolism</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Time Factors</topic>
+      </subject>
+      <subject authority="mesh">
+         <topic>Xylem</topic>
+         <topic>metabolism</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Oregon</geographic>
+      </subject>
+      <subject>
+         <topic>xylem</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Plant Physiology and Biochemistry</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Forestry Related</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site"
+              usage="primary display">http://dx.doi.org/10.1093/treephys/27.6.921</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Tree physiology</title>
+         </titleInfo>
+         <identifier type="issn">0829-318X</identifier>
+         <part>
+            <detail type="volume">
+               <number>27</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>6</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>921</start>
+               <end>927</end>
+               <total>7</total>
+            </extent>
+            <text type="year">2007</text>
+            <text type="month">June</text>
+         </part>
+      </relatedItem>
+      <identifier type="pmid">17331910</identifier>
+      <identifier type="doi">10.1093/treephys/27.6.921</identifier>
+      <identifier type="control">9915612875907426</identifier>
+      <identifier type="agricola">IND43938677</identifier>
+      <identifier type="local">agid:1440112</identifier>
+      <extension>
+         <note type="saleTape">20070921 20071002 00000000</note>
+         <note type="indexer">IND MKS 2007/09/21</note>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">070807</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118221704.0</recordChangeDate>
+         <recordIdentifier>9915612875907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-29 09:58:04</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Baobab (Adansonia digitata L.) density, size-class distribution and population trends between four land-use types in northern Venda, South Africa</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Sarah M.</namePart>
+         <namePart type="family">Venter</namePart>
+         <displayForm>Venter, Sarah M.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">E.T.F.</namePart>
+         <namePart type="family">Witkowski</namePart>
+         <displayForm>Witkowski, E.T.F.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <publisher>Elsevier Science</publisher>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2010-01-25</dateIssued>
+         <dateIssued encoding="marc">2010</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 294-300.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">Baobabs are important to people's livelihoods as a source of food, fibre and medicine. Baobab products are increasingly being commercialised and exported around the world, and pressure on the resource is growing (). This paper examines baobab population structure and trends in northern Venda, South Africa. We compare the density and life stage data of baobabs in four land-use types (plains, rocky outcrops, fields and villages). Villages and fields had higher densities of trees (2.16±0.44 and 1.13±0.52plants/ha) than plains and rock outcrops (0.96±0.25 and 0.83±0.24plants/ha). All land-use types had positively skewed size-class distribution (SCD) curves and negative to flat SCD slopes indicating low recruitment relative to adult density. Villages and fields had the highest juvenile densities, but exhibited flat SCD slopes indicating lowest recruitment relative to mature plant densities. High human numbers, minimal use of baobab fruit and no protection afforded to seedlings, explains low recruitment in villages and fields. Recruitment relative to adult density was most successful in the plains, which exhibited the most positively skewed SCD curves, steepest SCD slopes and the highest percentage of juvenile plants. Overall, the population is stable with healthy numbers of mature trees. Mortality is very low, and is attributed to the lack of elephants. Quotients and the permutation index suggest that recruitment and mortality is episodic. It is concluded that current levels of recruitment are enough to maintain this population of long-lived trees. Comparisons are made with communal land elsewhere in Africa and neighbouring conservation areas, which exhibit different demographic patterns. This paper serves as a benchmark in the light of demographic changes that may arise from increased commercial use of fruit and a predicted reduction in rainfall due to climate change.</abstract>
+      <note>Includes references</note>
+      <note>2019-12-06</note>
+      <subject authority="atg">
+         <topic>tree growth</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>age structure</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spatial distribution</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>land use</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>population density</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>natural regeneration</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree mortality</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Adansonia digitata</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>South Africa</geographic>
+      </subject>
+      <subject>
+         <topic>population structure</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Plant Ecology</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Forest Mensuration and Description</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site"
+              usage="primary display">http://dx.doi.org/10.1016/j.foreco.2009.10.016</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Forest ecology and management</title>
+         </titleInfo>
+         <identifier type="issn">0378-1127</identifier>
+         <part>
+            <detail type="volume">
+               <number>259</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>3</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>294</start>
+               <end>300</end>
+               <total>7</total>
+            </extent>
+            <text type="year">2010</text>
+            <text type="month">Jan</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.foreco.2009.10.016</identifier>
+      <identifier type="control">9915623457607426</identifier>
+      <identifier type="agricola">IND44309285</identifier>
+      <identifier type="local">agid:773830</identifier>
+      <extension>
+         <note type="saleTape">20100120 20100205 00000000</note>
+         <note type="indexer">IND LYN 2010/01/20</note>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">100108</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221119130837.0</recordChangeDate>
+         <recordIdentifier>9915623457607426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-29 09:58:04</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Predisposition to bark beetle attack by root herbivores and associated pathogens: Roles in forest decline, gap formation, and persistence of endemic bark beetle populations</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Brian H.</namePart>
+         <namePart type="family">Aukema</namePart>
+         <displayForm>Aukema, Brian H.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Jun</namePart>
+         <namePart type="family">Zhu</namePart>
+         <displayForm>Zhu, Jun</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Jesper</namePart>
+         <namePart type="family">Møller</namePart>
+         <displayForm>Møller, Jesper</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Jakob G.</namePart>
+         <namePart type="family">Rasmussen</namePart>
+         <displayForm>Rasmussen, Jakob G.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Kenneth F.</namePart>
+         <namePart type="family">Raffa</namePart>
+         <displayForm>Raffa, Kenneth F.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <publisher>Elsevier Science</publisher>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2010-01-25</dateIssued>
+         <dateIssued encoding="marc">2010</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 374-382.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">Bark beetles are largely known for their ability to undergo intermittent population eruptions that transform entire landscapes and pose significant economic hardships. However, most species do not undergo outbreaks, and eruptive species usually exert only minor disturbances. Understanding the dynamics of tree-killing noneruptive species can provide insights into how beetles persist at low densities, and how some spatiotemporal patterns of host predisposition may more likely favor breaching eruptive thresholds than others. Elucidating mechanisms behind low-density populations is challenging, however, due to the requirement of long-term monitoring and high degrees of spatial and temporal covariance. We censused more than 2700 trees annually over 7 years, and at the end of 17 years, in a mature red pine plantation. Trees were measured for the presence of bark beetles and wood borers that breed within the primary stem, root weevils that breed in root collars, and bark beetles that breed in basal stems. We quantify the sequence of events that drive this decline syndrome, with the primary emergent pattern being an interaction between below- and above-ground herbivores and their fungal symbionts. This interaction results in an expanding forest gap, with subsequent colonization by early-successional vegetation. Spatial position strongly affects the likelihood of tree mortality. A red pine is initially very likely to avoid attack by tree-killing Ips beetles, but attack becomes increasingly likely as the belowground complex spreads to neighboring trees and eventually make trees susceptible. This system is largely internally driven, as there are strong gap edge, but not stand-edge, effects. Additional stressors, such as drought, can provide an intermittent source of susceptible trees to Ips beetles, and elevated temperature slightly accentuates this effect. New gaps can arise from such trees as they subsequently become epicenters for the full complex of organisms associated with this decline, but this is not common. As Ips populations rise, there is some element of positive feedback, in that the proportion of killed trees that were not first colonized by root organisms increases. This positive feedback is very weak, however, and we propose the slope between beetle population density and reliance on host stress as a quantitative distinction along a gradient from noneruptive through eruptive species. Almost all trees colonized by Ips were subsequently colonized by wood borers, likely a source of negative feedback. We discuss implications to our overall understanding of cross-scale interactions, between-guild interactions, forest declines, and eruptive thresholds.</abstract>
+      <note>Includes references</note>
+      <note>2019-12-06</note>
+      <subject authority="atg">
+         <topic>disease vectors</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>bark beetles</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spatial distribution</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Leptographium</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>edge effects</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>drought</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>pest resistance</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>population dynamics</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Dendroctonus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>roots</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Ips</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>boring insects</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fungal diseases of plants</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>population density</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>disease resistance</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Pinus resinosa</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>statistical models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest decline</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>canopy gaps</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>temperature</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree mortality</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>plant stress</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest succession</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>colonizing ability</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Hylobius</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Wisconsin</geographic>
+      </subject>
+      <subject>
+         <topic>weather</topic>
+      </subject>
+      <subject>
+         <topic>eruptive dynamics</topic>
+      </subject>
+      <subject>
+         <topic>ecological succession</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Pests of Plants (Insects and Other Arthropods)</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Plant Diseases (Fungi)</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Forestry Related</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Mathematics and Statistics</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Plant Ecology</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site"
+              usage="primary display">http://dx.doi.org/10.1016/j.foreco.2009.10.032</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Forest ecology and management</title>
+         </titleInfo>
+         <identifier type="issn">0378-1127</identifier>
+         <part>
+            <detail type="volume">
+               <number>259</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>3</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>374</start>
+               <end>382</end>
+               <total>9</total>
+            </extent>
+            <text type="year">2010</text>
+            <text type="month">Jan</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.foreco.2009.10.032</identifier>
+      <identifier type="control">9915623500907426</identifier>
+      <identifier type="agricola">IND44309294</identifier>
+      <identifier type="local">agid:773838</identifier>
+      <extension>
+         <note type="saleTape">20100120 20100205 00000000</note>
+         <note type="indexer">IND LYN 2010/01/20</note>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">100108</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221119130843.0</recordChangeDate>
+         <recordIdentifier>9915623500907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-29 09:58:04</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Patterns of larch establishment following deglaciation of Ventina glacier, central Italian Alps</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Matteo</namePart>
+         <namePart type="family">Garbarino</namePart>
+         <displayForm>Garbarino, Matteo</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Emanuele</namePart>
+         <namePart type="family">Lingua</namePart>
+         <displayForm>Lingua, Emanuele</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Thomas Andrew</namePart>
+         <namePart type="family">Nagel</namePart>
+         <displayForm>Nagel, Thomas Andrew</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Danilo</namePart>
+         <namePart type="family">Godone</namePart>
+         <displayForm>Godone, Danilo</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">Renzo</namePart>
+         <namePart type="family">Motta</namePart>
+         <displayForm>Motta, Renzo</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <publisher>Elsevier Science</publisher>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2010-01-25</dateIssued>
+         <dateIssued encoding="marc">2010</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 583-590.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">Rapid glacier retreat often results in extensive areas of deglaciated terrain where primary successional processes occur. We studied biotic and abiotic factors underlying the invasion of larch (Larix decidua Mill.) on a glacier foreland and tested the hypothesis that the pattern of its establishment was controlled primarily by terrain age. The time span between deglaciation and establishment of larch and the importance of the position and shape of the glacier on the forest structure were studied over ∼150 years of glacial retreat. We related three data sets (forest structure, topography and spatial position) using ordination methods. Simple and partial Mantel tests and kriging interpolation were used to map and identify the key factors underlying the spatial patterns of larch establishment. The elapsed time between deglaciation and the germination of the larch trees was estimated between 14 and 34 years, with lower values found closer to the glacier terminus. Sparse and young stands developed near the glacier terminus and Mantel tests indicated significant correlations between spatial distance and ecological distance. The kriging interpolation showed strong agreement between tree age and the spatial pattern of the retreating glacier. The most influential factors in determining stand density and age were proximity to the glacier terminus and seed sources, as well as litter cover and elevation. The age of trees was strongly influenced by terrain age or time since deglaciation, but as succession progressed forest structure became more complex.</abstract>
+      <note>Includes references</note>
+      <subject authority="atg">
+         <topic>Larix decidua</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>glaciers</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecological invasion</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecological succession</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>climate change</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>environmental factors</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>topography</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>coniferous forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree growth</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>moraine soils</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest stands</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>stand structure</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>density</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seedling growth</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spatial distribution</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spatial data</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>seeds</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Italy</geographic>
+      </subject>
+      <subject>
+         <topic>glacier retreat</topic>
+      </subject>
+      <subject>
+         <topic>chronosequence method</topic>
+      </subject>
+      <subject>
+         <topic>terrain age</topic>
+      </subject>
+      <subject>
+         <topic>deglaciated terrain</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Plant Ecology</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Forest Mensuration and Description</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Meteorology and Climatology</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Soil Chemistry and Physics</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site"
+              usage="primary display">http://dx.doi.org/10.1016/j.foreco.2009.11.016</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Forest ecology and management</title>
+         </titleInfo>
+         <identifier type="issn">0378-1127</identifier>
+         <part>
+            <detail type="volume">
+               <number>259</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>3</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>583</start>
+               <end>590</end>
+               <total>8</total>
+            </extent>
+            <text type="year">2010</text>
+            <text type="month">Jan</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.foreco.2009.11.016</identifier>
+      <identifier type="control">9915623575507426</identifier>
+      <identifier type="agricola">IND44309317</identifier>
+      <identifier type="local">agid:773860</identifier>
+      <extension>
+         <note type="saleTape">20100121 20100205 00000000</note>
+         <note type="indexer">IND LYN 2010/01/21</note>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">100108</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221119131028.0</recordChangeDate>
+         <recordIdentifier>9915623575507426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-29 09:58:04</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Evaluating height structure in Scots pine forests using marked point processes</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">F.</namePart>
+         <namePart type="family">Montes</namePart>
+         <displayForm>Montes, F.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">I.</namePart>
+         <namePart type="family">Barbeito</namePart>
+         <displayForm>Barbeito, I.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">A.</namePart>
+         <namePart type="family">Rubio</namePart>
+         <displayForm>Rubio, A.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">I.</namePart>
+         <namePart type="family">Canellas</namePart>
+         <displayForm>Canellas, I.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <publisher>Elsevier Science</publisher>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2008-07</dateIssued>
+         <dateIssued encoding="marc">2008</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 1924-1934.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">In this study, the second-moment analysis of marked spatial point processes is applied to the characterization of the tree height distribution in two Scots pine (Pinus sylvestris L.) forests in the Central Mountain Range of Spain. The cumulative function Lm(d) weighted by the normalized mark variance is proposed to analyse the second-order properties of marked point patterns. The empirical Lm(d) was compared with two null models to assess the relationship between the spatial distribution of the trees and the tree height correlations: the first null model was used to characterize the spatial clustering of the trees and was derived from the complete spatial randomness model used with Ripley's K(d) function. The second null model, which is derived from the random labelling model used with the intertype second-moment measure K12(d) (type 1 intensity conditioned to the type 2 intensity and vice versa), allows us to identify the mark correlations. The performance of the technique was assessed through simulated marked point patterns. The second-moment analysis showed that most of the analysed Scots pine stands have a uniform height distribution at small scale and greater heterogeneity at large scales, with the exception of an upper altitudinal stand, which exhibited heterogeneity at short distances. These results demonstrate the utility of second-moment analysis of marked point processes for characterizing height structure in forest stands and the interaction between the height and the spatial pattern of the trees.</abstract>
+      <note>Includes references</note>
+      <note>Summary in french.</note>
+      <subject authority="atg">
+         <topic>tree and stand measurements</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest inventory</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Pinus sylvestris</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>spatial distribution</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>height</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>stand structure</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>coniferous forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>equations</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>statistical analysis</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>environmental factors</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Spain</geographic>
+      </subject>
+      <subject>
+         <topic>simulated marked point patterns</topic>
+      </subject>
+      <subject>
+         <topic>second-moment analysis</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Forest Mensuration and Description</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Mathematics and Statistics</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Plant Ecology</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site"
+              usage="primary display">http://dx.doi.org/10.1139/X08-002</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Canadian journal of forest research =</title>
+         </titleInfo>
+         <identifier type="issn">0045-5067</identifier>
+         <part>
+            <detail type="volume">
+               <number>38</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>7</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>1924</start>
+               <end>1934</end>
+               <total>11</total>
+            </extent>
+            <text type="year">2008</text>
+            <text type="month">July</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1139/X08-002</identifier>
+      <identifier type="control">9916251287207426</identifier>
+      <identifier type="agricola">IND44081042</identifier>
+      <identifier type="local">agid:733168</identifier>
+      <extension>
+         <note type="saleTape">20080820 20080905 00000000</note>
+         <note type="indexer">IND LYN 2008/08/20</note>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">080721</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118030737.0</recordChangeDate>
+         <recordIdentifier>9916251287207426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-29 09:58:04</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Spatial genetic structure in natural populations of Caryocar brasiliense Camb. (Caryocareceae) in the North of Minas Gerais, Brazil</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">Afranio Farias, Jr</namePart>
+         <namePart type="family">de Melo</namePart>
+         <displayForm>de Melo, Afranio Farias, Jr</displayForm>
+         <affiliation>Universidade Estadual de Montes Claros – Unimontes, Brazil</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Dulcinéia</namePart>
+         <namePart type="family">de Carvalho</namePart>
+         <displayForm>de Carvalho, Dulcinéia</displayForm>
+         <affiliation>Universidade Federal de Lavras – UFLA, Brazil</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Fábio A.</namePart>
+         <namePart type="family">Vieira</namePart>
+         <displayForm>Vieira, Fábio A.</displayForm>
+         <affiliation>Universidade Federal do Rio Grande do Norte – UFRN, Brazil</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <name type="personal">
+         <namePart type="given">Dario A.</namePart>
+         <namePart type="family">de Oliveira</namePart>
+         <displayForm>de Oliveira, Dario A.</displayForm>
+         <affiliation>Universidade Estadual de Montes Claros – Unimontes, Brazil</affiliation>
+         <role>
+            <roleTerm type="text">author</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <publisher>Elsevier Science</publisher>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2012-08</dateIssued>
+         <dateIssued encoding="marc">2012</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 205-209.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">Caryocar brasiliense is a widely distributed but endangered Brazilian Cerrado tree species. We studied patterns of spatial genetic structure and populational differentiation from four natural populations in the North of the State of Minas Gerais, Brazil. Genetic diversity from 240 individuals using allozyme loci was analyzed and inferred by heterozygosity index, Nason's kinship coefficient and assessment of historical population bottlenecks. We did not find evidence of inbreeding within fragments, but from the fitting tests into the infinite allele model of mutation no population was shown to be in equilibrium, indicating recent bottlenecks. Only one population (Japonvar) showed positive coancestry value indicating the tendency of increased structure among trees that are spatially closer to each other. Although the average genetic differentiation in each population pair was generally low (DGÂ =Â 0.036), Mantel tests showed tendency for distance dependence of genetic structure (râ&#x82;&#x98;Â =Â 0.905, PÂ =Â 0.084). Fragmentation may cause genetic isolation by next generations, increasing differentiation among populations. Thus, considering the practically irreversible fragmentation of populations around agricultural areas at Cerrado Biome, landscape management strategies for C. brasiliense should be considered to protect the still existent populations.</abstract>
+      <subject authority="atg">
+         <topic>Caryocar brasiliense</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>alleles</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>allozymes</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>cerrado</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>ecosystems</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>genetic variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>heterozygosity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>inbreeding</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>kinship</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>landscape management</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>loci</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>models</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>mutation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>trees</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Brazil</geographic>
+      </subject>
+      <location>
+         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1016/j.bse.2012.02.005</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Biochemical systematics and ecology</title>
+         </titleInfo>
+         <identifier type="issn">0305-1978</identifier>
+         <part>
+            <detail type="volume">
+               <number>43</number>
+               <caption>v.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>205</start>
+               <end>209</end>
+               <total>5</total>
+            </extent>
+            <text type="year">2012</text>
+            <text type="month">Aug</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1016/j.bse.2012.02.005</identifier>
+      <identifier type="control">9916251291807426</identifier>
+      <identifier type="agricola">IND44732715</identifier>
+      <identifier type="local">agid:458817</identifier>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">141110</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118030533.0</recordChangeDate>
+         <recordIdentifier>9916251291807426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-29 09:58:04</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Natural regeneration in a beech-dominated forest managed by close-to-nature principles --- a gap cutting based experiment</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">K.</namePart>
+         <namePart type="family">Hahn</namePart>
+         <displayForm>Hahn, K.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">P.</namePart>
+         <namePart type="family">Madsen</namePart>
+         <displayForm>Madsen, P.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <publisher>Elsevier Science</publisher>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2008-07</dateIssued>
+         <dateIssued encoding="marc">2008</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 1716-1729.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">European beech (Fagus sylvatica L.) is increasingly managed by close-to-nature principles, mimicking the gap dynamics of seminatural forests. The prime aim of this study was to analyse natural regeneration reliability under favourable conditions in newly formed gaps. A total of 12 gaps were created by felling three canopy trees for each gap: six gaps in each of the two winters 1996-1997 and 1997-1998. One-half of the gaps were fenced against deer. We recorded advance regeneration density (1997), regeneration density and height (1997-2002), relative light intensity (1997-2002), and volumetric soil moisture content (1997-2002). We also studied the effect of year of establishment, fenced versus unfenced, and position within gap on regeneration. Three or 4 years after gap formation, most gaps had nearly closed. Response of European beech, European ash (Fraxinus excelsior L. ), and sycamore maple (Acer pseudoplatanus L.) regeneration to gap formation was limited, and few seedlings were added to the advance regeneration pool during the study period. Other factors, such as relative light intensity, soil moisture, fencing, year of establishment, and position within gaps, all had rather low effects. Thus, the presence of advance regeneration appeared to be a key factor in explaining regeneration patterns in artificially created gaps.</abstract>
+      <note>Includes references</note>
+      <note>Summary in french.</note>
+      <note>2019-12-06</note>
+      <subject authority="atg">
+         <topic>spatial distribution</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>light intensity</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>height</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>natural regeneration</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest stands</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Fraxinus excelsior</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>browsing</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>soil water content</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>plant establishment</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>sustainable forestry</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Acer pseudoplatanus</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>stand density</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>canopy gaps</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Fagus sylvatica</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>fences</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree growth</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>stand management</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>deer</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Denmark</geographic>
+      </subject>
+      <subject>
+         <topic>advance regeneration</topic>
+      </subject>
+      <subject>
+         <topic>forest regeneration</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Forestry Production (Natural Regeneration)</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Soil Chemistry and Physics</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Pests of Plants (Animals)</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Plant Ecology</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site"
+              usage="primary display">http://dx.doi.org/10.1139/X08-026</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Canadian journal of forest research =</title>
+         </titleInfo>
+         <identifier type="issn">0045-5067</identifier>
+         <part>
+            <detail type="volume">
+               <number>38</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>7</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>1716</start>
+               <end>1729</end>
+               <total>14</total>
+            </extent>
+            <text type="year">2008</text>
+            <text type="month">July</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1139/X08-026</identifier>
+      <identifier type="control">9916251293907426</identifier>
+      <identifier type="agricola">IND44081024</identifier>
+      <identifier type="local">agid:733151</identifier>
+      <extension>
+         <note type="saleTape">20080822 20080905 00000000</note>
+         <note type="indexer">IND LYN 2008/08/20</note>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">080721</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118030600.0</recordChangeDate>
+         <recordIdentifier>9916251293907426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-29 09:58:04</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Factors predisposing episodic drought-induced tree mortality in Nothofagus - site, climatic sensitivity and growth trends</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">M.L.</namePart>
+         <namePart type="family">Suarez</namePart>
+         <displayForm>Suarez, M.L.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">L.</namePart>
+         <namePart type="family">Ghermandi</namePart>
+         <displayForm>Ghermandi, L.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">T.</namePart>
+         <namePart type="family">Kitzberger</namePart>
+         <displayForm>Kitzberger, T.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <publisher>Elsevier Science</publisher>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2004-12</dateIssued>
+         <dateIssued encoding="marc">2004</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 954-966.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">1. Although climatic variability is a strong driving force for forest dynamics, drought-induced mortality has generally received much less attention than other types of disturbance. 2. In 1998-99 northern Patagonia was affected by one of the most severe droughts of the 20th century, coinciding with a strong La Nina event, and this caused high mortality of Nothofagus dombeyi (coihue), the dominant tree species in Nahuel Huapi National Park. 3. Factors involved in determining this mortality of N. dombeyi were examined at both patch and tree level. Radial growth characteristics of killed trees and survivors were compared by dendrochronological analyses. Relationships between growth and climate were investigated using response function analysis. 4. At the tree scale, individuals with variable growth were more prone to die from drought than trees with more regular growth. Juveniles whose growth patterns showed sensitivity to climate were particularly likely to die. However, among both killed trees and survivors, older trees were less sensitive to climate. 5. Mean growth rate was a good predictor of mortality in adult trees, showing that trees with slower growth rate were more susceptible to drought. Susceptible trees may have been negatively affected by the drought that affected northern Patagonia in 1956-57. 6. These results underscore the importance of considering drought-induced tree mortality as a non-random mechanism influenced by site, previous stress/disturbance history, ontogeny, vigour, climatic sensitivity and physiology. Spatial patterns of extensive full and partial crown dieback, which are evident in many temperate forests worldwide, may reflect the superposition of these predisposing factors on strong/repeated interannual fluctuations of climate.</abstract>
+      <note>2019-12-04</note>
+      <subject authority="atg">
+         <topic>tree growth</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>temporal variation</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>growth rings</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>drought tolerance</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>drought</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree and stand measurements</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest stands</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>climatic factors</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>stand characteristics</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree mortality</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>Nothofagus dombeyi</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Argentina</geographic>
+      </subject>
+      <subject>
+         <topic>weather</topic>
+      </subject>
+      <subject>
+         <topic>radial growth</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Plant Ecology</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Forestry Related</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Meteorology and Climatology</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Plant Physiology and Biochemistry</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Forest Mensuration and Description</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site"
+              usage="primary display">http://dx.doi.org/10.1111/j.1365-2745.2004.00941.x</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Journal of ecology</title>
+         </titleInfo>
+         <identifier type="issn">0022-0477</identifier>
+         <part>
+            <detail type="volume">
+               <number>92</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>6</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>954</start>
+               <end>966</end>
+               <total>13</total>
+            </extent>
+            <text type="year">2004</text>
+            <text type="month">Dec</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1111/j.1365-2745.2004.00941.x</identifier>
+      <identifier type="control">9916258088007426</identifier>
+      <identifier type="agricola">IND43670908</identifier>
+      <identifier type="local">agid:1391710</identifier>
+      <extension>
+         <note type="saleTape">20080208 20080301 00000000</note>
+         <note type="indexer">IND LYN 2006/09/11</note>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">050214</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118023235.0</recordChangeDate>
+         <recordIdentifier>9916258088007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-29 09:58:04</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+   <mods version="3.7">
+      <titleInfo>
+         <title>Height growth response of tree line black spruce to recent climate warming across the forest-tundra of eastern Canada</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart type="given">I.</namePart>
+         <namePart type="family">Gamache</namePart>
+         <displayForm>Gamache, I.</displayForm>
+      </name>
+      <name type="personal">
+         <namePart type="given">S.</namePart>
+         <namePart type="family">Payette</namePart>
+         <displayForm>Payette, S.</displayForm>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <publisher>Elsevier Science</publisher>
+         <dateIssued encoding="w3cdtf" keyDate="yes">2004-10</dateIssued>
+         <dateIssued encoding="marc">2004</dateIssued>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <physicalDescription>
+         <extent>p. 835-845.</extent>
+      </physicalDescription>
+      <abstract displayLabel="Summary">1. The northward expansion of the boreal forest vegetation zone is generally predicted under a warmer doubled CO2, but the delay associated with vegetation development processes often has been overlooked. In the subarctic forest-tundra of northern Quebec, reforestation of tundra uplands appears currently limited by the poor reproductive capacity of shrubby black spruce (Picea mariana), and the development of erect stems through accelerated height growth should be the first registered response to 20th century climate warming. The subarctic forest-tundra is characterized by small- and large-scale heterogeneity in topography, vegetation structure and climate. This spatial heterogeneity, added to the complexity of tree growth-climate relationships, can cause various growth responses of subarctic tree line black spruce to 20th century climate change. 2. Twenty spruce populations at subarctic tree lines and seven isolated clones at the species limit were sampled along a &gt; 300-km latitudinal transect from the southern forest-tundra to the shrub tundra. Height growth patterns of black spruce at tree line and above tree line were examined (i) over their life span, using dendrochronological dating of stem cross-sections, and (ii) for the recent decades, using leader shoot elongation measurements. Indexed elongation chronologies were compared with regional climate data. 3. Height growth of tree line trees generally decreased with increasing latitude. However, tree line trees in the northern forest-tundra have experienced an acceleration of height growth since the 1970s, with their growth comparable to that of trees in the southern forest-tundra. Height growth response of spruce trees appeared increasingly delayed from the northern forest-tundra to the species limit. Above the subarctic tree line, wind-exposed conditions obscured the decrease in height growth with latitude observed for tree line trees. 4. Leader shoot elongation of spruce trees established on tundra hilltops appeared more controlled by summer heat sums than those at tree line all over the forest-tundra, except at the arctic tree line. Winter precipitation also was linked to leader shoot elongation in some forest-tundra sites. The increasing snow cover associated with recent warming appeared to have reduced the shoot elongation of spruce at forest margins showing the steepest slopes, hence subjected to snow overloading. 5. In the northern forest-tundra sites, the recent increase in height growth and positive trend in leader shoot elongation, consistent with a 1990s' increase in heat sums, point to the development of spruce krummholz into erect growth forms. In the southern forest-tundra, reforestation of tundra hilltops and northward expansion of the boreal forest predicted under doubled CO2 conditions could be delayed, as suggested by suppressed height growth of spruce above tree line.</abstract>
+      <subject authority="atg">
+         <topic>Picea mariana</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>forest trees</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>boreal forests</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>climate change</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>dendrochronology</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree growth</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>height</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tundra</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>latitude</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>wind</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>treeline</topic>
+      </subject>
+      <subject authority="atg">
+         <topic>tree age</topic>
+      </subject>
+      <subject authority="atg">
+         <geographic>Quebec</geographic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Plant Ecology</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Meteorology and Climatology</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Forestry Related</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Forest Mensuration and Description</topic>
+      </subject>
+      <subject authority="agricola">
+         <topic>Plant Physiology and Biochemistry</topic>
+      </subject>
+      <location>
+         <physicalLocation>DNAL</physicalLocation>
+      </location>
+      <location>
+         <url displayLabel="Available from publisher's Web site"
+              usage="primary display">http://dx.doi.org/10.1111/j.0022-0477.2004.00913.x</url>
+      </location>
+      <relatedItem type="host">
+         <titleInfo>
+            <title>Journal of ecology</title>
+         </titleInfo>
+         <identifier type="issn">0022-0477</identifier>
+         <part>
+            <detail type="volume">
+               <number>92</number>
+               <caption>v.</caption>
+            </detail>
+            <detail type="issue">
+               <number>5</number>
+               <caption>no.</caption>
+            </detail>
+            <extent unit="pages">
+               <start>835</start>
+               <end>845</end>
+               <total>11</total>
+            </extent>
+            <text type="year">2004</text>
+            <text type="month">Oct</text>
+         </part>
+      </relatedItem>
+      <identifier type="doi">10.1111/j.0022-0477.2004.00913.x</identifier>
+      <identifier type="control">9916258092007426</identifier>
+      <identifier type="agricola">IND43652530</identifier>
+      <identifier type="local">agid:1391702</identifier>
+      <extension>
+         <note type="saleTape">20060913 20061003 00000000</note>
+         <note type="indexer">IND LYN 2006/09/13</note>
+         <note type="publicationSource">Non-US</note>
+      </extension>
+      <recordInfo>
+         <recordContentSource authority="marcorg">AGL</recordContentSource>
+         <recordCreationDate encoding="marc">041028</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20221118023156.0</recordChangeDate>
+         <recordIdentifier>9916258092007426</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-29 09:58:04</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+</modsCollection>

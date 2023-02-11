@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>16830cam a22007214a 4500</leader>
+      <controlfield tag="001">9915515270807426</controlfield>
+      <controlfield tag="005">20221102190650.0</controlfield>
+      <controlfield tag="008">020711s2001    miua          100 0 eng  </controlfield>
+      <datafield tag="010" ind1=" " ind2=" ">
+         <subfield code="a">  2001090005</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT11120589</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">1892769212</subfield>
+         <subfield code="q">(pbk.)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9781892769213</subfield>
+         <subfield code="q">(pbk.)</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">887568</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)48455834</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)887568-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">DLC</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">DLC</subfield>
+         <subfield code="d">AGL</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">BTCTA</subfield>
+         <subfield code="d">LVB</subfield>
+         <subfield code="d">YDXCP</subfield>
+         <subfield code="d">OCLCG</subfield>
+         <subfield code="d">DEBBG</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCL</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">IPL</subfield>
+         <subfield code="d">OCLCQ</subfield>
+      </datafield>
+      <datafield tag="042" ind1=" " ind2=" ">
+         <subfield code="a">pcc</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="050" ind1="0" ind2="0">
+         <subfield code="a">SF91</subfield>
+         <subfield code="b">.L582 2001</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">SF91</subfield>
+         <subfield code="b">.L582 2001</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">N100</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">L800</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">L600</subfield>
+      </datafield>
+      <datafield tag="245" ind1="0" ind2="0">
+         <subfield code="a">Livestock Environment VI :</subfield>
+         <subfield code="b">proceedings of the Sixth International Symposium, Galt House Hotel, Louisville, Kentucky, May 21-23, 2001 /</subfield>
+         <subfield code="c">edited by Richard R. Stowell, Ray Bucklin, Robert W. Bottcher.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">St Joseph, MI :</subfield>
+         <subfield code="b">ASAE/Society for Engineering in Agricultural, Food, and Biological Systems,</subfield>
+         <subfield code="c">©2001.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">xvii, 763 pages :</subfield>
+         <subfield code="b">illustrations ;</subfield>
+         <subfield code="c">23 cm</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="530" ind1=" " ind2=" ">
+         <subfield code="a">Also available on the Internet.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="t">Keynote Speakers --</subfield>
+         <subfield code="t">Changes in Animal Welfare Needed to Maintain Social Sustainability /</subfield>
+         <subfield code="r">J.D. Armstrong, E.A. Pajor --</subfield>
+         <subfield code="t">Environmental Design and Management for Livestock in the 21st Century: Resolving Conflicts by Integrated Solutions /</subfield>
+         <subfield code="r">C.M. Wathes, S.M. Abeyesinghe, A.R. Frost --</subfield>
+         <subfield code="t">Heat Stress Management-Dairy --</subfield>
+         <subfield code="t">Effectiveness of Fan and Feedline Sprinklers in Cooling Dairy Cattle Housed in 2- or 4-row Freestall Buildings /</subfield>
+         <subfield code="r">M.J. Brouk, J.F. Smith, J.P. Harner, III --</subfield>
+         <subfield code="t">Animal Welfare Indicator and Behaviour of Dairy Cows Exposed to Different Climatization Systems During Summer Season /</subfield>
+         <subfield code="r">E. Frazzi, L. Calamari, F. Calegari --</subfield>
+         <subfield code="t">Performance of Tunnel Ventilation for Freestall Dairy Facilities as Compared to Natural Ventilation with Supplemental Cooling Fans /</subfield>
+         <subfield code="r">R.R. Stowell, C.A. Gooch, S. Inglis --</subfield>
+         <subfield code="t">A Study To Compare Nighttime Cooling Strategies on Commercial Dairy /</subfield>
+         <subfield code="r">J.N. Spain, D.E. Spiers, J.D. Sampson --</subfield>
+         <subfield code="t">Effect of Cooling Strategy and Night Temperature on Dairy Cow Performance During Heat Stress /</subfield>
+         <subfield code="r">D.E. Spiers, J.N. Spain, M.J. Leonard, M.C. Lucy --</subfield>
+         <subfield code="t">The Effects of Nighttime Versus Continuous-Cooling on Thermal Balance and Milk Production of Lactating Dairy Cows /</subfield>
+         <subfield code="r">J.N. Spain, D.E. Spiers, J.D. Sampson --</subfield>
+         <subfield code="t">Animal Growth &amp; Performance --</subfield>
+         <subfield code="t">Monitoring Growth and Statistical Variation of Grow-Finish Swine /</subfield>
+         <subfield code="r">R.L. Korthals --</subfield>
+         <subfield code="t">A Hands-Off Method to Estimate Pig Weight by Light Projection and Image Analysis /</subfield>
+         <subfield code="r">H. Minagawa, T. Murakami.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="t">Effect of Pre-Weaning Housing System on Growth Performances and Carcass Composition of Pigs /</subfield>
+         <subfield code="r">V. Fitas da Cruz, E.M. Lucas, F.J. Baptista --</subfield>
+         <subfield code="t">Effect of Season (Summer vs. Fall) and Diet Nutrient Density on Performance and Carcass Characteristics of Growing-Finishing Swine /</subfield>
+         <subfield code="r">R.O. Myer, R.A. Bucklin --</subfield>
+         <subfield code="t">Modeling the Changing Genetics of Swine Growth /</subfield>
+         <subfield code="r">T.C. Bridges, T.M. Brown-Brandl, L.W. Turner, J.A. Nienaber --</subfield>
+         <subfield code="t">Goat Growth as a Function of Feed Intake /</subfield>
+         <subfield code="r">E. Risch, J.M. Dzakuma, P.M. Johnson, C.O. Smith, H.D. Blackburn --</subfield>
+         <subfield code="t">Heat Stress Management-Feeder Cattle --</subfield>
+         <subfield code="t">Adaptation of Feedlot Cattle to Repeated Sinusoidal Heat Challenge /</subfield>
+         <subfield code="r">M.J. Leonard, D.E. Spiers, G.L. Hahn --</subfield>
+         <subfield code="t">Heat Wave Impacts on Feedlot Cattle: Considerations for Improved Environmental Management /</subfield>
+         <subfield code="r">L. Hahn, T. Mader, D. Spiers, J. Gaughan, J. Nienaber, R. Eigenberg, T. Brown-Brandl, Q Hu, D. Griffin, L. Hungerford, A. Parkhurst, M. Leonard, W. Adams, L. Adams --</subfield>
+         <subfield code="t">Strategies to Reduce High Heat Load on Feedlot Cattle /</subfield>
+         <subfield code="r">J.B. Gaughan, T.M. Kunde, T.L. Mader, S.M. Holt, A. Lisle, M.S. Davis --</subfield>
+         <subfield code="t">Heat Load Management for Feedlot Cattle /</subfield>
+         <subfield code="r">T.L. Mader, S.M. Holt, J.B. Gaughan, G.L. Hahn, M.S. Davis, A.M. Parkhurst, D.E. Spiers --</subfield>
+         <subfield code="t">Feed Intake Response of Heat Challenged Cattle /</subfield>
+         <subfield code="r">J.A. Nienaber, G.L. Hahn, R.A. Eigenberg, T.M. Brown-Brandl, J.B. Gaughan --</subfield>
+         <subfield code="t">Effects of Water Application to Feedlot Mounds During the Summer /</subfield>
+         <subfield code="r">M.S. Davis, T.L. Mader --</subfield>
+         <subfield code="t">Response of Swine to Environment --</subfield>
+         <subfield code="t">Monitoring Water Intake in Pigs: Prediction of Disease and Stressors /</subfield>
+         <subfield code="r">B.K. Pedersen, T.N. Madsen.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="t">Pen Fouling in Pig Houses Affected by Temperature /</subfield>
+         <subfield code="r">A.J.A. Aarnink, J.W. Schrama, R.J.E. Verheijen, J. Stefanowska --</subfield>
+         <subfield code="t">Pregnant Sows Housed in Kennel Systems at Low Temperatures /</subfield>
+         <subfield code="r">K.E. Boe, I.L. Andersen --</subfield>
+         <subfield code="t">Feeding Systems for Pregnant Sows /</subfield>
+         <subfield code="r">I.L. Andersen, K.E. Boe --</subfield>
+         <subfield code="t">Sow and Litter Performance in Farrowing Pens vs. Crates /</subfield>
+         <subfield code="r">P.A. Phillips, D. Fraser --</subfield>
+         <subfield code="t">Comparison of Electronic Sow Feeding and Crated Management of Sows with Different Genetics /</subfield>
+         <subfield code="r">R.L. Korthals --</subfield>
+         <subfield code="t">Heat Stress Management -- Poultry --</subfield>
+         <subfield code="t">A Survey Study of Environmental Control for Poultry in Central Regions of Saudi Arabia /</subfield>
+         <subfield code="r">I.M. Al-Helal --</subfield>
+         <subfield code="t">Thermal Environmental Analysis for Broiler Housing: A Case Study /</subfield>
+         <subfield code="r">M. Amendola, D.R. Azevedo, J.E. Oliveira, I.A. Naas --</subfield>
+         <subfield code="t">Effects of Drinking Water Temperature on Laying Hens Subjected to Warm Cyclic Environmental Conditions /</subfield>
+         <subfield code="r">M.C. Puma, H. Xin, R.S. Gates, D.U. Ahn --</subfield>
+         <subfield code="t">Cooling Caged Laying Hens in High-rise House by Fogging Inlet Air /</subfield>
+         <subfield code="r">H. Xin, M.C. Puma --</subfield>
+         <subfield code="t">Effect of Different Ventilation Systems on Hot Weather Thermal Comfort and Performance of Broiler Chickens Raised at High Placement /</subfield>
+         <subfield code="r">I.F.F. Tinoco, N. Zanolla, R.C. Alvarenga e Melo, F.C. Baeta, A.L.A. Tinoco, T. Yanagi Jr., S.R.P. Moraes, J.N. Silva --</subfield>
+         <subfield code="t">Effects of Stocking Density on the Performance of Broiler Chickens Grown Under Water Fogging and Tunnel Ventilation Systems /</subfield>
+         <subfield code="r">I.F.F. Tinoco, J.M. Fonseca, R.C. Alvarenga e Melo, A.L.A Tinoco, S.R.P Moraes, T. Yanagi Jr. --</subfield>
+         <subfield code="t">Ventilation Systems and Performance.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="t">Air Motion and Temperature Distribution within Covered Pig Creep Zones in Rooms /</subfield>
+         <subfield code="r">G. Zhang, S. Morsing, J.S. Strom, P. Ravn --</subfield>
+         <subfield code="t">Air Velocities in the Occupied Region of a Ventilated Livestock Room /</subfield>
+         <subfield code="r">J.S. Strom, G. Zhang, S. Morsing --</subfield>
+         <subfield code="t">Odour Reduction in a Swine Barn by Isolating the Dunging Area /</subfield>
+         <subfield code="r">J. Feddes, I. Edeogu, B. Bloemendaal, S. Lemay, R. Coleman --</subfield>
+         <subfield code="t">Numerical Simulation of Airflow in a Room with Multiple Wall Inlets /</subfield>
+         <subfield code="r">B. Bjerg, K. Svidt, G. Zhang, S. Morsing, J.O. Johnsen --</subfield>
+         <subfield code="t">Development of a Simulation Model for a Ventilation System for Swine Confinement /</subfield>
+         <subfield code="r">L. Zhang, T.F. Smith, P.T. O'. Shaughnessy --</subfield>
+         <subfield code="t">Development of a Stereoscopic Particle Image Velocimetry System for Full-Scale Room Air Flow Studies. Part I: Algorithms and Validation /</subfield>
+         <subfield code="r">Y. Sun, Y. Zhang, S. Zhang, L. Zhao, X. Wang --</subfield>
+         <subfield code="t">Thermal Modeling --</subfield>
+         <subfield code="t">Heat and Moisture Production of Broiler Chickens in Commercial Housing /</subfield>
+         <subfield code="r">H. Xin, I.L. Berry, G.T. Tabler, T.A. Costello --</subfield>
+         <subfield code="t">Heat and Moisture Production of Poultry and Their Housing Systems -- A Literature Review /</subfield>
+         <subfield code="r">H.J. Chepete, H. Xin --</subfield>
+         <subfield code="t">Measurement and Simulation of Camel Core Body Temperature Response to Ambient Temperature /</subfield>
+         <subfield code="r">A.A. Al-Faraj, A.A. Al-Haidary --</subfield>
+         <subfield code="t">Evaporative and Convective Cooling of Cows in a Hot and Humid Environment /</subfield>
+         <subfield code="r">P.E. Hillman, K.G. Gebremedhin, A. Parkhurst, J. Fuquay, S. Willard --</subfield>
+         <subfield code="t">Climate Change Effects on Livestock Production in the Great Plains /</subfield>
+         <subfield code="r">K.L. Frank, T.L. Mader, J.A. Harrington, Jr., G.L. Hahn, M.S. Davis --</subfield>
+         <subfield code="t">Indoor Air Quality.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="t">Protocol for Determination of Environmental Parameters in Animal Housing /</subfield>
+         <subfield code="r">E.F. Wheeler, R.E. Graves, J.L. Zajaczkowski, J.T. Tyson, D.F. McFarland, P. Richie --</subfield>
+         <subfield code="t">Thermal Environmental Conditions in Curtain Sided Naturally Ventilated Dairy Freestall Barns /</subfield>
+         <subfield code="r">K.A. Janni, D.M. Allen --</subfield>
+         <subfield code="t">Evaluation of Broiler Housing Indoor Air Quality During Heating and During the Use of Two Types of Ventilation: Natural and Tunnel /</subfield>
+         <subfield code="r">M.S. Baracho, I.A. Naas, M.Y. Miragliotta --</subfield>
+         <subfield code="t">Horse Facility Temperature and Humidity During Winter Conditions /</subfield>
+         <subfield code="r">E.F. Wheeler, J.L. Zajaczkowski, R.E. Graves --</subfield>
+         <subfield code="t">Reducing Fatality Risks from Livestock Manure Storage Facilities /</subfield>
+         <subfield code="r">M.J. Robert, R.A. Aherin, Y. Zhang --</subfield>
+         <subfield code="t">A Comparative Analysis of Biogas Yield from Poultry, Cattle and Piggery Wastes /</subfield>
+         <subfield code="r">I.N. Itodo, J.O. Awulu, T. Philip --</subfield>
+         <subfield code="t">Heat Stress in Cattle --</subfield>
+         <subfield code="t">Vital Functions of Gir Calves in the First 7 Days of Life. Relationship with the Temperature-Humidity Index /</subfield>
+         <subfield code="r">F. Baccari, Jr., J.A.N. Lisboa, E.G. Lo Turco, W.S. Marcal --</subfield>
+         <subfield code="t">Efficiency of Modified Evaporative Cooling in Midwest Dairy Freestall Barns /</subfield>
+         <subfield code="r">M.J. Brouk, J.F. Smith, J.P. Harner, III --</subfield>
+         <subfield code="t">Corn By-products to Feed Grazing Dairy Cows during Summer /</subfield>
+         <subfield code="r">M.R. Gallardo, S.E. Valtorta, J. Maiztegui --</subfield>
+         <subfield code="t">Meteorological Effects on Reproduction of Grazing Dairy Cows /</subfield>
+         <subfield code="r">J.L. Alonso, R.E. Seguro, O.J. Garnero, J.D. Bertero, J.G. Bertoli, P.E. Leva, S.E. Valtorta --</subfield>
+         <subfield code="t">Monitoring Thermal Response of Cattle.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="t">Comparison of Methods of Measuring Deep Body Temperatures of Dairy Cows /</subfield>
+         <subfield code="r">L.C. Hicks, W.S. Hicks, R.A. Bucklin, J.K. Shearer, D.R. Bray, P. Soto, V. Carvalho --</subfield>
+         <subfield code="t">Development of a Respiration Rate Monitor for Cattle and Swine /</subfield>
+         <subfield code="r">R.A. Eigenberg, G.L. Hahn, T.M. Brown-Brandl, J.A. Nienaber --</subfield>
+         <subfield code="t">Correlations of Respiration Rate, Core Body Temperatures, and Ambient Temperatures for Shaded and Non-shaded Cattle /</subfield>
+         <subfield code="r">T.M. Brown-Brandl, R.A. Eigenberg, G.L. Hahn, J.A. Nienaber --</subfield>
+         <subfield code="t">Effect of Shade After Exposure to Direct Solar Radiation on Body Temperature Dynamic Responses in Alentejana and Limousine Beef Cattle /</subfield>
+         <subfield code="r">A. Pereira, F. Baccari, Jr., E. Titto, A. de Almeida --</subfield>
+         <subfield code="t">Thermal Environment for Poultry --</subfield>
+         <subfield code="t">Adapting a Tunnel Ventilation for High Density Broiler Production -- A Case Study /</subfield>
+         <subfield code="r">M.E. Corria, L.A. Naas --</subfield>
+         <subfield code="t">Development of a Mathematical Model to Determine Broiler Weight Gain as a Function of Poultry Housing Orientation, Shading and Forced Ventilation /</subfield>
+         <subfield code="r">D.J. Moura, I.A. Naas --</subfield>
+         <subfield code="t">Study of Thermal Environment for Scaled Models of Broiler Houses, Using Tiles of Clay, Asbestos and Aluminum, under Summer Conditions /</subfield>
+         <subfield code="r">S.R.P. Morais, I.F.F. Tinoco, F.C. Baeta, T. Yanagi, Jr., R.B. Vigoderis, P.R. Cecon --</subfield>
+         <subfield code="t">Determination of the Effectiveness (E) of Different Types of Roof Materials on Broiler Buildings Under Summer Conditions in Brazil /</subfield>
+         <subfield code="r">S.R.P. Morais, I.F.F. Tinoco, F.C. Baeta, T. Yanagi, Jr., R.B. Vigoderis, A.L.R. Oliveira --</subfield>
+         <subfield code="t">Prediction of Black Globe Humidity Index in Poultry Buildings /</subfield>
+         <subfield code="r">T. Yanagi, Jr., G.S. Damasceno, V.H. Teixeira, H. Xin.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="t">Energy &amp; Building Environment --</subfield>
+         <subfield code="t">Ventilated Roofs as a Tool for Improving the Internal Environment of Animal Houses in Hot Summer Climates /</subfield>
+         <subfield code="r">P. Liberati, P. Zappavigna --</subfield>
+         <subfield code="t">Renovation of Ancient Agricultural Buildings for Livestock or Poultry Housing /</subfield>
+         <subfield code="r">M.A. Garcimartin, E.M. Sanchez, M.P. Larraneta --</subfield>
+         <subfield code="t">Odor Measurement --</subfield>
+         <subfield code="t">Phytase-Induced Volatile Fatty Acid Production in Growing Pigs /</subfield>
+         <subfield code="r">A. Woldeghebriel, A. Koenigfeld, A.G. Mathew --</subfield>
+         <subfield code="t">Measurement of Odors and Odorants in Swine Building Airflow Using Aspirated Fabric Swatches and Dust Samples /</subfield>
+         <subfield code="r">R.W. Bottcher, K.M. Keener, R.D. Munilla, L.L. Oehrl-Dean --</subfield>
+         <subfield code="t">Transportation of Animals --</subfield>
+         <subfield code="t">Heat and Moisture Generation of Livestock During Transportation /</subfield>
+         <subfield code="r">P.J. Kettlewell, C.J. Hampson, N.R. Green, N.J. Teer, B.M. Veale, M.A. Mitchell --</subfield>
+         <subfield code="t">Response of Early Weaned Piglets to Simulated Transport Duration and Temperature /</subfield>
+         <subfield code="r">R.J. Berry, N.J. Lewis --</subfield>
+         <subfield code="t">Remote Physiological Monitoring of Livestock -- An Implantable Radio-Telemetry System /</subfield>
+         <subfield code="r">M.A. Mitchell, P.J. Kettlewell, J.C. Lowe, R.R. Hunter, T. King, M. Ritchie, J. Bracken --</subfield>
+         <subfield code="t">Mortality of Broiler Chickens in Transit -- Correlation with the Thermal Micro-environment /</subfield>
+         <subfield code="r">R.R. Hunter, M.A. Mitchell, C. Matheu --</subfield>
+         <subfield code="t">Physiological Stress Response Modeling -- Application to the Broiler Transport Thermal Environment /</subfield>
+         <subfield code="r">M.A. Mitchell, P.J. Kettlewell, R.R. Hunter, A.J. Carlisle --</subfield>
+         <subfield code="t">Controlled Ventilation System for Livestock Transport Vehicles /</subfield>
+         <subfield code="r">P.J. Kettlewell, R.P. Hoxey, R.L. Hartshorn, I.R. Meeks, P. Twydell --</subfield>
+         <subfield code="t">Indoor Air Quality -- Dust.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="t">Relationship between Airborne Bacteria and Dust Concentration in Layer House /</subfield>
+         <subfield code="r">A. Ikeguchi --</subfield>
+         <subfield code="t">Full-Scale Model Experiments on Airborne Particle Transport between Pigs in a Room /</subfield>
+         <subfield code="r">H. Takai, G. Zhang, P. Dahl, B. Bjerg, E. Joergensen, J.P. Nielsen --</subfield>
+         <subfield code="t">Temporal Variation in Swine Confinement Indoor Air Quality /</subfield>
+         <subfield code="r">C. Achutan, Z.E. Nelson, A.W. Karsten, P.T. O'. Shaughnessy --</subfield>
+         <subfield code="t">Effect of Air Outlet Location on Dust Spatial Distribution and Ventilation Effectiveness in a Full-Scale Experimental Room /</subfield>
+         <subfield code="r">X. Wang, Y. Zhang, L.Y. Zhao, G.L. Riskowski --</subfield>
+         <subfield code="t">An Aerodynamic Deduster to Reduce Dust and Gas Emissions from Ventilated Livestock Facilities /</subfield>
+         <subfield code="r">Y. Zhang, J.A. Polakow, X. Wang, G.L. Riskowski, Y. Sun, S.E. Ford --</subfield>
+         <subfield code="t">Animal Behavior --</subfield>
+         <subfield code="t">Early Weaning of Calves -- How Does it Affect the Behaviour /</subfield>
+         <subfield code="r">K.E. Boe, I.L. Andersen --</subfield>
+         <subfield code="t">Feeding Behavior of Dairy Cows in an Automatic Milking System at Two Different Feeding Regimes /</subfield>
+         <subfield code="r">H.H. Oostra, K. Sallvik --</subfield>
+         <subfield code="t">Effects of Housing Typologies on the Welfare of Growing-Finishing Hogs /</subfield>
+         <subfield code="r">M. Barbari --</subfield>
+         <subfield code="t">Using Transponders for Determining Breeder Behavior Versus Environmental Temperature /</subfield>
+         <subfield code="r">I.A. Naas, F.P.F. Curto, D.F. Pereira, M. Amendola, F.H. Behrens --</subfield>
+         <subfield code="t">Shade-Seeking Behavior of Rotationally-Grazed Cows and Calves in a Moderate Climate /</subfield>
+         <subfield code="r">T.M. Widowski --</subfield>
+         <subfield code="t">Global Positioning Systems (GPS) and Grazing Behavior in Cattle /</subfield>
+         <subfield code="r">L.W. Turner, M. Anderson, B.T. Larson, M.C. Udal --</subfield>
+         <subfield code="t">Manure Gas and Odor Emissions --</subfield>
+         <subfield code="t">Ammonia Emissions from Animal Production and Possibility of their Reduction in the Slovak Republic /</subfield>
+         <subfield code="r">J. Sottnik.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="t">Validation of the Collection Efficiency of Passive Ammonia Flux Samplers /</subfield>
+         <subfield code="r">D.C. Welch, T.G.M. Demmers, J.J. Colls, C.M. Wathes --</subfield>
+         <subfield code="t">Characterization of Odor and Gas Emitting Potential from Mechanically Ventilated Deep and Shallow Pit Swine Finishing Buildings in Illinois /</subfield>
+         <subfield code="r">G.Y. Miller, M.J. Robert, R.G. Maghirang, G.L. Riskowski, A.J. Heber, K.R. Cadwallader --</subfield>
+         <subfield code="t">Oil Sprinkling and Dietary Manipulation to Reduce Odour and Gas Emissions from Swine Buildings -- Laboratory Scale Experiment /</subfield>
+         <subfield code="r">S. Godbout, S.P. Lemay, R. Joncas, J.P. Larouche, D.Y. Martin, J.F. Bernier, R.T. Zijlstra, L. Chenard, A. Marquis, E.M. Barber, D. Masse --</subfield>
+         <subfield code="t">Influence of Weather Conditions on Field Evaluation of Odor Dispersions from Animal Production Sites /</subfield>
+         <subfield code="r">L.D. Jacobson, H. Guo, D.R. Schmidt, R.E. Nicolai --</subfield>
+         <subfield code="t">Simulation of Odor Dispersions as Impacted by Weather Conditions /</subfield>
+         <subfield code="r">H. Guo, L.D. Jacobson, D.R. Schmidt, K.A. Janni --</subfield>
+         <subfield code="t">Animal Welfare &amp; Environment --</subfield>
+         <subfield code="t">Light, Poultry and Vision /</subfield>
+         <subfield code="r">N.B. Prescott, C.M. Wathes --</subfield>
+         <subfield code="t">Environmental Conditions in Plastic Film Covered Calf Facilities /</subfield>
+         <subfield code="r">C.A. Gooch, S.F. Inglis --</subfield>
+         <subfield code="t">Using Behavioral Indicators and Injury Scores to Assess the Effect of Stall Flooring on Cow Comfort /</subfield>
+         <subfield code="r">J. Rushen, A.M. de Passille, D.B. Haley, E. Manninen, H. Saloniemi --</subfield>
+         <subfield code="t">Using Force Between Cow and Feed Barrier as a Design Parameter for the Eating Place /</subfield>
+         <subfield code="r">K. Hansen, J.S. Strom --</subfield>
+         <subfield code="t">Housing Systems for Improved Manure Management --</subfield>
+         <subfield code="t">The Eco Barn: Good for Animals and Good for the Environment /</subfield>
+         <subfield code="r">J.C. Luymes.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="8" ind2="0">
+         <subfield code="t">Indoor Air Quality and Pig Performance within a High-Rise Hog Facility /</subfield>
+         <subfield code="r">R.R. Stowell, H. Keener, D. Elwell, T. Menke, S. Inglis --</subfield>
+         <subfield code="t">Development of an Energy Efficient Swine Building Using Conveyor Belts for Manure Handling /</subfield>
+         <subfield code="r">K.A. Elmer, C.A. Rimbach, R.W. Bottcher, F.J. Humenik, J.J. Classen, J.M. Rice, T.A. van Kempen, E. van Heugten, K.D. Zering, J. Gregory, J. Hardesty --</subfield>
+         <subfield code="t">Composting Swine Manure: A Technical and Economic Analysis /</subfield>
+         <subfield code="r">R.C. Lacy, W.A. Frank, R.D. Little.</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Livestock</subfield>
+         <subfield code="x">Housing</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Livestock</subfield>
+         <subfield code="x">Ecology</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Veterinary physiology</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Veterinary hygiene</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="3">
+         <subfield code="a">Internet resource.</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="7">
+         <subfield code="a">Conference papers and proceedings.</subfield>
+         <subfield code="2">fast</subfield>
+         <subfield code="0">(OCoLC)fst01423772</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="7">
+         <subfield code="a">Louisville (Ky., 2001)</subfield>
+         <subfield code="2">swd</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Stowell, Richard R.</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Bucklin, Ray.</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Bottcher, Robert William,</subfield>
+         <subfield code="d">1957-</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/n88680118</subfield>
+      </datafield>
+      <datafield tag="711" ind1="2" ind2=" ">
+         <subfield code="a">International Livestock Environment Symposium</subfield>
+         <subfield code="n">(6th :</subfield>
+         <subfield code="d">2001 :</subfield>
+         <subfield code="c">Louisville, Ky.)</subfield>
+      </datafield>
+      <datafield tag="776" ind1="0" ind2="8">
+         <subfield code="i">Online version:</subfield>
+         <subfield code="t">Livestock Environment VI.</subfield>
+         <subfield code="d">St Joseph, MI : ASAE/Society for Engineering in Agricultural, Food, and Biological Systems, ©2001</subfield>
+         <subfield code="w">(OCoLC)904219278</subfield>
+      </datafield>
+      <datafield tag="856" ind1="4" ind2="1">
+         <subfield code="u">https://elibrary.asabe.org/conference.asp?confid=iles2001</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">20030203</subfield>
+         <subfield code="b">20030211</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker and Taylor</subfield>
+         <subfield code="b">BTCP</subfield>
+         <subfield code="n">2001090005</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">YBP Library Services</subfield>
+         <subfield code="b">YANK</subfield>
+         <subfield code="n">1794783</subfield>
+      </datafield>
+      <datafield tag="939" ind1=" " ind2=" ">
+         <subfield code="a">20020801</subfield>
+         <subfield code="b">20020807</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="939" ind1=" " ind2=" ">
+         <subfield code="a">20030124</subfield>
+         <subfield code="b">00000000</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="945" ind1=" " ind2=" ">
+         <subfield code="d">SES</subfield>
+         <subfield code="e">2002/07/11</subfield>
+         <subfield code="f">SES</subfield>
+         <subfield code="g">2002/07/11</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Other US</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

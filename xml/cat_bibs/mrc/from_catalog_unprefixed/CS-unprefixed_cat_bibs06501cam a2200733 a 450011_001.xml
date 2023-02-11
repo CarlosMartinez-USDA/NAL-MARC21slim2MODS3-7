@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>06501cam a2200733 a 4500</leader>
+      <controlfield tag="001">9915446222107426</controlfield>
+      <controlfield tag="005">20221102005825.0</controlfield>
+      <controlfield tag="008">970411s1996    nyu      b    101 0 eng  </controlfield>
+      <datafield tag="010" ind1=" " ind2=" ">
+         <subfield code="a">   96005689 </subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT10825528</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">101692705</subfield>
+         <subfield code="2">DNLM</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">BA27939395</subfield>
+         <subfield code="2">JP-ToKJK</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">006347009</subfield>
+         <subfield code="2">Uk</subfield>
+      </datafield>
+      <datafield tag="019" ind1=" " ind2=" ">
+         <subfield code="a">59608573</subfield>
+         <subfield code="a">960170038</subfield>
+         <subfield code="a">966044509</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">1573310026</subfield>
+         <subfield code="q">(cloth ;</subfield>
+         <subfield code="q">alk. paper)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9781573310024</subfield>
+         <subfield code="q">(cloth ;</subfield>
+         <subfield code="q">alk. paper)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">1573310034</subfield>
+         <subfield code="q">(pbk. ;</subfield>
+         <subfield code="q">alk. paper)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9781573310031</subfield>
+         <subfield code="q">(pbk. ;</subfield>
+         <subfield code="q">alk. paper)</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">794092</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)34546011</subfield>
+         <subfield code="z">(OCoLC)59608573</subfield>
+         <subfield code="z">(OCoLC)960170038</subfield>
+         <subfield code="z">(OCoLC)966044509</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)794092-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="z">(OCoLC)59608573</subfield>
+         <subfield code="z">(OCoLC)960170038</subfield>
+         <subfield code="z">(OCoLC)966044509</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">DLC</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">DLC</subfield>
+         <subfield code="d">C#P</subfield>
+         <subfield code="d">COU</subfield>
+         <subfield code="d">AGL</subfield>
+         <subfield code="d">EL$</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">NLGGC</subfield>
+         <subfield code="d">BTCTA</subfield>
+         <subfield code="d">LVB</subfield>
+         <subfield code="d">BAKER</subfield>
+         <subfield code="d">YAM</subfield>
+         <subfield code="d">YDXCP</subfield>
+         <subfield code="d">OCLCG</subfield>
+         <subfield code="d">CS1</subfield>
+         <subfield code="d">ZWZ</subfield>
+         <subfield code="d">BDX</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">WIC</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCL</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">EUW</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">FC@</subfield>
+         <subfield code="d">MDAVP</subfield>
+         <subfield code="d">EUN</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">XFF</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">DML</subfield>
+         <subfield code="d">NLM</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">L2U</subfield>
+         <subfield code="d">OCLCA</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCA</subfield>
+         <subfield code="d">CPO</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">BGU</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">UKMGB</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCA</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">QE2</subfield>
+         <subfield code="d">UMK</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCA</subfield>
+         <subfield code="d">J9U</subfield>
+         <subfield code="d">OCLCO</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="050" ind1="0" ind2="0">
+         <subfield code="a">Q175</subfield>
+         <subfield code="b">.F58 1996</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">500</subfield>
+         <subfield code="b">N484 v.775</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">X300</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">X800</subfield>
+      </datafield>
+      <datafield tag="245" ind1="0" ind2="4">
+         <subfield code="a">The Flight from science and reason /</subfield>
+         <subfield code="c">edited by Paul R. Gross, Norman Levitt, and Martin W. Lewis.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">New York N.Y. :</subfield>
+         <subfield code="b">New York Academy of Sciences,</subfield>
+         <subfield code="c">1996.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">xi, 593 pages ;</subfield>
+         <subfield code="c">24 cm.</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="490" ind1="1" ind2=" ">
+         <subfield code="a">Annals of the New York Academy of sciences,</subfield>
+         <subfield code="x">0077-8923 ;</subfield>
+         <subfield code="v">v. 775</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes bibliographical references and indexes.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="g">Introductory remarks : medicine took an earlier flight /</subfield>
+         <subfield code="r">Henry Greenberg --</subfield>
+         <subfield code="t">Imaginary gardens with real toads /</subfield>
+         <subfield code="r">Dudley R. Herschbach --</subfield>
+         <subfield code="t">Conduct and misconduct in science /</subfield>
+         <subfield code="r">David Goodstein --</subfield>
+         <subfield code="t">Mathematics as the stepchild of contemporary culture /</subfield>
+         <subfield code="r">Norman Levitt --</subfield>
+         <subfield code="t">Concern for truth : what it means, why it matters /</subfield>
+         <subfield code="r">Susan Haack --</subfield>
+         <subfield code="t">The propensity to believe /</subfield>
+         <subfield code="r">James E. Alcock --</subfield>
+         <subfield code="t">Flights of fancy : science, reason, and common sense /</subfield>
+         <subfield code="r">Barry R. Gross --</subfield>
+         <subfield code="t">Feelings and beliefs /</subfield>
+         <subfield code="r">Loren Fishman --</subfield>
+         <subfield code="t">In praise of intolerance to charlatanism in academia /</subfield>
+         <subfield code="r">Mario Bunge --</subfield>
+         <subfield code="t">Quantum philosophy : the flight from reason in science /</subfield>
+         <subfield code="r">Sheldon Goldstein --</subfield>
+         <subfield code="t">Physics and common nonsense /</subfield>
+         <subfield code="r">Daniel Kleppner --</subfield>
+         <subfield code="t">Science of chaos or chaos in science? /</subfield>
+         <subfield code="r">J. Bricmont --</subfield>
+         <subfield code="t">"Sucking with vampires" : the medicine of unreason /</subfield>
+         <subfield code="r">Gerald Weissmann --</subfield>
+         <subfield code="t">Antiscience trends in the rise of the "alternative medicine" movement /</subfield>
+         <subfield code="r">Wallace Sampson --</subfield>
+         <subfield code="t">Constructivism in psychotherapy : truth and consequences /</subfield>
+         <subfield code="r">Barbara S. Held --</subfield>
+         <subfield code="t">Radical environmental philosophy and the assault on reason /</subfield>
+         <subfield code="r">Martin W. Lewis --</subfield>
+         <subfield code="t">Is environmental cancer a political disease? /</subfield>
+         <subfield code="r">Stanley Rothman and S. Robert Lichter --</subfield>
+         <subfield code="t">Old messages : ecofeminism and the alienation of young people from environmental activism /</subfield>
+         <subfield code="r">Rene Denfeld --</subfield>
+         <subfield code="t">Towards a sober sociology of science /</subfield>
+         <subfield code="r">Susan Haack --</subfield>
+         <subfield code="t">Wrestling with the social constructor /</subfield>
+         <subfield code="r">Noretta Koertge --</subfield>
+         <subfield code="t">Voodoo sociology : recent developments in the sociology of science /</subfield>
+         <subfield code="r">Stephen Cole --</subfield>
+         <subfield code="t">The allure of the hybrid : Bruno Latour and the search for a new grand theory /</subfield>
+         <subfield code="r">Oscar Kenshur --</subfield>
+         <subfield code="t">Whatever happened to historical evidence? /</subfield>
+         <subfield code="r">Mary Lefkowitz --</subfield>
+         <subfield code="t">Building bridges to Afrocentrism : a letter to my Egyptological colleagues /</subfield>
+         <subfield code="r">Ann Macy Roth --</subfield>
+         <subfield code="t">State of the art/science in anthropology /</subfield>
+         <subfield code="r">Robin Fox --</subfield>
+         <subfield code="t">Liberalism, public opinion, and their critics : some lessons for defending science /</subfield>
+         <subfield code="r">Simon Jackman --</subfield>
+         <subfield code="t">Pathological social science : Carol Gilligan and the incredible shrinking girl /</subfield>
+         <subfield code="r">Christina Hoff Sommers --</subfield>
+         <subfield code="t">Why feminist epistemology isn't /</subfield>
+         <subfield code="r">Janet Radcliffe Richards --</subfield>
+         <subfield code="t">Feminist epistemology : stalking an un-dead horse /</subfield>
+         <subfield code="r">Noretta Koertge --</subfield>
+         <subfield code="t">The science question in postcolonial feminism /</subfield>
+         <subfield code="r">Meera Nanda --</subfield>
+         <subfield code="t">Are "feminist perspectives" in mathematics and science feminist? /</subfield>
+         <subfield code="r">Mary Beth Ruskai --</subfield>
+         <subfield code="t">On sitting down to read King Lear once again : the textual deconstruction of Shakespeare /</subfield>
+         <subfield code="r">Paul A. Cantor --</subfield>
+         <subfield code="t">Constructing literature : empiricism, romanticism, and textual theory /</subfield>
+         <subfield code="r">George Bornstein --</subfield>
+         <subfield code="t">Freudian suspicion versus suspicion of Freud /</subfield>
+         <subfield code="r">Frederick Crews --</subfield>
+         <subfield code="t">Ecosentimentalism : the summer dream beneath the tamarind tree /</subfield>
+         <subfield code="r">Gerald Weissmann --</subfield>
+         <subfield code="t">Two sources of unreason in democratic society : the paranormal and religion /</subfield>
+         <subfield code="r">Paul Kurtz --</subfield>
+         <subfield code="t">Creationism, ideology, and science /</subfield>
+         <subfield code="r">Eugenie C. Scott --</subfield>
+         <subfield code="t">The flight from reason : the religious right /</subfield>
+         <subfield code="r">Langdon Gilkey --</subfield>
+         <subfield code="t">Doubt, certainty, faith, and ideology /</subfield>
+         <subfield code="r">Oscar Kenshur --</subfield>
+         <subfield code="t">Science, reason, and education /</subfield>
+         <subfield code="r">Henry Rosovsky --</subfield>
+         <subfield code="t">Scientific literacy /</subfield>
+         <subfield code="r">James Trefil --</subfield>
+         <subfield code="t">Science education and the sense of self /</subfield>
+         <subfield code="r">Gerald Holton --</subfield>
+         <subfield code="t">Afrocentric pseudoscience : the miseducation of African Americans /</subfield>
+         <subfield code="r">Bernard R. Ortiz de Montellano.</subfield>
+      </datafield>
+      <datafield tag="540" ind1=" " ind2=" ">
+         <subfield code="a">Current copyright fee: GBP28.00</subfield>
+         <subfield code="c">35\0.</subfield>
+         <subfield code="5">Uk</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Science</subfield>
+         <subfield code="x">Philosophy</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Science</subfield>
+         <subfield code="x">Social aspects</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Women in science</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Religion and science</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="650" ind1="1" ind2="2">
+         <subfield code="a">Science.</subfield>
+      </datafield>
+      <datafield tag="650" ind1="2" ind2="2">
+         <subfield code="a">Philosophy, Medical.</subfield>
+      </datafield>
+      <datafield tag="650" ind1="2" ind2="2">
+         <subfield code="a">Religion and Science.</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="2">
+         <subfield code="a">Congress.</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="7">
+         <subfield code="a">Conference papers and proceedings.</subfield>
+         <subfield code="2">fast</subfield>
+         <subfield code="0">(OCoLC)fst01423772</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="7">
+         <subfield code="a">Conference papers and proceedings.</subfield>
+         <subfield code="2">lcgft</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/genreForms/gf2014026068</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Gross, Paul R.</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Levitt, N.</subfield>
+         <subfield code="q">(Norman),</subfield>
+         <subfield code="d">1943-</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/n85104531</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Lewis, Martin W.</subfield>
+      </datafield>
+      <datafield tag="776" ind1="0" ind2="8">
+         <subfield code="i">Online version:</subfield>
+         <subfield code="t">Flight from science and reason.</subfield>
+         <subfield code="d">New York N.Y. : New York Academy of Sciences, 1996</subfield>
+         <subfield code="w">(OCoLC)607766345</subfield>
+      </datafield>
+      <datafield tag="776" ind1="0" ind2="8">
+         <subfield code="i">Online version:</subfield>
+         <subfield code="t">Flight from science and reason.</subfield>
+         <subfield code="d">New York N.Y. : New York Academy of Sciences, 1996</subfield>
+         <subfield code="w">(OCoLC)607809254</subfield>
+      </datafield>
+      <datafield tag="830" ind1=" " ind2="0">
+         <subfield code="a">Annals of the New York Academy of Sciences ;</subfield>
+         <subfield code="v">v. 775.</subfield>
+         <subfield code="x">0077-8923</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">19970501</subfield>
+         <subfield code="b">19970508</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker &amp; Taylor</subfield>
+         <subfield code="b">BKTY</subfield>
+         <subfield code="c">95.00</subfield>
+         <subfield code="d">99.95</subfield>
+         <subfield code="i">1573310034</subfield>
+         <subfield code="n">0002851533</subfield>
+         <subfield code="s">active</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Brodart</subfield>
+         <subfield code="b">BROD</subfield>
+         <subfield code="n">50784730</subfield>
+         <subfield code="c">$95.00</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker and Taylor</subfield>
+         <subfield code="b">BTCP</subfield>
+         <subfield code="n">96005689</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">YBP Library Services</subfield>
+         <subfield code="b">YANK</subfield>
+         <subfield code="n">1302560</subfield>
+      </datafield>
+      <datafield tag="945" ind1=" " ind2=" ">
+         <subfield code="d">SES</subfield>
+         <subfield code="e">97/04/11</subfield>
+         <subfield code="f">SES</subfield>
+         <subfield code="g">97/04/11</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Other US</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

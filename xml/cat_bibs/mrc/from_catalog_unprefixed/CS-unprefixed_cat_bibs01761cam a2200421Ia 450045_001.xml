@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>01761cam a2200421Ia 4500</leader>
+      <controlfield tag="001">9915514012807426</controlfield>
+      <controlfield tag="005">20221102182050.0</controlfield>
+      <controlfield tag="008">091022s1987    cau      b   f000 0 eng d</controlfield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT31442512</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">1442512</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)458311120</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)1442512-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">MIN</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">MIN</subfield>
+         <subfield code="d">MIN</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">AGL</subfield>
+      </datafield>
+      <datafield tag="043" ind1=" " ind2=" ">
+         <subfield code="a">n-us-ca</subfield>
+         <subfield code="a">n-us-or</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">aSB763.C2</subfield>
+         <subfield code="b">R46 87-15</subfield>
+      </datafield>
+      <datafield tag="245" ind1="0" ind2="0">
+         <subfield code="a">Evaluation of annosus root disease in the Little Horse Timber Sale area, Goosenest Ranger District :</subfield>
+         <subfield code="b">(Report no. 87-15) /</subfield>
+         <subfield code="c">[John Neisess].</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">[San Francisco, Calif.] :</subfield>
+         <subfield code="b">United States Dept. of Agriculture, Forest Service [Forest Pest Management],</subfield>
+         <subfield code="c">1987.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">6 unnumbered leaves ;</subfield>
+         <subfield code="c">28 cm.</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="490" ind1="1" ind2=" ">
+         <subfield code="a">Report / [Forest Pest Management, Pacific Southwest Region] ;</subfield>
+         <subfield code="v">no. 87-15</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes bibliographical references (leaf 6).</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Heterobasidion annosum</subfield>
+         <subfield code="z">Klamath National Forest (Calif. and Or.).</subfield>
+      </datafield>
+      <datafield tag="651" ind1=" " ind2="7">
+         <subfield code="a">United States</subfield>
+         <subfield code="z">Klamath National Forest.</subfield>
+         <subfield code="2">fast</subfield>
+         <subfield code="0">(OCoLC)fst01310635</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="3">
+         <subfield code="a">Internet resource.</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Neisess, John L.</subfield>
+      </datafield>
+      <datafield tag="710" ind1="1" ind2=" ">
+         <subfield code="a">United States.</subfield>
+         <subfield code="b">Forest Pest Management.</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/n82064902</subfield>
+      </datafield>
+      <datafield tag="830" ind1=" " ind2="0">
+         <subfield code="a">Report (United States. Forest Pest Management) ;</subfield>
+         <subfield code="v">no. 87-15.</subfield>
+      </datafield>
+      <datafield tag="856" ind1="4" ind2="1">
+         <subfield code="u">https://nfsl.contentdm.oclc.org/digital/collection/p17053coll2/id/110558/rec/1</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">20210701</subfield>
+         <subfield code="b">00000000</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="945" ind1=" " ind2=" ">
+         <subfield code="a">DigiMet</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">USDA</subfield>
+      </datafield>
+      <datafield tag="958" ind1=" " ind2=" ">
+         <subfield code="a">resource</subfield>
+         <subfield code="b">e</subfield>
+         <subfield code="c">2021/06/09</subfield>
+         <subfield code="d">n</subfield>
+         <subfield code="e">lbriskin</subfield>
+         <subfield code="h">recon</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

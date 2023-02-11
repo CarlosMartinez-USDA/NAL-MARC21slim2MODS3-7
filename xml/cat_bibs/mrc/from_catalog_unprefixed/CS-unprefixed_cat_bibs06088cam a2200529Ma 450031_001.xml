@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>06088cam a2200529Ma 4500</leader>
+      <controlfield tag="001">9915486999807426</controlfield>
+      <controlfield tag="005">20221102074044.0</controlfield>
+      <controlfield tag="008">920929s1991    enk           100 0 eng  </controlfield>
+      <datafield tag="015" ind1=" " ind2=" ">
+         <subfield code="a">GB9129899</subfield>
+         <subfield code="2">bnb</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT92978385</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">0907146066</subfield>
+         <subfield code="q">(pbk.)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9780907146063</subfield>
+         <subfield code="q">(pbk.)</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">570079</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)24715118</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)570079-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">UKM</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">UKM</subfield>
+         <subfield code="d">AGL</subfield>
+         <subfield code="d">OCL</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">HUH</subfield>
+         <subfield code="d">INU</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCL</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">WURST</subfield>
+      </datafield>
+      <datafield tag="043" ind1=" " ind2=" ">
+         <subfield code="a">w------</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="050" ind1="1" ind2="0">
+         <subfield code="a">SF170</subfield>
+         <subfield code="b">.D66 1991</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">SF170.D66</subfield>
+         <subfield code="b">1991</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">L100</subfield>
+      </datafield>
+      <datafield tag="245" ind1="0" ind2="0">
+         <subfield code="a">Donkeys mules and horses in tropical agricultural development /</subfield>
+         <subfield code="c">edited by D. Fielding, R.A. Peasrson.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="b">Centre for Tropical Veterinary Medicine,</subfield>
+         <subfield code="c">1991.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">[330] pages</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="t">Some aspects of the use of equines in an urban area in Morocco /</subfield>
+         <subfield code="r">M Bakkoury</subfield>
+         <subfield code="g">(2 p.). --</subfield>
+         <subfield code="t">Potential and utilisation of the donkey in Malawi /</subfield>
+         <subfield code="r">W Kumwenda</subfield>
+         <subfield code="g">(5 p.). --</subfield>
+         <subfield code="t">Transport for rural development in Ethiopia /</subfield>
+         <subfield code="r">P Crossley</subfield>
+         <subfield code="g">(15 p.). --</subfield>
+         <subfield code="t">Number and distribution of equines in the world (Poster) /</subfield>
+         <subfield code="r">D Fielding</subfield>
+         <subfield code="g">(14 p.). --</subfield>
+         <subfield code="t">Comparative study of donkey and pony digestive physiology /</subfield>
+         <subfield code="r">J.L Tisserand</subfield>
+         <subfield code="g">(5 p.). --</subfield>
+         <subfield code="t">Microbial digestion and its consequences for feeding in the horse /</subfield>
+         <subfield code="r">J.L Tisserand</subfield>
+         <subfield code="g">(6 p.). --</subfield>
+         <subfield code="t">Effect of exercise on the digestive efficicncy in donkeys given ad libitum hay and straw diets /</subfield>
+         <subfield code="r">R.A Pearson</subfield>
+         <subfield code="g">(6 p.). --</subfield>
+         <subfield code="t">comparison of the responses of donkeys (Equus asinus) and ponies 86 (Equus caballus) to 36 hours of water deprivation /</subfield>
+         <subfield code="r">P.J Mueller</subfield>
+         <subfield code="g">(7 p.). --</subfield>
+         <subfield code="t">Water homeostasis in desert dwelling horses (Poster) /</subfield>
+         <subfield code="r">J.C Sneddon</subfield>
+         <subfield code="g">(10 p.). --</subfield>
+         <subfield code="t">Some physiological values of apparently healthy donkeys in Ghana (Poster) /</subfield>
+         <subfield code="r">E.A Canacoo</subfield>
+         <subfield code="g">(1 p.).</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="t">Ferdlity in mules and hinnies /</subfield>
+         <subfield code="r">A.C Chandley</subfield>
+         <subfield code="g">(5 p.). --</subfield>
+         <subfield code="t">Equine trypanosomiasis /</subfield>
+         <subfield code="r">P.R Barrowman</subfield>
+         <subfield code="g">(3 p.). --</subfield>
+         <subfield code="t">Viral conditions of equids /</subfield>
+         <subfield code="r">S Ramachandran</subfield>
+         <subfield code="g">(7 p.). --</subfield>
+         <subfield code="t">Control of the 1987 equine influenza epidemic in India and the present status of the disease /</subfield>
+         <subfield code="r">P.K Uppal</subfield>
+         <subfield code="g">(12 p.). --</subfield>
+         <subfield code="t">Electron microscopic studies on the structure and replication of an equine herpes 133 virus-3 (Poster) /</subfield>
+         <subfield code="r">M.P Yadav</subfield>
+         <subfield code="g">(7 p.). --</subfield>
+         <subfield code="t">Detection of papillomaviral DNA in the sarcoid of the donkey (Poster) /</subfield>
+         <subfield code="r">S.W.J Reid</subfield>
+         <subfield code="g">(2 p.). --</subfield>
+         <subfield code="t">comparison of injectable anaesthetic combinations in donkeys (Poster) /</subfield>
+         <subfield code="r">N.S Matthews</subfield>
+         <subfield code="g">(2 p.). --</subfield>
+         <subfield code="t">Unifomlity and contrasts of the helminth diseases of equids /</subfield>
+         <subfield code="r">M.M.H Sewell</subfield>
+         <subfield code="g">(1 p.). --</subfield>
+         <subfield code="t">Health problems of working donkeys in Debre-Zeit and Menagesha Regions of Ethiopia /</subfield>
+         <subfield code="r">J.M Yilma</subfield>
+         <subfield code="g">(10 p.).</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="t">Vemlicular endoparasitism in donkeys of Debre-Zeit and Menagesha, Ethiopia: strategic treatment with Ivemnectin and Fenbendazole /</subfield>
+         <subfield code="r">G.A Feseha</subfield>
+         <subfield code="g">(5 p.). --</subfield>
+         <subfield code="t">Intemal parasites of equines in Zimbabwe /</subfield>
+         <subfield code="r">V.S Pandey</subfield>
+         <subfield code="g">(11 p.). --</subfield>
+         <subfield code="t">Benefit of a strategic dewomning programme in working donkeys in Morocco /</subfield>
+         <subfield code="r">K Khallaayoune</subfield>
+         <subfield code="g">(7 p.). --</subfield>
+         <subfield code="t">Work to improve the conditions of donkeys and mules worldwide /</subfield>
+         <subfield code="r">E.D Svendsen</subfield>
+         <subfield code="g">(7 p.). --</subfield>
+         <subfield code="t">Management and breeding aspects of donkeys around Awassa, Ethiopia /</subfield>
+         <subfield code="r">A Mohammed</subfield>
+         <subfield code="g">(4 p.). --</subfield>
+         <subfield code="t">Management of the donkey: a southern Ghana experience /</subfield>
+         <subfield code="r">E.A Canacoo</subfield>
+         <subfield code="g">(4 p.). --</subfield>
+         <subfield code="t">Omdumman system for inspection of transport animals /</subfield>
+         <subfield code="r">G.J.R Hovell</subfield>
+         <subfield code="g">(5 p.). --</subfield>
+         <subfield code="t">Breed improvement project -- the Basotho pony /</subfield>
+         <subfield code="r">J McCormack</subfield>
+         <subfield code="g">(6 p.). --</subfield>
+         <subfield code="t">Behaviour, handling and training of equines for appropriate work /</subfield>
+         <subfield code="r">M Kiley-Worthington</subfield>
+         <subfield code="g">(3 p.).</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="t">Working equine -- what we can leam from research with other animals used for draught purposes /</subfield>
+         <subfield code="r">A.J Smith</subfield>
+         <subfield code="g">(8 p.). --</subfield>
+         <subfield code="t">Note on the influence of negative gradients on the energy expenditure of donkeys walking, carrying and pulling loads (Poster) /</subfield>
+         <subfield code="r">J.T Dijkman</subfield>
+         <subfield code="g">(2 p.). --</subfield>
+         <subfield code="t">Role of donkeys in agricultural mechanisation in Niger : potential and limitations /</subfield>
+         <subfield code="r">J Betker</subfield>
+         <subfield code="g">(8 p.). --</subfield>
+         <subfield code="t">use of donkeys as draught animals relative to bovines in the communal farming sector of Zimbabwe /</subfield>
+         <subfield code="r">V.L Prasad</subfield>
+         <subfield code="g">(9 p.). --</subfield>
+         <subfield code="t">Human and animal power for rural areas /</subfield>
+         <subfield code="r">J.S Ebenezer</subfield>
+         <subfield code="g">(5 p.). --</subfield>
+         <subfield code="t">Equine based transport /</subfield>
+         <subfield code="r">E Iversen</subfield>
+         <subfield code="g">(6 p.). --</subfield>
+         <subfield code="t">Some designs for donkey carts and animal powered engines /</subfield>
+         <subfield code="r">A Chadborn</subfield>
+         <subfield code="g">(7 p.). --</subfield>
+         <subfield code="t">Design and operation of animal/implement systems: guidelines for soil cultivation implements /</subfield>
+         <subfield code="r">F.M Inns</subfield>
+         <subfield code="g">(8 p.). --</subfield>
+         <subfield code="t">Harnessing systems for donkeys experiences from Kenya /</subfield>
+         <subfield code="r">H.J Dibbits</subfield>
+         <subfield code="g">(9 p.).</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="t">Interrelationship between male labour shortage and animal draught power: a case study from Botswana /</subfield>
+         <subfield code="r">W Kunze</subfield>
+         <subfield code="g">(11 p.). --</subfield>
+         <subfield code="t">Experiences in donkey draught from West Sudan /</subfield>
+         <subfield code="r">C.B Wylam</subfield>
+         <subfield code="g">(7 p.). --</subfield>
+         <subfield code="t">Socio-economic factors influencing the uptake of animal draught: a case study of the Kebkabiya experience /</subfield>
+         <subfield code="r">S.P Croxton</subfield>
+         <subfield code="g">(7 p.). --</subfield>
+         <subfield code="t">Appropriate extension methods for equine users /</subfield>
+         <subfield code="r">D Fielding</subfield>
+         <subfield code="g">(6 p.). --</subfield>
+         <subfield code="t">FARM-Africa -- a possible approach to extension and development for equines 306 in the Third World /</subfield>
+         <subfield code="r">C.R Field</subfield>
+         <subfield code="g">(5 p.). --</subfield>
+         <subfield code="t">Overcoming ignorance about donkeys in Zimbabwe a case study /</subfield>
+         <subfield code="r">P Jones</subfield>
+         <subfield code="g">(8 p.). --</subfield>
+         <subfield code="t">SPA/SPANA's education programme in Morocco /</subfield>
+         <subfield code="r">A Belemlih</subfield>
+         <subfield code="g">(3 p.). --</subfield>
+         <subfield code="t">Donkeys, mules and horses in tropical agricultural development /</subfield>
+         <subfield code="r">G.G Freeland</subfield>
+         <subfield code="g">(4 p.). --</subfield>
+         <subfield code="t">Equines in Ethiopia /</subfield>
+         <subfield code="r">R.T Wilson</subfield>
+         <subfield code="g">(15 p.).</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Working animals</subfield>
+         <subfield code="z">Tropics</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Donkeys</subfield>
+         <subfield code="z">Tropics</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Mules</subfield>
+         <subfield code="z">Tropics</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Horses</subfield>
+         <subfield code="z">Tropics</subfield>
+         <subfield code="v">Congresses.</subfield>
+      </datafield>
+      <datafield tag="651" ind1=" " ind2="7">
+         <subfield code="a">Tropics.</subfield>
+         <subfield code="2">fast</subfield>
+         <subfield code="0">(OCoLC)fst01240674</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="7">
+         <subfield code="a">Conference papers and proceedings.</subfield>
+         <subfield code="2">fast</subfield>
+         <subfield code="0">(OCoLC)fst01423772</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Fielding, D.</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Pearson, R. A.</subfield>
+      </datafield>
+      <datafield tag="776" ind1="0" ind2="8">
+         <subfield code="i">Online version:</subfield>
+         <subfield code="t">Donkeys mules and horses in tropical agricultural development.</subfield>
+         <subfield code="d">Centre for Tropical Veterinary Medicine, 1991</subfield>
+         <subfield code="w">(OCoLC)690421093</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">00000000</subfield>
+         <subfield code="b">19940225</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="945" ind1=" " ind2=" ">
+         <subfield code="d">ARS</subfield>
+         <subfield code="e">92/09/18</subfield>
+         <subfield code="f">ARS</subfield>
+         <subfield code="g">92/09/21</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Non-US</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

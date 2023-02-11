@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record>
+    <leader>03778nab a2200601 u 4500</leader>
+    <controlfield tag="001">9916147811507426</controlfield>
+    <controlfield tag="005">20221120211110.0</controlfield>
+    <controlfield tag="008">110708s2011 xx |||||o|||||||||||eng||</controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+        <subfield code="a">IND44597095</subfield>
+        <subfield code="2">DNAL</subfield>
+    </datafield>
+    <datafield tag="024" ind1="7" ind2=" ">
+        <subfield code="a">10.1603/EN09309</subfield>
+        <subfield code="2">doi</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+        <subfield code="a">agid:297899-01nal_inst</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+        <subfield code="a">AGL</subfield>
+        <subfield code="b">eng</subfield>
+        <subfield code="c">AGL</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+        <subfield code="a">Frank, Daniel L.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+        <subfield code="a">Factors Influencing the Temporal and Spatial Patterns of Dogwood Borer
+            (Lepidoptera: Sesiidae) Infestations in Newly Planted Apple Orchards</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+        <subfield code="a">p. 173-183.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+        <subfield code="a">Includes references</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+        <subfield code="a">The temporal and small-scale spatial patterns of infestation by larval
+            dogwood borer, Synanthedon scitula (Harris) were studied from 2002 to 2004 in two newly
+            planted apple orchards in West Virginia and Virginia. Rootstock, tree variety, and cultural
+            management practice were significantly associated with the presence and extent of dogwood
+            borer infestation. In West Virginia, infestation was significantly greater on trees planted
+            on M.26 rootstock compared with M.7 rootstock, and on trees fitted with tree guards compared
+            with other trunk treatments. In Virginia, the proportion of infested trees was significantly
+            greater for ‘Idared’ tree varieties compared with ‘Buckeye Gala’, and on trees fitted with
+            tree guards compared with other trunk treatments. Median polishing technique was used to
+            separate variability in the infestation data into large-scale variation (trend) induced
+            mainly by treatments and small-scale variation. Variography was used to study the
+            median-polished residuals of infestation that represent the small-scale variation. The
+            results of variogram analysis of the median-polished residuals indicated that there were
+            moderate to high degrees of aggregation in dogwood borer infestations on neighboring apple
+            trees (Malus domestica Borkh.) with ranges of spatial autocorrelation from 2.8 to 17.0 m.
+            The spatial patterns of the aggregation of infestation in the West Virginia and Virginia
+            orchards were best described by the spherical and exponential semiovariogram models,
+            respectively. Interpolated surface maps of the median-polished residuals revealed local hot
+            spots, which were generally more prevalent within tree guard treatments, and were typically
+            found where dogwood borer infestations originated. Results are discussed in relation to the
+            sampling and management of dogwood borer larvae.</subfield>
+    </datafield>
+    <datafield tag="593" ind1=" " ind2=" ">
+        <subfield code="a">PubAg article</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">Malus domestica</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">Synanthedon scitula</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">apples</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">autocorrelation</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">insect larvae</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">models</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">orchards</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">planting</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">rootstocks</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="3">
+        <subfield code="a">trees</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+        <subfield code="a">Virginia</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="3">
+        <subfield code="a">West Virginia</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+        <subfield code="a">Brewster, Carlyle C.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+        <subfield code="a">Leskey, Tracy C.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+        <subfield code="a">Bergh, J. Christopher</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2=" ">
+        <subfield code="t">Environmental entomology.</subfield>
+        <subfield code="g">2011 Apr., v. 40, no. 2 p.173-183</subfield>
+        <subfield code="d">Entomological Society of America</subfield>
+        <subfield code="x">0046-225X</subfield>
+        <subfield code="7">nnas</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+        <subfield code="o">islandora_article_repository</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+        <subfield code="o">product_pubag</subfield>
+    </datafield>
+    <datafield tag="787" ind1="1" ind2=" ">
+        <subfield code="o">(Journal)jnl3243</subfield>
+    </datafield>
+    <datafield tag="852" ind1=" " ind2=" ">
+        <subfield code="a">DNAL</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+        <subfield code="u">http://dx.doi.org/10.1603/EN09309</subfield>
+        <subfield code="3">Available from publisher's Web site</subfield>
+    </datafield>
+    <datafield tag="912" ind1=" " ind2=" ">
+        <subfield code="a">Article</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+        <subfield code="a">Journal:jnl3243</subfield>
+        <subfield code="b">0046-225X</subfield>
+        <subfield code="c">40</subfield>
+        <subfield code="d">2</subfield>
+        <subfield code="e">173</subfield>
+    </datafield>
+    <datafield tag="914" ind1=" " ind2=" ">
+        <subfield code="f">Environmental entomology</subfield>
+    </datafield>
+    <datafield tag="916" ind1=" " ind2=" ">
+        <subfield code="a">Batch:696</subfield>
+    </datafield>
+    <datafield tag="917" ind1=" " ind2=" ">
+        <subfield code="a">issued</subfield>
+    </datafield>
+    <datafield tag="935" ind1=" " ind2=" ">
+        <subfield code="a">IND44597095</subfield>
+        <subfield code="9">ExL</subfield>
+    </datafield>
+    <datafield tag="949" ind1=" " ind2=" ">
+        <subfield code="a">2014-12-10</subfield>
+    </datafield>
+    <datafield tag="961" ind1=" " ind2=" ">
+        <subfield code="a">USDA/ARS</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+        <subfield code="a">Batch:696 annotated on 2014-10-31T08:00:47Z</subfield>
+    </datafield>
+    <datafield tag="962" ind1=" " ind2=" ">
+        <subfield code="a">Batch:696 reviewed on 2014-12-10T04:00:02Z</subfield>
+    </datafield>
+    <datafield tag="974" ind1=" " ind2=" ">
+        <subfield code="a">agid:297899</subfield>
+    </datafield>
+    <datafield tag="984" ind1=" " ind2=" ">
+        <subfield code="a">2015-11-08</subfield>
+    </datafield>
+    <datafield tag="985" ind1=" " ind2=" ">
+        <subfield code="a">Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+            (Revision 1.94 2014/02/21)</subfield>
+    </datafield>
+    <datafield tag="986" ind1=" " ind2=" ">
+        <subfield code="a">4597095</subfield>
+    </datafield>
+</record>

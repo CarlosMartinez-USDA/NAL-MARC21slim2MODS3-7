@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>05066cam a2200685 a 4500</leader>
+      <controlfield tag="001">9915443896407426</controlfield>
+      <controlfield tag="005">20221101230553.0</controlfield>
+      <controlfield tag="008">070706s2007    kyua     b    001 0deng  </controlfield>
+      <datafield tag="010" ind1=" " ind2=" ">
+         <subfield code="a">  2007005962</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT31021104</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="019" ind1=" " ind2=" ">
+         <subfield code="a">1022631769</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9780813124421</subfield>
+         <subfield code="q">(hardback, alk. paper)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">0813124425</subfield>
+         <subfield code="q">(hardback, alk. paper)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9780813192574</subfield>
+         <subfield code="q">(paperback)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">0813192579</subfield>
+         <subfield code="q">(paperback)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="z">9780813172538</subfield>
+         <subfield code="q">(electronic bk.)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="z">0813172535</subfield>
+         <subfield code="q">(electronic bk.)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="z">9780813137650</subfield>
+         <subfield code="q">(electronic bk.)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="z">0813137659</subfield>
+         <subfield code="q">(electronic bk.)</subfield>
+      </datafield>
+      <datafield tag="024" ind1="8" ind2=" ">
+         <subfield code="a">99817228663</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">1021104</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)85162009</subfield>
+         <subfield code="z">(OCoLC)1022631769</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)1021104-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="z">(OCoLC)1022631769</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">DLC</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">DLC</subfield>
+         <subfield code="d">BAKER</subfield>
+         <subfield code="d">BTCTA</subfield>
+         <subfield code="d">C#P</subfield>
+         <subfield code="d">YDXCP</subfield>
+         <subfield code="d">TLE</subfield>
+         <subfield code="d">IXA</subfield>
+         <subfield code="d">IBS</subfield>
+         <subfield code="d">OCLCG</subfield>
+         <subfield code="d">TSU</subfield>
+         <subfield code="d">SMP</subfield>
+         <subfield code="d">NIALS</subfield>
+         <subfield code="d">CQU</subfield>
+         <subfield code="d">GEBAY</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">BDX</subfield>
+         <subfield code="d">KP9</subfield>
+         <subfield code="d">KMS</subfield>
+         <subfield code="d">OCLCF</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCA</subfield>
+         <subfield code="d">WLU</subfield>
+         <subfield code="d">KJ6</subfield>
+         <subfield code="d">KG7</subfield>
+         <subfield code="d">KI2</subfield>
+         <subfield code="d">INA</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">AGL</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="050" ind1="0" ind2="0">
+         <subfield code="a">PS3552.E75</subfield>
+         <subfield code="b">Z96 2007</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">PS3552.E75</subfield>
+         <subfield code="b">Z96 2007</subfield>
+      </datafield>
+      <datafield tag="245" ind1="0" ind2="0">
+         <subfield code="a">Wendell Berry :</subfield>
+         <subfield code="b">life and work /</subfield>
+         <subfield code="c">edited by Jason Peters.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">Lexington :</subfield>
+         <subfield code="b">University Press of Kentucky,</subfield>
+         <subfield code="c">©2007.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">xii, 349 pages :</subfield>
+         <subfield code="b">illustrations ;</subfield>
+         <subfield code="c">25 cm.</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="490" ind1="1" ind2=" ">
+         <subfield code="a">Culture of the land: a series in the new agrarianism</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes bibliographical references (pages 329-334) and index.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="t">Ain't they the berries! /</subfield>
+         <subfield code="r">Ed McClanahan --</subfield>
+         <subfield code="t">Wendell Berry on war and peace ; or, Port William versus the empire /</subfield>
+         <subfield code="r">Bill Kauffman --</subfield>
+         <subfield code="t">Words addressed to our condition exactly /</subfield>
+         <subfield code="r">Scott Russell Sanders --</subfield>
+         <subfield code="t">The best noise in the world /</subfield>
+         <subfield code="r">Donald Hall --</subfield>
+         <subfield code="t">Wendell Berry's political vision /</subfield>
+         <subfield code="r">Kimberly K. Smith --</subfield>
+         <subfield code="t">How Wendell Berry single-handedly preserved three hundred years of agrarian wisdom /</subfield>
+         <subfield code="r">David Kline --</subfield>
+         <subfield code="t">Memory and hope in the world of Port William /</subfield>
+         <subfield code="r">John Leax --</subfield>
+         <subfield code="t">Politics, nature, and value in Wendell Berry's "art of the commonplace" /</subfield>
+         <subfield code="r">Eric Trethewey --</subfield>
+         <subfield code="t">Berry Britannica /</subfield>
+         <subfield code="r">John Lane --</subfield>
+         <subfield code="t">Wendell Berry and the twentieth-century agrarian "series" /</subfield>
+         <subfield code="r">Allan Carlson --</subfield>
+         <subfield code="t">A citizen of the real world /</subfield>
+         <subfield code="r">Bill McKibben --</subfield>
+         <subfield code="t">Sexuality and the sacramental imagination : it all turns on affection /</subfield>
+         <subfield code="r">P. Travis Kroeker --</subfield>
+         <subfield code="t">A practical education : Wendell Berry the professor /</subfield>
+         <subfield code="r">Morris A. Grubbs --</subfield>
+         <subfield code="t">An economy of gratitude /</subfield>
+         <subfield code="r">Norman Wirzba --</subfield>
+         <subfield code="t">Letters from a humble radical /</subfield>
+         <subfield code="r">Wes Jackson --</subfield>
+         <subfield code="t">Wendell Berry and the limits of populism /</subfield>
+         <subfield code="r">Erich T. Freyfogle --</subfield>
+         <subfield code="t">Hemingway's Nick and Wendell Berry's art /</subfield>
+         <subfield code="r">David Crowe --</subfield>
+         <subfield code="t">At his desk as on his land /</subfield>
+         <subfield code="r">Hayden Carruth --</subfield>
+         <subfield code="t">Wendell Berry and the traditionalist critique of meritocracy /</subfield>
+         <subfield code="r">Jeremy Beer --</subfield>
+         <subfield code="t">Looking the technological gift horse in the mouth /</subfield>
+         <subfield code="r">Sven Birkerts --</subfield>
+         <subfield code="t">Wendell Berry : agrarian artist /</subfield>
+         <subfield code="r">Gene Logsdon --</subfield>
+         <subfield code="t">Education, heresy, and the "deadly disease of the world" /</subfield>
+         <subfield code="r">Jason Peters --</subfield>
+         <subfield code="t">Wendell's window and the wind's eye /</subfield>
+         <subfield code="r">James Baker Hall --</subfield>
+         <subfield code="t">The art of buying nothing /</subfield>
+         <subfield code="r">Barbara Kingsolver --</subfield>
+         <subfield code="t">Fidelity /</subfield>
+         <subfield code="r">Katherine Dalton --</subfield>
+         <subfield code="t">Wendell Berry and the alternative tradition in American political thought /</subfield>
+         <subfield code="r">Patrick J. Deneen --</subfield>
+         <subfield code="t">A long shelf /</subfield>
+         <subfield code="r">Jack Shoemaker --</subfield>
+         <subfield code="t">Afterword /</subfield>
+         <subfield code="r">George Core.</subfield>
+      </datafield>
+      <datafield tag="520" ind1=" " ind2=" ">
+         <subfield code="a">Discusses Wendell Berry's life and work. Essayist, social critic, poet, "mad farmer," novelist, teacher, and prophet: Wendell Berry has been called many things, but the broad sweep of his contemporary relevance and influence defies simple labels. With his unique perspective and far-reaching vision, Berry poses complex questions regarding humankind and our relationship to the land, offering simple but profound solutions. Wendell Berry: Life and Work examines this wise and original thinker, appraising his written work and exploring his influence as an activist and artist. Jason Peters assembles a broad variety of writers to illuminate.</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="600" ind1="1" ind2="0">
+         <subfield code="a">Berry, Wendell,</subfield>
+         <subfield code="d">1934-</subfield>
+         <subfield code="0">http://id.loc.gov/authorities/names/n50007571</subfield>
+      </datafield>
+      <datafield tag="600" ind1="1" ind2="7">
+         <subfield code="a">Berry, Wendell,</subfield>
+         <subfield code="d">1934-</subfield>
+         <subfield code="2">fast</subfield>
+         <subfield code="0">(OCoLC)fst00002078</subfield>
+      </datafield>
+      <datafield tag="600" ind1="1" ind2="7">
+         <subfield code="a">Berry, Wendell,</subfield>
+         <subfield code="d">1934-</subfield>
+         <subfield code="2">sears</subfield>
+      </datafield>
+      <datafield tag="600" ind1="1" ind2="7">
+         <subfield code="a">Berry, Wendell.</subfield>
+         <subfield code="2">swd</subfield>
+      </datafield>
+      <datafield tag="655" ind1=" " ind2="3">
+         <subfield code="a">Internet resource.</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Peters, Jason,</subfield>
+         <subfield code="d">1963-</subfield>
+      </datafield>
+      <datafield tag="776" ind1="0" ind2="8">
+         <subfield code="i">Online version:</subfield>
+         <subfield code="t">Wendell Berry.</subfield>
+         <subfield code="d">Lexington : University Press of Kentucky, ©2007</subfield>
+         <subfield code="w">(OCoLC)608524418</subfield>
+      </datafield>
+      <datafield tag="830" ind1=" " ind2="0">
+         <subfield code="a">Culture of the land</subfield>
+      </datafield>
+      <datafield tag="856" ind1="4" ind2="1">
+         <subfield code="3">Table of contents only</subfield>
+         <subfield code="u">http://www.loc.gov/catdir/toc/ecip0711/2007005962.html</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">20120514</subfield>
+         <subfield code="b">00000000</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker &amp; Taylor</subfield>
+         <subfield code="b">BKTY</subfield>
+         <subfield code="c">35.00</subfield>
+         <subfield code="d">26.25</subfield>
+         <subfield code="i">0813124425</subfield>
+         <subfield code="n">0007049748</subfield>
+         <subfield code="s">active</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Brodart</subfield>
+         <subfield code="b">BROD</subfield>
+         <subfield code="n">06795986</subfield>
+         <subfield code="c">$35.00</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker and Taylor</subfield>
+         <subfield code="b">BTCP</subfield>
+         <subfield code="n">2007005962</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">YBP Library Services</subfield>
+         <subfield code="b">YANK</subfield>
+         <subfield code="n">2498391</subfield>
+      </datafield>
+      <datafield tag="939" ind1=" " ind2=" ">
+         <subfield code="a">20090317</subfield>
+         <subfield code="b">20090508</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="945" ind1=" " ind2=" ">
+         <subfield code="a">Promptcat</subfield>
+         <subfield code="e">2009/03/09</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Other US</subfield>
+      </datafield>
+      <datafield tag="958" ind1=" " ind2=" ">
+         <subfield code="b">r</subfield>
+         <subfield code="c">2009/03/11</subfield>
+         <subfield code="d">c</subfield>
+         <subfield code="e">aallen</subfield>
+      </datafield>
+      <datafield tag="959" ind1=" " ind2=" ">
+         <subfield code="c">2012/05/14</subfield>
+         <subfield code="e">ssouder</subfield>
+         <subfield code="g">other</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>

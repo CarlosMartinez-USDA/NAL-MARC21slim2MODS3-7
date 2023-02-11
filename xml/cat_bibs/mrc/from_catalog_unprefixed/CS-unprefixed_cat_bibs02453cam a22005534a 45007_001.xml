@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+   <record>
+      <leader>02453cam a22005534a 4500</leader>
+      <controlfield tag="001">9915442164307426</controlfield>
+      <controlfield tag="005">20221101215058.0</controlfield>
+      <controlfield tag="008">030813s2003    vtua     b    001 0 eng  </controlfield>
+      <datafield tag="010" ind1=" " ind2=" ">
+         <subfield code="a">  2002015351</subfield>
+      </datafield>
+      <datafield tag="016" ind1="7" ind2=" ">
+         <subfield code="a">CAT11136854</subfield>
+         <subfield code="2">DNAL</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">157076235X</subfield>
+         <subfield code="q">(hardcover)</subfield>
+      </datafield>
+      <datafield tag="020" ind1=" " ind2=" ">
+         <subfield code="a">9781570762352</subfield>
+         <subfield code="q">(hardcover)</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">903639</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(OCoLC)50676244</subfield>
+      </datafield>
+      <datafield tag="035" ind1=" " ind2=" ">
+         <subfield code="a">(DNAL)903639-naldb-Voyager</subfield>
+      </datafield>
+      <datafield tag="040" ind1=" " ind2=" ">
+         <subfield code="a">DLC</subfield>
+         <subfield code="b">eng</subfield>
+         <subfield code="c">DLC</subfield>
+         <subfield code="d">CUX</subfield>
+         <subfield code="d">AGL</subfield>
+         <subfield code="d">BAKER</subfield>
+         <subfield code="d">BTCTA</subfield>
+         <subfield code="d">YDXCP</subfield>
+         <subfield code="d">O7J</subfield>
+         <subfield code="d">IG#</subfield>
+         <subfield code="d">OCLCQ</subfield>
+         <subfield code="d">OCLCO</subfield>
+         <subfield code="d">IPL</subfield>
+      </datafield>
+      <datafield tag="042" ind1=" " ind2=" ">
+         <subfield code="a">pcc</subfield>
+      </datafield>
+      <datafield tag="049" ind1=" " ind2=" ">
+         <subfield code="a">AGLL</subfield>
+      </datafield>
+      <datafield tag="050" ind1="1" ind2="0">
+         <subfield code="a">SF951</subfield>
+         <subfield code="b">.F75 2003</subfield>
+      </datafield>
+      <datafield tag="070" ind1="0" ind2=" ">
+         <subfield code="a">SF951</subfield>
+         <subfield code="b">.F75 2003</subfield>
+      </datafield>
+      <datafield tag="072" ind1=" " ind2=" ">
+         <subfield code="a">L800</subfield>
+      </datafield>
+      <datafield tag="100" ind1="1" ind2=" ">
+         <subfield code="a">Frankeny, Rebecca L.</subfield>
+      </datafield>
+      <datafield tag="245" ind1="1" ind2="0">
+         <subfield code="a">Miniature horses :</subfield>
+         <subfield code="b">a veterinary guide for owners and breeders /</subfield>
+         <subfield code="c">Rebecca L. Frankeny ; contributing author, Steven Duren ; illustrations, Kathi Haworth ; foreword by Ron Scheuring.</subfield>
+      </datafield>
+      <datafield tag="260" ind1=" " ind2=" ">
+         <subfield code="a">North Pomfret, Vt. :</subfield>
+         <subfield code="b">Trafalgar Square Pub.,</subfield>
+         <subfield code="c">2003.</subfield>
+      </datafield>
+      <datafield tag="300" ind1=" " ind2=" ">
+         <subfield code="a">xi, 163 pages :</subfield>
+         <subfield code="b">chiefly color illustrations ;</subfield>
+         <subfield code="c">25 cm</subfield>
+      </datafield>
+      <datafield tag="336" ind1=" " ind2=" ">
+         <subfield code="a">text</subfield>
+         <subfield code="b">txt</subfield>
+         <subfield code="2">rdacontent</subfield>
+      </datafield>
+      <datafield tag="337" ind1=" " ind2=" ">
+         <subfield code="a">unmediated</subfield>
+         <subfield code="b">n</subfield>
+         <subfield code="2">rdamedia</subfield>
+      </datafield>
+      <datafield tag="338" ind1=" " ind2=" ">
+         <subfield code="a">volume</subfield>
+         <subfield code="b">nc</subfield>
+         <subfield code="2">rdacarrier</subfield>
+      </datafield>
+      <datafield tag="504" ind1=" " ind2=" ">
+         <subfield code="a">Includes bibliographical references (page 149).</subfield>
+      </datafield>
+      <datafield tag="520" ind1=" " ind2=" ">
+         <subfield code="a">A veterinary guide for owners and breaders.</subfield>
+      </datafield>
+      <datafield tag="505" ind1="0" ind2="0">
+         <subfield code="t">Introduction: The Unique Medical Concerns of the Miniature Horse --</subfield>
+         <subfield code="t">The Musculoskeletal System --</subfield>
+         <subfield code="t">The Respiratory System --</subfield>
+         <subfield code="t">Teenth and Jaws --</subfield>
+         <subfield code="t">Colic --</subfield>
+         <subfield code="t">The Liver, Hyperlipemia, and Hepatic Lipidosis --</subfield>
+         <subfield code="t">The Endocrine System --</subfield>
+         <subfield code="t">Reproduction --</subfield>
+         <subfield code="t">Nutrition --</subfield>
+         <subfield code="t">Dwarfism --</subfield>
+         <subfield code="t">Normal Physical Parameters --</subfield>
+         <subfield code="t">Poisonous Plants --</subfield>
+         <subfield code="t">Clinical Signs of Disease --</subfield>
+         <subfield code="t">Resources for Miniature Horse Owners.</subfield>
+      </datafield>
+      <datafield tag="591" ind1=" " ind2=" ">
+         <subfield code="b">NAL Reclamation</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Miniature horses</subfield>
+         <subfield code="x">Physiology.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Miniature horses</subfield>
+         <subfield code="x">Diseases.</subfield>
+      </datafield>
+      <datafield tag="650" ind1=" " ind2="0">
+         <subfield code="a">Miniature horses</subfield>
+         <subfield code="x">Health.</subfield>
+      </datafield>
+      <datafield tag="650" ind1="1" ind2="2">
+         <subfield code="a">Horse Diseases.</subfield>
+      </datafield>
+      <datafield tag="650" ind1="1" ind2="2">
+         <subfield code="a">Horses.</subfield>
+      </datafield>
+      <datafield tag="650" ind1="2" ind2="2">
+         <subfield code="a">Veterinary Medicine.</subfield>
+      </datafield>
+      <datafield tag="700" ind1="1" ind2=" ">
+         <subfield code="a">Duren, Steven.</subfield>
+      </datafield>
+      <datafield tag="776" ind1="0" ind2="8">
+         <subfield code="i">Online version:</subfield>
+         <subfield code="a">Frankeny, Rebecca L.</subfield>
+         <subfield code="t">Miniature horses.</subfield>
+         <subfield code="d">North Pomfret, Vt. : Trafalgar Square Pub., 2003</subfield>
+         <subfield code="w">(OCoLC)708190843</subfield>
+      </datafield>
+      <datafield tag="912" ind1=" " ind2=" ">
+         <subfield code="a">nalcatalog</subfield>
+      </datafield>
+      <datafield tag="930" ind1=" " ind2=" ">
+         <subfield code="a">20030903</subfield>
+         <subfield code="b">20030905</subfield>
+         <subfield code="c">00000000</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker &amp; Taylor</subfield>
+         <subfield code="b">BKTY</subfield>
+         <subfield code="c">24.95</subfield>
+         <subfield code="d">18.71</subfield>
+         <subfield code="i">157076235X</subfield>
+         <subfield code="n">0004083534</subfield>
+         <subfield code="s">active</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Baker and Taylor</subfield>
+         <subfield code="b">BTCP</subfield>
+         <subfield code="n">2002015351</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">Ingram</subfield>
+         <subfield code="b">INGR</subfield>
+         <subfield code="n">9781570762352</subfield>
+      </datafield>
+      <datafield tag="938" ind1=" " ind2=" ">
+         <subfield code="a">YBP Library Services</subfield>
+         <subfield code="b">YANK</subfield>
+         <subfield code="n">1952500</subfield>
+      </datafield>
+      <datafield tag="945" ind1=" " ind2=" ">
+         <subfield code="d">AR</subfield>
+         <subfield code="e">2003/08/13</subfield>
+         <subfield code="f">AR</subfield>
+         <subfield code="g">2003/08/13</subfield>
+      </datafield>
+      <datafield tag="946" ind1=" " ind2=" ">
+         <subfield code="a">Other US</subfield>
+      </datafield>
+      <datafield tag="994" ind1=" " ind2=" ">
+         <subfield code="a">92</subfield>
+         <subfield code="b">AGL</subfield>
+      </datafield>
+   </record>
+</collection>
