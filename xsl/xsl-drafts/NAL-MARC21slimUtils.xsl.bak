@@ -282,41 +282,37 @@
     <xd:param name="namespace"/>
     <xd:param name="prefix"/>
     </xd:doc>
-    <!--f:add-namespace-prefix-->    
-    <xsl:function name="f:change-elemment-ns-deep" as="node()*"
-        xmlns:f="http://fucntions">
-        <xsl:param name="nodes" as="node()*"/>
-        <xsl:param name="newns" as="xs:string"/>
+    <!--f:add-namespace-prefix-->
+    <xsl:function name="f:add-namespace" as="element()*"
+        xmlns:f="http://functions">
+        <xsl:param name="elements" as="element()*"/>
+        <xsl:param name="namespace" as="xs:string"/>
         <xsl:param name="prefix" as="xs:string"/>
-        
-        <xsl:for-each select="$nodes">
-            <xsl:variable name="node" select="."/>
+        <xsl:for-each select="$elements">
+            <xsl:variable name="element" select="."/>
             <xsl:choose>
-                <xsl:when test="$node instance of element()">
+                <xsl:when test="$element instance of element()">
                     <xsl:element name="{concat($prefix,
                         if ($prefix = '')
                         then ''
                         else ':',
-                        local-name($node))}"
-                        namespace="{$newns}">
-                        <xsl:sequence select="($node/@*,
-                            functx:change-element-ns-deep($node/node(),
-                            $newns, $prefix))"/>
+                        local-name($element))}"
+                        namespace="{$namespace}">
+                        <xsl:sequence select="($element/@*,
+                            f:add-namespace-and-prefix($element/node(),
+                            $namespace, $prefix))"/>
                     </xsl:element>
                 </xsl:when>
-                <xsl:when test="$node instance of document-node()">
-                    <xsl:document>
-                        <xsl:sequence select="functx:change-element-ns-deep(
-                            $node/node(), $newns, $prefix)"/>
-                    </xsl:document>
-                </xsl:when>
-                <xsl:otherwise>
-                    <xsl:sequence select="$node"/>
-                </xsl:otherwise>
+            <xsl:when test="$element instance of document-node()">
+                <xsl:document>
+                    <xsl:sequence select="f:add-namespace-and-prefix(
+                        $element/node(), $namespace, $prefix)"/>
+                </xsl:document>
+            </xsl:when>
             </xsl:choose>
-        </xsl:for-each>
-        
+        </xsl:for-each>        
     </xsl:function>
+    
     <xd:doc id="f:add-namespace-and-prefix" scope="component">
         <xd:desc>
             <xd:p><xd:b>Function: </xd:b>f:add-namespace-prefix</xd:p>
