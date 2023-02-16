@@ -279,37 +279,40 @@
             <xd:p><xd:b>Purpose: </xd:b>Change namespace of $elements, but </xd:p>
         </xd:desc>
     <xd:param name="elements"/>
-    <xd:param name="newns"/>
+    <xd:param name="namespace"/>
     <xd:param name="prefix"/>
     </xd:doc>
-    <!--f:add-namespace-prefix-->
-    <xsl:function name="f:add-namespace" as="element()?"
-        xmlns:f="http://functions">
-        <xsl:param name="elements" as="element()*"/>
+    <!--f:add-namespace-prefix-->    
+    <xsl:function name="f:change-elemment-ns-deep" as="node()*"
+        xmlns:f="http://fucntions">
+        <xsl:param name="nodes" as="node()*"/>
         <xsl:param name="newns" as="xs:string"/>
         <xsl:param name="prefix" as="xs:string"/>
         
-        <xsl:for-each select="$elements">
+        <xsl:for-each select="$nodes">
+            <xsl:variable name="node" select="."/>
             <xsl:choose>
-                <xsl:when test="$element instance of element()">
-            <xsl:variable name="element" select="."/>
+                <xsl:when test="$node instance of element()">
                     <xsl:element name="{concat($prefix,
                         if ($prefix = '')
                         then ''
                         else ':',
-                        local-name($element))}"
+                        local-name($node))}"
                         namespace="{$newns}">
-                        <xsl:sequence select="($element/@*,
-                            f:add-namespace-and-prefix($element/node(),
+                        <xsl:sequence select="($node/@*,
+                            functx:change-element-ns-deep($node/node(),
                             $newns, $prefix))"/>
                     </xsl:element>
                 </xsl:when>
-            <xsl:when test="$element instance of document-node()">
-                <xsl:document>
-                    <xsl:sequence select="f:add-namespace-and-prefix(
-                        $element/node(), $add-namespace, $add-prefix)"/>
-                </xsl:document>
-            </xsl:when>
+                <xsl:when test="$node instance of document-node()">
+                    <xsl:document>
+                        <xsl:sequence select="functx:change-element-ns-deep(
+                            $node/node(), $newns, $prefix)"/>
+                    </xsl:document>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:sequence select="$node"/>
+                </xsl:otherwise>
             </xsl:choose>
         </xsl:for-each>
         

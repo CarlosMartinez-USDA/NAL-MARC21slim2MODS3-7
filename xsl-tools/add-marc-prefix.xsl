@@ -4,12 +4,12 @@
     xmlns:saxon="http://saxon.sf.net/" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.loc.gov/MARC21/slim https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
-    exclude-result-prefixes="f marc saxon xd">
+    exclude-result-prefixes="f marc saxon xd xs xsi">
     <xsl:output encoding="UTF-8" indent="yes" method="xml" version="1.0" name="unprefixed"/>
 
     <!-- includes -->
     <xsl:include href="../NAL-MARC21slimUtils.xsl"/>
-    <xd:doc id="add-namespace-and-prefix" scope="component">
+    <xd:doc id="add-namespace" scope="component">
         <xd:desc>Adds the marc prefix and namespace to unprefixed elements`</xd:desc>
     </xd:doc>
     <xsl:template match="/">
@@ -18,9 +18,9 @@
             indent="yes" format="unprefixed"
             href="{replace(saxon:system-id(), '(.*/)(.*)(\.xml|\.json)', '$1')}P-{replace(saxon:system-id(), '(.*/)(.*)(\.xml|\.json)', '$2')}_{position()}.xml">
             <marc:collection>
-                <xsl:for-each select="//collection/record">
+                <xsl:for-each select="//record">
                     <xsl:copy-of
-                        select="f:add-namespace-and-prefix($in-xml, 'http://www.loc.gov/MARC21/slim', 'marc')"
+                        select="f:add-namespace($in-xml, 'http://www.loc.gov/MARC21/slim', 'marc')"
                     />
                 </xsl:for-each>
             </marc:collection>

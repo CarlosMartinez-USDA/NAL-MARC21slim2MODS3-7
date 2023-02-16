@@ -28,7 +28,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1872</dateIssued>
          <dateIssued encoding="marc">1872</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">New York</placeTerm>
          </place>
@@ -90,7 +90,7 @@
          <recordCreationDate encoding="marc">890421</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101144853.0</recordChangeDate>
          <recordIdentifier>9915427698807426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -117,7 +117,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1887</dateIssued>
          <dateIssued encoding="marc">1887</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Lansing]</placeTerm>
          </place>
@@ -164,7 +164,7 @@
          <recordCreationDate encoding="marc">910615</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101165537.0</recordChangeDate>
          <recordIdentifier>9915429476407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -190,7 +190,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1876</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Chicago</placeTerm>
          </place>
@@ -236,6 +236,7 @@
          <titleInfo>
             <title>Pathological horse-shoeing</title>
          </titleInfo>
+         <originInfo/>
          <identifier type="local">(OCoLC)920372405</identifier>
          <name>
             <namePart>Coleman, Joseph Brine.</namePart>
@@ -253,7 +254,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101190709.0</recordChangeDate>
          <recordIdentifier>9915432979407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -274,7 +275,7 @@
       <originInfo>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1916</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Place of publication not identified]</placeTerm>
          </place>
@@ -312,7 +313,7 @@
          <recordCreationDate encoding="marc">910402</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101185327.0</recordChangeDate>
          <recordIdentifier>9915437803207426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -332,11 +333,12 @@
       <originInfo>
          <place>
             <placeTerm type="code" authority="marccountry">uuuuuu</placeTerm>
+            <placeTerm type="text"/>
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">0001</dateIssued>
          <dateIssued encoding="marc">1uuu</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Urbana</placeTerm>
          </place>
@@ -368,7 +370,7 @@
          <recordCreationDate encoding="marc">701217</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101180546.0</recordChangeDate>
          <recordIdentifier>9915438094807426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -399,7 +401,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1996</dateIssued>
          <dateIssued encoding="marc">1996</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Philadelphia</placeTerm>
          </place>
@@ -456,7 +458,7 @@
          <recordCreationDate encoding="marc">970114</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101180933.0</recordChangeDate>
          <recordIdentifier>9915438477707426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -487,7 +489,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">North Pomfret, Vt</placeTerm>
          </place>
@@ -536,6 +538,7 @@
          <titleInfo>
             <title>Miniature horses</title>
          </titleInfo>
+         <originInfo/>
          <identifier type="local">(OCoLC)708190843</identifier>
          <name>
             <namePart>Frankeny, Rebecca L.</namePart>
@@ -558,7 +561,7 @@
          <recordCreationDate encoding="marc">030813</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101215058.0</recordChangeDate>
          <recordIdentifier>9915442164307426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -584,7 +587,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">2003</dateIssued>
          <dateIssued encoding="marc">2003</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">St. Louis</placeTerm>
          </place>
@@ -675,7 +678,7 @@
          <recordCreationDate encoding="marc">030124</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101230546.0</recordChangeDate>
          <recordIdentifier>9915443877507426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -699,11 +702,12 @@
       <originInfo>
          <place>
             <placeTerm type="code" authority="marccountry">kyueng</placeTerm>
+            <placeTerm type="text"/>
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
          <dateIssued encoding="marc">2007</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Lexington</placeTerm>
          </place>
@@ -761,6 +765,7 @@
          <titleInfo>
             <title>Wendell Berry</title>
          </titleInfo>
+         <originInfo/>
          <identifier type="local">(OCoLC)608524418</identifier>
       </relatedItem>
       <relatedItem type="series">
@@ -792,7 +797,7 @@
          <recordCreationDate encoding="marc">070706</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101230553.0</recordChangeDate>
          <recordIdentifier>9915443896407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -819,7 +824,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1945</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Istanbul</placeTerm>
          </place>
@@ -860,7 +865,7 @@
          <recordCreationDate encoding="marc">941102</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102002737.0</recordChangeDate>
          <recordIdentifier>9915445550007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -903,7 +908,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1996</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">New York N.Y</placeTerm>
          </place>
@@ -958,6 +963,7 @@
          <titleInfo>
             <title>Flight from science and reason</title>
          </titleInfo>
+         <originInfo/>
          <identifier type="local">(OCoLC)607766345</identifier>
       </relatedItem>
       <relatedItem type="otherFormat"
@@ -966,6 +972,7 @@
          <titleInfo>
             <title>Flight from science and reason</title>
          </titleInfo>
+         <originInfo/>
          <identifier type="local">(OCoLC)607809254</identifier>
       </relatedItem>
       <relatedItem type="series">
@@ -996,7 +1003,7 @@
          <recordCreationDate encoding="marc">970411</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102005825.0</recordChangeDate>
          <recordIdentifier>9915446222107426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1026,7 +1033,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1829</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">London</placeTerm>
          </place>
@@ -1059,6 +1066,7 @@
          <titleInfo>
             <title>Horse in all his varieties and uses</title>
          </titleInfo>
+         <originInfo/>
          <identifier type="local">(OCoLC)920372447</identifier>
          <name>
             <namePart>Lawrence, John, 1753-1839.</namePart>
@@ -1077,7 +1085,7 @@
          <recordCreationDate encoding="marc">920703</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102021909.0</recordChangeDate>
          <recordIdentifier>9915447752707426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1112,7 +1120,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1985</dateIssued>
          <dateIssued encoding="marc">1985</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <edition>Second edition.</edition>
       </originInfo>
       <originInfo eventType="publisher">
@@ -1189,7 +1197,7 @@
          <recordCreationDate encoding="marc">840326</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101215206.0</recordChangeDate>
          <recordIdentifier>9915450851707426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1236,7 +1244,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1871</dateIssued>
          <dateIssued encoding="marc">1871</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Philadelphia</placeTerm>
          </place>
@@ -1292,7 +1300,7 @@
          <recordCreationDate encoding="marc">990710</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101224549.0</recordChangeDate>
          <recordIdentifier>9915451960907426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1325,7 +1333,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1830</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Philadelphia</placeTerm>
          </place>
@@ -1386,7 +1394,7 @@
          <recordCreationDate encoding="marc">990626</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101224552.0</recordChangeDate>
          <recordIdentifier>9915451965207426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1416,7 +1424,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1880</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">London</placeTerm>
          </place>
@@ -1461,6 +1469,7 @@
          <titleInfo>
             <title>Horse, in the stable and the field</title>
          </titleInfo>
+         <originInfo/>
          <identifier type="local">(OCoLC)608658960</identifier>
          <name>
             <namePart>Walsh, J.H. (John Henry), 1810-1888.</namePart>
@@ -1479,7 +1488,7 @@
          <recordCreationDate encoding="marc">920619</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102003410.0</recordChangeDate>
          <recordIdentifier>9915454145107426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1531,7 +1540,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1871</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Philadelphia</placeTerm>
          </place>
@@ -1618,7 +1627,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102003609.0</recordChangeDate>
          <recordIdentifier>9915454305107426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1653,7 +1662,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1899</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">London</placeTerm>
          </place>
@@ -1702,7 +1711,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102003617.0</recordChangeDate>
          <recordIdentifier>9915454333407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1737,7 +1746,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1994</dateIssued>
          <dateIssued encoding="marc">1994</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
       </originInfo>
       <originInfo eventType="publisher">
          <place>
@@ -1831,7 +1840,7 @@
          <recordCreationDate encoding="marc">940126</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102013107.0</recordChangeDate>
          <recordIdentifier>9915455102507426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1858,11 +1867,12 @@
       <originInfo>
          <place>
             <placeTerm type="code" authority="marccountry">enkenkEngland</placeTerm>
+            <placeTerm type="text"/>
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="marc" point="start" qualifier="questionable">1880</dateIssued>
          <dateIssued encoding="marc" point="end" qualifier="questionable">1899</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">London</placeTerm>
          </place>
@@ -1899,7 +1909,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101213619.0</recordChangeDate>
          <recordIdentifier>9915458813407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1929,7 +1939,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Oxford, UK</placeTerm>
          </place>
@@ -1994,7 +2004,7 @@
          <recordCreationDate encoding="marc">040223</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101212939.0</recordChangeDate>
          <recordIdentifier>9915458890407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2023,7 +2033,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">2004</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">North Pomfret, Vt</placeTerm>
          </place>
@@ -2062,6 +2072,7 @@
          <titleInfo>
             <title>Concise guide to respiratory disease of the horse</title>
          </titleInfo>
+         <originInfo/>
          <identifier type="local">(OCoLC)708188855</identifier>
          <name>
             <namePart>Ramey, David W.</namePart>
@@ -2084,7 +2095,7 @@
          <recordCreationDate encoding="marc">040603</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101212939.0</recordChangeDate>
          <recordIdentifier>9915458898007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2116,11 +2127,12 @@
       <originInfo>
          <place>
             <placeTerm type="code" authority="marccountry">ab</placeTerm>
+            <placeTerm type="text"/>
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1982</dateIssued>
          <dateIssued encoding="marc">1982</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
       </originInfo>
       <language>
          <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
@@ -2161,12 +2173,16 @@
          </titleInfo>
          <part>
             <detail type="volume">
+               <number/>
                <caption>v.</caption>
             </detail>
             <extent unit="pages">
                <start> (82-18)</start>
                <end> (82-18)</end>
+               <total/>
             </extent>
+            <text type="year">1982</text>
+            <text type="month"/>
          </part>
       </relatedItem>
       <identifier type="control">9915467720007426</identifier>
@@ -2181,7 +2197,7 @@
          <recordCreationDate encoding="marc">830514</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101220852.0</recordChangeDate>
          <recordIdentifier>9915467720007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
       </recordInfo>
    </mods>
    <mods version="3.7">
@@ -2212,7 +2228,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">2007</dateIssued>
          <dateIssued encoding="marc">2007</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">St. Louis, Mo</placeTerm>
          </place>
@@ -2286,7 +2302,7 @@
          <recordCreationDate encoding="marc">070131</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102002353.0</recordChangeDate>
          <recordIdentifier>9915470371207426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2343,12 +2359,13 @@
       <originInfo>
          <place>
             <placeTerm type="code" authority="marccountry">moumouMissouri</placeTerm>
+            <placeTerm type="text"/>
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">2016-20-16</dateIssued>
          <dateIssued encoding="marc">2016</dateIssued>
          <copyrightDate encoding="marc">2016</copyrightDate>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <edition>Second edition.</edition>
       </originInfo>
       <originInfo eventType="publisher">
@@ -2414,7 +2431,7 @@
          <recordCreationDate encoding="marc">150417</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221101200126.0</recordChangeDate>
          <recordIdentifier>9915473218607426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2447,7 +2464,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Nottingham</placeTerm>
          </place>
@@ -2496,7 +2513,7 @@
          <recordCreationDate encoding="marc">050208</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102031305.0</recordChangeDate>
          <recordIdentifier>9915474040907426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2538,7 +2555,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1906</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Washington</placeTerm>
          </place>
@@ -2577,7 +2594,7 @@
          <recordCreationDate encoding="marc">900401</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102051210.0</recordChangeDate>
          <recordIdentifier>9915475957607426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2600,7 +2617,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1903</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Washington</placeTerm>
          </place>
@@ -2638,6 +2655,7 @@
          <titleInfo>
             <title>Army horse in accident and disease</title>
          </titleInfo>
+         <originInfo/>
          <identifier type="local">(OCoLC)621558238</identifier>
          <name>
             <namePart>School of Application for Cavalry and Field Artillery (Fort Riley, Kan.).</namePart>
@@ -2655,7 +2673,7 @@
          <recordCreationDate encoding="marc">900401</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102050646.0</recordChangeDate>
          <recordIdentifier>9915476093907426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2693,7 +2711,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1909</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">New York</placeTerm>
          </place>
@@ -2725,7 +2743,7 @@
          <recordCreationDate encoding="marc">900401</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102050806.0</recordChangeDate>
          <recordIdentifier>9915476132307426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2757,7 +2775,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1915</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Philadelphia</placeTerm>
          </place>
@@ -2802,6 +2820,7 @@
          <titleInfo>
             <title>Horse in health and disease</title>
          </titleInfo>
+         <originInfo/>
          <identifier type="local">(OCoLC)761268347</identifier>
          <name>
             <namePart>Hadley, Frederick Brown, 1880-</namePart>
@@ -2821,7 +2840,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102051336.0</recordChangeDate>
          <recordIdentifier>9915484657907426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2852,7 +2871,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1991</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <publisher>Centre for Tropical Veterinary Medicine</publisher>
          <dateIssued>1991</dateIssued>
       </originInfo>
@@ -2907,6 +2926,7 @@
          <titleInfo>
             <title>Donkeys mules and horses in tropical agricultural development</title>
          </titleInfo>
+         <originInfo/>
          <identifier type="local">(OCoLC)690421093</identifier>
       </relatedItem>
       <identifier type="isbn">0907146066</identifier>
@@ -2925,7 +2945,7 @@
          <recordCreationDate encoding="marc">920929</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102074044.0</recordChangeDate>
          <recordIdentifier>9915486999807426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2951,7 +2971,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1974</dateIssued>
          <dateIssued encoding="marc">1974</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">London</placeTerm>
          </place>
@@ -2994,7 +3014,7 @@
          <recordCreationDate encoding="marc">750801</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102120338.0</recordChangeDate>
          <recordIdentifier>9915489887907426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3034,7 +3054,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
          <dateIssued encoding="marc">2005</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">New York, NY</placeTerm>
          </place>
@@ -3099,7 +3119,7 @@
          <recordCreationDate encoding="marc">041123</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102045256.0</recordChangeDate>
          <recordIdentifier>9915492910107426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3137,11 +3157,12 @@
       <originInfo>
          <place>
             <placeTerm type="code" authority="marccountry">aca</placeTerm>
+            <placeTerm type="text"/>
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1995</dateIssued>
          <dateIssued encoding="marc">1995</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Canberra, A.C.T</placeTerm>
          </place>
@@ -3198,7 +3219,7 @@
          <recordCreationDate encoding="marc">970512</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102070922.0</recordChangeDate>
          <recordIdentifier>9915495039007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3226,7 +3247,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1999</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Danville, Ill</placeTerm>
          </place>
@@ -3298,7 +3319,7 @@
          <recordCreationDate encoding="marc">981021</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102083650.0</recordChangeDate>
          <recordIdentifier>9915496108207426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3324,7 +3345,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1884</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Peoria, Ill</placeTerm>
          </place>
@@ -3358,7 +3379,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102113029.0</recordChangeDate>
          <recordIdentifier>9915498070207426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3379,12 +3400,13 @@
       <originInfo>
          <place>
             <placeTerm type="code" authority="marccountry">enkenkEngland</placeTerm>
+            <placeTerm type="text"/>
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1956-19-55</dateIssued>
          <dateIssued encoding="marc">1956</dateIssued>
          <copyrightDate encoding="marc">1955</copyrightDate>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">London</placeTerm>
          </place>
@@ -3427,7 +3449,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102113029.0</recordChangeDate>
          <recordIdentifier>9915498070507426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3464,11 +3486,12 @@
       <originInfo>
          <place>
             <placeTerm type="code" authority="marccountry">frb</placeTerm>
+            <placeTerm type="text"/>
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1994</dateIssued>
          <dateIssued encoding="marc">1994</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Paris, France</placeTerm>
          </place>
@@ -3552,7 +3575,7 @@
          <recordCreationDate encoding="marc">950127</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102072245.0</recordChangeDate>
          <recordIdentifier>9915504091007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3605,7 +3628,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1894</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">London</placeTerm>
          </place>
@@ -3691,7 +3714,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102093602.0</recordChangeDate>
          <recordIdentifier>9915505552307426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3721,7 +3744,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1920</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">London</placeTerm>
          </place>
@@ -3757,7 +3780,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102093914.0</recordChangeDate>
          <recordIdentifier>9915505674807426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3785,7 +3808,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">2000</dateIssued>
          <dateIssued encoding="marc">2000</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Lanham</placeTerm>
          </place>
@@ -3848,7 +3871,7 @@
          <recordCreationDate encoding="marc">000928</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102114456.0</recordChangeDate>
          <recordIdentifier>9915507395107426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3880,7 +3903,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1999</dateIssued>
          <dateIssued encoding="marc">1999</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Philadelphia</placeTerm>
          </place>
@@ -3931,7 +3954,7 @@
          <recordCreationDate encoding="marc">000212</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102134702.0</recordChangeDate>
          <recordIdentifier>9915508652707426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3977,7 +4000,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">2002</dateIssued>
          <dateIssued encoding="marc">2002</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Philadelphia, Pa</placeTerm>
          </place>
@@ -4030,7 +4053,7 @@
          <recordCreationDate encoding="marc">021030</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102145744.0</recordChangeDate>
          <recordIdentifier>9915509781707426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4074,7 +4097,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">2008</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Ames, Iowa</placeTerm>
          </place>
@@ -4144,7 +4167,7 @@
          <recordCreationDate encoding="marc">080916</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102170550.0</recordChangeDate>
          <recordIdentifier>9915512871007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4179,7 +4202,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1987</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">San Francisco, Calif.]</placeTerm>
          </place>
@@ -4235,7 +4258,7 @@
          <recordCreationDate encoding="marc">091022</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102182050.0</recordChangeDate>
          <recordIdentifier>9915514012807426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4287,7 +4310,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1982</dateIssued>
          <dateIssued encoding="marc">1982</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Missoula, Mont.]</placeTerm>
          </place>
@@ -4382,7 +4405,7 @@
          <recordCreationDate encoding="marc">971014</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102182146.0</recordChangeDate>
          <recordIdentifier>9915514472407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4428,7 +4451,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">2001</dateIssued>
          <dateIssued encoding="marc">2001</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">St Joseph, MI</placeTerm>
          </place>
@@ -4485,6 +4508,7 @@
          <titleInfo>
             <title>Livestock Environment VI</title>
          </titleInfo>
+         <originInfo/>
          <identifier type="local">(OCoLC)904219278</identifier>
       </relatedItem>
       <identifier type="isbn">1892769212</identifier>
@@ -4504,7 +4528,7 @@
          <recordCreationDate encoding="marc">020711</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102190650.0</recordChangeDate>
          <recordIdentifier>9915515270807426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4529,7 +4553,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1984</dateIssued>
          <dateIssued encoding="marc">1984</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
       </originInfo>
       <language>
          <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
@@ -4588,6 +4612,7 @@
          <titleInfo>
             <title>ACTES = proceedings ; Montpellier, 2-8 Sept. 1984</title>
          </titleInfo>
+         <originInfo/>
       </relatedItem>
       <identifier type="control">9915518129507426</identifier>
       <identifier type="agricola">IND87069816</identifier>
@@ -4601,7 +4626,7 @@
          <recordCreationDate encoding="marc">871014</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102143106.0</recordChangeDate>
          <recordIdentifier>9915518129507426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
       </recordInfo>
    </mods>
    <mods version="3.7">
@@ -4629,7 +4654,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">2011</dateIssued>
          <dateIssued encoding="marc">2011</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">St. Louis, Mo</placeTerm>
          </place>
@@ -4697,7 +4722,7 @@
          <recordCreationDate encoding="marc">100820</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102185122.0</recordChangeDate>
          <recordIdentifier>9915523515707426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4756,7 +4781,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1803</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Baltimore</placeTerm>
          </place>
@@ -4822,7 +4847,7 @@
          <recordCreationDate encoding="marc">820528</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102122859.0</recordChangeDate>
          <recordIdentifier>9915524572007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4864,7 +4889,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1858</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Philadelphia</placeTerm>
          </place>
@@ -4910,7 +4935,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102134703.0</recordChangeDate>
          <recordIdentifier>9915533206507426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4960,7 +4985,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1874</dateIssued>
          <dateIssued encoding="marc">1874</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">London</placeTerm>
          </place>
@@ -5067,7 +5092,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102134708.0</recordChangeDate>
          <recordIdentifier>9915533211107426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5112,7 +5137,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1853</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Philadelphia</placeTerm>
          </place>
@@ -5154,7 +5179,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102133912.0</recordChangeDate>
          <recordIdentifier>9915533262107426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5185,7 +5210,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1917</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Chicago</placeTerm>
          </place>
@@ -5216,6 +5241,7 @@
          <titleInfo>
             <title>Horse</title>
          </titleInfo>
+         <originInfo/>
          <identifier type="local">(OCoLC)653077137</identifier>
          <name>
             <namePart>Merwin, Henry Childs, 1853-1929.</namePart>
@@ -5235,7 +5261,7 @@
          <recordCreationDate encoding="marc">920619</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102133842.0</recordChangeDate>
          <recordIdentifier>9915533291007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5282,7 +5308,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1977</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Missoula, MT</placeTerm>
          </place>
@@ -5351,7 +5377,7 @@
          <recordCreationDate encoding="marc">791003</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102160242.0</recordChangeDate>
          <recordIdentifier>9915536188007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5373,7 +5399,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1991</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Washington, D.C.]</placeTerm>
          </place>
@@ -5435,7 +5461,7 @@
          <recordCreationDate encoding="marc">920626</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102190142.0</recordChangeDate>
          <recordIdentifier>9915539837307426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5464,7 +5490,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1898</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">College Park</placeTerm>
          </place>
@@ -5505,6 +5531,7 @@
          <titleInfo>
             <title>Special investigation of the so-called "new" horse disease in Maryland</title>
          </titleInfo>
+         <originInfo/>
          <identifier type="local">(OCoLC)768073884</identifier>
          <name>
             <namePart>Buckley, S.S. (Samuel Sutherland), 1873-</namePart>
@@ -5530,7 +5557,7 @@
          <recordCreationDate encoding="marc">910604</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102205102.0</recordChangeDate>
          <recordIdentifier>9915544809407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5553,7 +5580,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1984</dateIssued>
          <dateIssued encoding="marc">1984</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Place of publication not identified]</placeTerm>
          </place>
@@ -5593,7 +5620,7 @@
          <recordCreationDate encoding="marc">851115</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102210514.0</recordChangeDate>
          <recordIdentifier>9915545057107426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5623,7 +5650,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1879</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">New York</placeTerm>
          </place>
@@ -5660,7 +5687,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102193741.0</recordChangeDate>
          <recordIdentifier>9915549962407426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5700,7 +5727,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1855</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Boston</placeTerm>
          </place>
@@ -5746,7 +5773,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102193834.0</recordChangeDate>
          <recordIdentifier>9915549994707426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5781,7 +5808,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">2014</dateIssued>
          <dateIssued encoding="marc">2014</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
       </originInfo>
       <originInfo eventType="publisher">
          <place>
@@ -5835,6 +5862,9 @@
       </subject>
       <classification authority="lcc">SF951 .R243 2014</classification>
       <classification authority="nal">SF951 .R243 2014</classification>
+      <relatedItem type="otherFormat"
+                   otherType="ebook version:"
+                   displayLabel="ebook version:"/>
       <identifier type="isbn">9781482221916</identifier>
       <identifier type="isbn">1482221918</identifier>
       <identifier type="isbn" invalid="yes">9781482221923 (PDF ebook)</identifier>
@@ -5854,7 +5884,7 @@
          <recordCreationDate encoding="marc">140212</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102195322.0</recordChangeDate>
          <recordIdentifier>9915550767007426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5881,7 +5911,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1906</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">London</placeTerm>
          </place>
@@ -5916,7 +5946,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102204555.0</recordChangeDate>
          <recordIdentifier>9915552789507426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5938,7 +5968,7 @@
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1992</dateIssued>
          <dateIssued encoding="marc">1992</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">St. Louis</placeTerm>
          </place>
@@ -5984,6 +6014,7 @@
          <titleInfo>
             <title>Veterinary diagnostic virology</title>
          </titleInfo>
+         <originInfo/>
          <identifier type="local">(OCoLC)604350721</identifier>
       </relatedItem>
       <identifier type="isbn">0801663962</identifier>
@@ -6007,7 +6038,7 @@
          <recordCreationDate encoding="marc">920414</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102205531.0</recordChangeDate>
          <recordIdentifier>9915553025207426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -6034,7 +6065,7 @@
          </place>
          <publisher>Montpellier, France : Martin-Prevel, AIONP/GERDAT, 1984.</publisher>
          <dateIssued encoding="w3cdtf" keyDate="yes">1825</dateIssued>
-         <issuance>monographic</issuance>
+         <issuance>single unit</issuance>
          <place>
             <placeTerm type="text">Leon</placeTerm>
          </place>
@@ -6074,7 +6105,7 @@
          <recordCreationDate encoding="marc">920620</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221102213530.0</recordChangeDate>
          <recordIdentifier>9915554783107426</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-01-23 14:42:26</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.172 20230123 cm3), Transformed on: 2023-02-14 20:34:45</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>

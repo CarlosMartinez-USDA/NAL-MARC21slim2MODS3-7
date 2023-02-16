@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <meta>
+        <filters directoryPatterns="" filePatterns="\QnewProject.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options>
+            <serialized xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>diff.enable.file.comparison.in.author.mode</String>
+                        <Boolean>false</Boolean>
+                    </entry>
+                    <entry>
+                        <String>diff.info.v12</String>
+                        <diffInfo>
+                            <field name="algorithm">
+                                <Integer>0</Integer>
+                            </field>
+                            <field name="algorithm3Way">
+                                <Integer>0</Integer>
+                            </field>
+                            <field name="ignorePI">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="ignoreComments">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="ignoreCDATA">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="ignoreWhitespaces">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="ignoreDOCTYPE">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="ignoreText">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="ignoreAttributesOrder">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="ignorePrefixes">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="ignoreNamespaces">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="ignoreNamespaceDeclarations">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="mergeAdjacentDifferences">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="markEndTagsAsDifferent">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="maxNoOfDiffs">
+                                <Integer>50000</Integer>
+                            </field>
+                            <field name="maxNoOfDiffs3Way">
+                                <Integer>10000</Integer>
+                            </field>
+                            <field name="ignoreEntities">
+                                <Boolean>true</Boolean>
+                            </field>
+                            <field name="ignoreStateOfEmptyElements">
+                                <Boolean>false</Boolean>
+                            </field>
+                            <field name="ignoreNodesByXPath">
+                                <Boolean>true</Boolean>
+                            </field>
+                            <field name="defaultXPath">
+                                <String>/mods:modsCollection/mods:mods/mods:recordInfo/mods:recordOrigin</String>
+                            </field>
+                        </diffInfo>
+                    </entry>
+                    <entry>
+                        <String>diff.show.pseudo.conflicts</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>key.diff.option.pane</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                </serializableOrderedMap>
+            </serialized>
+        </options>
+    </meta>
+    <projectTree name="newProject.xpr">
+        <folder path="."/>
+        <folder path="file:/E:/workspace/"/>
+    </projectTree>
+</project>

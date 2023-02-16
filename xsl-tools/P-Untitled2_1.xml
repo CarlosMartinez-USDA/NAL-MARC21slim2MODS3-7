@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?><marc:collection xmlns="http://wws.loc.gov/MARC21/slim" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"><marc:record>
+        <marc:leader>02275naa a2200325 u 4500</marc:leader>
+        <marc:controlfield tag="001">IND600965525</marc:controlfield>
+        <marc:controlfield tag="005">20221117160555.0</marc:controlfield>
+        <marc:controlfield tag="008">141104e20130901xx |||||o|||||||||||eng||</marc:controlfield>
+        <marc:datafield tag="016" ind1="7" ind2=" ">
+            <marc:subfield code="a">IND600965525</marc:subfield>
+            <marc:subfield code="2">DNAL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="024" ind1="7" ind2=" ">
+            <marc:subfield code="a">10.1016/j.energy.2013.06.030</marc:subfield>
+            <marc:subfield code="2">doi</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">AGL</marc:subfield>
+            <marc:subfield code="b">eng</marc:subfield>
+            <marc:subfield code="c">AGL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Khoshnevisan, Benyamin</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Applying data envelopment analysis approach to improve energy efficiency and reduce GHG (greenhouse gas) emission of wheat production</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">p. 588-593.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">In this study, DEA (data envelopment analysis) was applied to analyze the energy efficiency of wheat farms in order to separate efficient and inefficient growers and to calculate the wasteful uses of energy. Additionally, the degrees of TE (technical efficiency), PTE (pure technical efficiency) and SE (scale efficiency) were determined. Furthermore, the effect of energy optimization on GHG (greenhouse gas) emission was investigated and the total amount of GHG emission of efficient farms was compared with inefficient ones. Based on the results it was revealed that 18% of producers were technically efficient and the average of TE was calculated as 0.82. Based on the BCC (Banker–Charnes–Cooper) model 154 growers (59%) were identified efficient and the mean PTE of these farmers was found to be 0.99. Also, it was concluded that 2075.8 MJ ha⁻¹ of energy inputs can be saved if the performance of inefficient farms rises to a high level. Additionally, it was observed that the total GHG emission from efficient and inefficient producers was 2713.3 and 2740.8 kg CO₂ₑq. ha⁻¹, respectively. By energy optimization the total GHG emission can be reduced to the value of 2684.29 kg CO₂ₑq. ha⁻¹.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="592" ind1=" " ind2=" ">
+            <marc:subfield code="a">Publisher supplied data</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">crop production</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">energy efficiency</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">farms</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">greenhouse gas emissions</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">greenhouse gases</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">growers</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">wheat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Rafiee, Shahin</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Omid, Mahmoud</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Mousazadeh, Hossein</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2=" ">
+            <marc:subfield code="t">Energy.</marc:subfield>
+            <marc:subfield code="g">2013 Sept. 1, v. 58 p.588-593</marc:subfield>
+            <marc:subfield code="d">Elsevier Ltd</marc:subfield>
+            <marc:subfield code="x">0360-5442</marc:subfield>
+            <marc:subfield code="7">nnas</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="u">http://dx.doi.org/10.1016/j.energy.2013.06.030</marc:subfield>
+            <marc:subfield code="3">Available from publisher's site</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1=" " ind2=" ">
+            <marc:subfield code="a">DNAL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">article</marc:subfield>
+        </marc:datafield>
+    </marc:record><marc:record>
+        <marc:leader>03244naa a2200421 u 4500</marc:leader>
+        <marc:controlfield tag="001">IND607707276</marc:controlfield>
+        <marc:controlfield tag="005">20221120155802.0</marc:controlfield>
+        <marc:controlfield tag="008">220921e20220710xx |||||o|||||||||||eng||</marc:controlfield>
+        <marc:datafield tag="016" ind1="7" ind2=" ">
+            <marc:subfield code="a">IND607707276</marc:subfield>
+            <marc:subfield code="2">DNAL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="024" ind1="7" ind2=" ">
+            <marc:subfield code="a">10.1016/j.scitotenv.2022.154626</marc:subfield>
+            <marc:subfield code="2">doi</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">AGL</marc:subfield>
+            <marc:subfield code="b">eng</marc:subfield>
+            <marc:subfield code="c">AGL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Zhang, Futao</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Responses of soil mineral-associated and particulate organic carbon to carbon input: A meta-analysis</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">A minor change of soil organic carbon (SOC) greatly influences atmospheric carbon dioxide concentration and climate change. Exogenous carbon (C) input into soils can induce SOC decomposition or sequestration. The response of SOC to C input can be better understood when SOC is separated into mineral-associated (MAOC) and particulate (POC) organic carbon. The objective of this study is to explore whether exogenous C input promote MAOC and POC increase or decrease and the controlling factors. We gained 1181 observations from 17 studies for this meta-analysis. The effect sizes of exogenous C input on MAOC and POC content, and MAOC decomposition were calculated. The key factors influencing the effect sizes were explored through subgroup analysis. Potential publication bias was explored by using funnel plots, trim and fill method, and Egger's test. Exogenous C input significantly increased MAOC and POC content, although promoted MAOC decomposition. The effect sizes were larger for MAOC content than for POC content irrespective of soil and substrate properties and experiment methods. The effects of C input on MAOC and POC content were more pronounced in forest soils, and depended on the C and nitrogen (N) content in soil and substrates as well as experiment methods. The effect size of C input on MAOC decomposition were larger with substrate input of below 200 g C kg⁻¹ in specific soils. The sensitivity analysis carried out by removing one observation indicated our results were robust. In conclusion, exogenous C input increases MAOC and POC content although stimulate MAOC decomposition, and the effect sizes were influenced mainly by ecosystem type, carbon and nitrogen content of substrates and soils, and fractionation methods. The findings indicate the importance of C and N content in substrates and soils in controlling the response of SOC rather than the ratio of C to N.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="592" ind1=" " ind2=" ">
+            <marc:subfield code="a">Publisher supplied data</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">carbon dioxide</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">climate change</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">ecosystems</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">environment</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">forests</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">fractionation</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">meta-analysis</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">nitrogen content</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">particulate organic carbon</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">soil organic carbon</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="653" ind1=" " ind2="0">
+            <marc:subfield code="a">Mineral-associated organic carbon</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="653" ind1=" " ind2="0">
+            <marc:subfield code="a">Particulate organic carbon</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="653" ind1=" " ind2="0">
+            <marc:subfield code="a">Organic substrate input</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="653" ind1=" " ind2="0">
+            <marc:subfield code="a">Carbon cycling</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="653" ind1=" " ind2="0">
+            <marc:subfield code="a">Priming effect</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Chen, Xi</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Yao, Shuihong</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Ye, Yang</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Zhang, Bin</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2=" ">
+            <marc:subfield code="t">Science of the total environment.</marc:subfield>
+            <marc:subfield code="g">2022 July 10, v. 829 p.154626-</marc:subfield>
+            <marc:subfield code="d">Elsevier B.V.</marc:subfield>
+            <marc:subfield code="w">Journal:jnl4455</marc:subfield>
+            <marc:subfield code="x">0048-9697</marc:subfield>
+            <marc:subfield code="7">nnas</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="u">https://dx.doi.org/10.1016/j.scitotenv.2022.154626</marc:subfield>
+            <marc:subfield code="3">Available from publisher's site</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1=" " ind2=" ">
+            <marc:subfield code="a">DNAL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">article</marc:subfield>
+        </marc:datafield>
+    </marc:record><marc:record>
+        <marc:leader>02275naa a2200325 u 4500</marc:leader>
+        <marc:controlfield tag="001">IND600965525</marc:controlfield>
+        <marc:controlfield tag="005">20221117160555.0</marc:controlfield>
+        <marc:controlfield tag="008">141104e20130901xx |||||o|||||||||||eng||</marc:controlfield>
+        <marc:datafield tag="016" ind1="7" ind2=" ">
+            <marc:subfield code="a">IND600965525</marc:subfield>
+            <marc:subfield code="2">DNAL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="024" ind1="7" ind2=" ">
+            <marc:subfield code="a">10.1016/j.energy.2013.06.030</marc:subfield>
+            <marc:subfield code="2">doi</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">AGL</marc:subfield>
+            <marc:subfield code="b">eng</marc:subfield>
+            <marc:subfield code="c">AGL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Khoshnevisan, Benyamin</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Applying data envelopment analysis approach to improve energy efficiency and reduce GHG (greenhouse gas) emission of wheat production</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">p. 588-593.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">In this study, DEA (data envelopment analysis) was applied to analyze the energy efficiency of wheat farms in order to separate efficient and inefficient growers and to calculate the wasteful uses of energy. Additionally, the degrees of TE (technical efficiency), PTE (pure technical efficiency) and SE (scale efficiency) were determined. Furthermore, the effect of energy optimization on GHG (greenhouse gas) emission was investigated and the total amount of GHG emission of efficient farms was compared with inefficient ones. Based on the results it was revealed that 18% of producers were technically efficient and the average of TE was calculated as 0.82. Based on the BCC (Banker–Charnes–Cooper) model 154 growers (59%) were identified efficient and the mean PTE of these farmers was found to be 0.99. Also, it was concluded that 2075.8 MJ ha⁻¹ of energy inputs can be saved if the performance of inefficient farms rises to a high level. Additionally, it was observed that the total GHG emission from efficient and inefficient producers was 2713.3 and 2740.8 kg CO₂ₑq. ha⁻¹, respectively. By energy optimization the total GHG emission can be reduced to the value of 2684.29 kg CO₂ₑq. ha⁻¹.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="592" ind1=" " ind2=" ">
+            <marc:subfield code="a">Publisher supplied data</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">crop production</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">energy efficiency</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">farms</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">greenhouse gas emissions</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">greenhouse gases</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">growers</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">wheat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Rafiee, Shahin</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Omid, Mahmoud</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Mousazadeh, Hossein</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2=" ">
+            <marc:subfield code="t">Energy.</marc:subfield>
+            <marc:subfield code="g">2013 Sept. 1, v. 58 p.588-593</marc:subfield>
+            <marc:subfield code="d">Elsevier Ltd</marc:subfield>
+            <marc:subfield code="x">0360-5442</marc:subfield>
+            <marc:subfield code="7">nnas</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="u">http://dx.doi.org/10.1016/j.energy.2013.06.030</marc:subfield>
+            <marc:subfield code="3">Available from publisher's site</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1=" " ind2=" ">
+            <marc:subfield code="a">DNAL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">article</marc:subfield>
+        </marc:datafield>
+    </marc:record><marc:record>
+        <marc:leader>03244naa a2200421 u 4500</marc:leader>
+        <marc:controlfield tag="001">IND607707276</marc:controlfield>
+        <marc:controlfield tag="005">20221120155802.0</marc:controlfield>
+        <marc:controlfield tag="008">220921e20220710xx |||||o|||||||||||eng||</marc:controlfield>
+        <marc:datafield tag="016" ind1="7" ind2=" ">
+            <marc:subfield code="a">IND607707276</marc:subfield>
+            <marc:subfield code="2">DNAL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="024" ind1="7" ind2=" ">
+            <marc:subfield code="a">10.1016/j.scitotenv.2022.154626</marc:subfield>
+            <marc:subfield code="2">doi</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">AGL</marc:subfield>
+            <marc:subfield code="b">eng</marc:subfield>
+            <marc:subfield code="c">AGL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Zhang, Futao</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Responses of soil mineral-associated and particulate organic carbon to carbon input: A meta-analysis</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">A minor change of soil organic carbon (SOC) greatly influences atmospheric carbon dioxide concentration and climate change. Exogenous carbon (C) input into soils can induce SOC decomposition or sequestration. The response of SOC to C input can be better understood when SOC is separated into mineral-associated (MAOC) and particulate (POC) organic carbon. The objective of this study is to explore whether exogenous C input promote MAOC and POC increase or decrease and the controlling factors. We gained 1181 observations from 17 studies for this meta-analysis. The effect sizes of exogenous C input on MAOC and POC content, and MAOC decomposition were calculated. The key factors influencing the effect sizes were explored through subgroup analysis. Potential publication bias was explored by using funnel plots, trim and fill method, and Egger's test. Exogenous C input significantly increased MAOC and POC content, although promoted MAOC decomposition. The effect sizes were larger for MAOC content than for POC content irrespective of soil and substrate properties and experiment methods. The effects of C input on MAOC and POC content were more pronounced in forest soils, and depended on the C and nitrogen (N) content in soil and substrates as well as experiment methods. The effect size of C input on MAOC decomposition were larger with substrate input of below 200 g C kg⁻¹ in specific soils. The sensitivity analysis carried out by removing one observation indicated our results were robust. In conclusion, exogenous C input increases MAOC and POC content although stimulate MAOC decomposition, and the effect sizes were influenced mainly by ecosystem type, carbon and nitrogen content of substrates and soils, and fractionation methods. The findings indicate the importance of C and N content in substrates and soils in controlling the response of SOC rather than the ratio of C to N.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="592" ind1=" " ind2=" ">
+            <marc:subfield code="a">Publisher supplied data</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">carbon dioxide</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">climate change</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">ecosystems</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">environment</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">forests</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">fractionation</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">meta-analysis</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">nitrogen content</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">particulate organic carbon</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="3">
+            <marc:subfield code="a">soil organic carbon</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="653" ind1=" " ind2="0">
+            <marc:subfield code="a">Mineral-associated organic carbon</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="653" ind1=" " ind2="0">
+            <marc:subfield code="a">Particulate organic carbon</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="653" ind1=" " ind2="0">
+            <marc:subfield code="a">Organic substrate input</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="653" ind1=" " ind2="0">
+            <marc:subfield code="a">Carbon cycling</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="653" ind1=" " ind2="0">
+            <marc:subfield code="a">Priming effect</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Chen, Xi</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Yao, Shuihong</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Ye, Yang</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Zhang, Bin</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2=" ">
+            <marc:subfield code="t">Science of the total environment.</marc:subfield>
+            <marc:subfield code="g">2022 July 10, v. 829 p.154626-</marc:subfield>
+            <marc:subfield code="d">Elsevier B.V.</marc:subfield>
+            <marc:subfield code="w">Journal:jnl4455</marc:subfield>
+            <marc:subfield code="x">0048-9697</marc:subfield>
+            <marc:subfield code="7">nnas</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="0">
+            <marc:subfield code="u">https://dx.doi.org/10.1016/j.scitotenv.2022.154626</marc:subfield>
+            <marc:subfield code="3">Available from publisher's site</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1=" " ind2=" ">
+            <marc:subfield code="a">DNAL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">article</marc:subfield>
+        </marc:datafield>
+    </marc:record></marc:collection>

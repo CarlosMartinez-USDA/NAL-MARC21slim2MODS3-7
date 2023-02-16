@@ -283,12 +283,11 @@
     <xd:param name="prefix"/>
     </xd:doc>
     <!--f:add-namespace-prefix-->
-    <xsl:function name="f:add-namespace" as="element()?"
+    <xsl:function name="f:add-namespace" as="element()*"
         xmlns:f="http://functions">
         <xsl:param name="elements" as="element()*"/>
         <xsl:param name="namespace" as="xs:string"/>
         <xsl:param name="prefix" as="xs:string"/>
-        
         <xsl:for-each select="$elements">
             <xsl:variable name="element" select="."/>
             <xsl:choose>

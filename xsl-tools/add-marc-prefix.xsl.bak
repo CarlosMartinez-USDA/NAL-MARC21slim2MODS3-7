@@ -18,7 +18,7 @@
             indent="yes" format="unprefixed"
             href="{replace(saxon:system-id(), '(.*/)(.*)(\.xml|\.json)', '$1')}P-{replace(saxon:system-id(), '(.*/)(.*)(\.xml|\.json)', '$2')}_{position()}.xml">
             <marc:collection>
-                <xsl:for-each select="//collection/record">
+                <xsl:for-each select="//record">
                     <xsl:copy-of
                         select="f:add-namespace($in-xml, 'http://www.loc.gov/MARC21/slim', 'marc')"
                     />
