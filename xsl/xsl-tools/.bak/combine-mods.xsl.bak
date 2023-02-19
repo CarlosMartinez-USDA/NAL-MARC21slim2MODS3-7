@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    exclude-result-prefixes="mods xs xsi" version="2.0">
+    <xsl:output name="combined" method="xml" version="1.0" encoding="UTF-8" indent="yes"/>
+    <xsl:template match="/">
+        <xsl:param name="workingDir"/>
+        <xsl:variable name="filename" select="string(concat($workingDir,'IND_Annual23_mods_1_10_',[position()-1],'.xml'))"/>
+        <xsl:result-document method="xml" version="1.0" encoding="UTF-8" indent="yes" format="combined" href="{$filename}"> 
+            <modsCollection>
+            <xsl:namespace name="xsi">http://www.w3.org/2001/XMLSchema</xsl:namespace>
+            <xsl:attribute name="xsi:schemaLocation">http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsl</xsl:attribute>
+                <xsl:copy-of select="document(//collection/doc/@href)//mods:modsCollection/mods:mods"/>
+            </modsCollection>
+        </xsl:result-document>
+    </xsl:template>
+</xsl:stylesheet>

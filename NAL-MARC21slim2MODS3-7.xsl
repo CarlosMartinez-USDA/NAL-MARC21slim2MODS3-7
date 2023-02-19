@@ -289,10 +289,8 @@
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:result-document>
-
-
-
     </xsl:template>
+    
     <xd:doc id="marcRecord" scope="component">
         <xd:desc>Transforms MARC to MODS</xd:desc>
     </xd:doc>
@@ -395,7 +393,7 @@
                     <!-- 1.120 - @245/@880$ind2-->
                     <xsl:when test="@ind2 != ' ' and @ind2 &gt; 0">
                         <!-- 1.112 -->
-                        <nonSort xml:space="preserve"> 
+                        <nonSort xml:space="preserve">  
                             <xsl:value-of select="substring($titleChop, 1, @ind2)"/>
                         </nonSort>
                         <title>
@@ -5191,7 +5189,7 @@
                     <xsl:otherwise>
                         <xsl:call-template name="subfieldSelect">
                             <xsl:with-param name="codes">abfgks</xsl:with-param>
-                        </xsl:call-template>
+                     </xsl:call-template>
                     </xsl:otherwise>
                 </xsl:choose>
             </xsl:variable>
@@ -5206,9 +5204,10 @@
                 <!-- 1.120 - @245/@880$ind2-->
                 <xsl:when test="@ind2 != ' ' and @ind2 &gt; 0">
                     <!-- 1.112 -->
-                    <nonSort xml:space="preserve"><xsl:value-of select="substring($titleChop, 1, @ind2)"/> </nonSort>
+                    <nonSort xml:space="preserve">
+                        <xsl:value-of select="substring($titleChop, 1, @ind2)"/>
+                    </nonSort>
                     <xsl:variable name="this">
-
                         <xsl:value-of select="substring($titleChop, @ind2 + 1)"/>
                     </xsl:variable>
                     <title>
@@ -5217,7 +5216,6 @@
                 </xsl:when>
                 <xsl:otherwise>
                     <xsl:variable name="this">
-
                         <xsl:value-of select="$titleChop"/>
                     </xsl:variable>
                     <title>

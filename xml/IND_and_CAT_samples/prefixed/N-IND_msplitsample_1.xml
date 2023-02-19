@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns:mods="http://www.loc.gov/mods/v3"
-                xmlns="http://www.loc.gov/mods/v3"
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<modsCollection xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
    <mods version="3.7">
       <titleInfo>
          <title>Mitotic stopwatch for the blast fungus Magnaporthe oryzae during invasion of rice cells</title>
@@ -96,7 +95,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.fgb.2016.06.002</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.fgb.2016.06.002</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -128,7 +128,7 @@
          <recordCreationDate encoding="marc">180904</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221207083205.0</recordChangeDate>
          <recordIdentifier>IND605247648</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -240,7 +240,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1007/s00253-018-9328-3</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1007/s00253-018-9328-3</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -276,7 +277,7 @@
          <recordCreationDate encoding="marc">181029</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221207071631.0</recordChangeDate>
          <recordIdentifier>IND606178305</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -390,7 +391,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.2134/jeq1987.00472425001600020006x</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.2134/jeq1987.00472425001600020006x</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -424,7 +426,7 @@
          <recordCreationDate encoding="marc">191028</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221121222217.0</recordChangeDate>
          <recordIdentifier>IND606658906</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -555,7 +557,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1007/s12010-014-0874-6</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1007/s12010-014-0874-6</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -589,7 +592,7 @@
          <recordCreationDate encoding="marc">150223</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221123035744.0</recordChangeDate>
          <recordIdentifier>IND500899739</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -696,7 +699,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1021%2Facs.analchem.5b01736</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1021%2Facs.analchem.5b01736</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -730,7 +734,7 @@
          <recordCreationDate encoding="marc">160720</recordCreationDate>
          <recordChangeDate encoding="iso8601">20170413000000.0</recordChangeDate>
          <recordIdentifier>IND605300053</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -803,7 +807,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1271/bbb.61.900</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1271/bbb.61.900</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -838,7 +843,7 @@
          <recordCreationDate encoding="marc">200502</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221120221229.0</recordChangeDate>
          <recordIdentifier>IND606917384</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1023,7 +1028,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.foodchem.2013.07.067</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.foodchem.2013.07.067</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -1055,7 +1061,7 @@
          <recordCreationDate encoding="marc">190402</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119024812.0</recordChangeDate>
          <recordIdentifier>IND500693366</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1156,7 +1162,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1016/j.abb.2018.02.001</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1016/j.abb.2018.02.001</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -1189,7 +1196,7 @@
          <recordCreationDate encoding="marc">180314</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221207081224.0</recordChangeDate>
          <recordIdentifier>IND605906286</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1283,7 +1290,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.biortech.2017.09.127</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.biortech.2017.09.127</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -1313,7 +1321,7 @@
          <recordCreationDate encoding="marc">200717</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118003214.0</recordChangeDate>
          <recordIdentifier>IND605825741</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1447,7 +1455,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.foodchem.2013.07.080</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.foodchem.2013.07.080</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -1479,7 +1488,7 @@
          <recordCreationDate encoding="marc">190402</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119025216.0</recordChangeDate>
          <recordIdentifier>IND500693368</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1553,7 +1562,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.3390/agronomy11030554</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.3390/agronomy11030554</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -1583,7 +1593,7 @@
          <recordCreationDate encoding="marc">210326</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221122230336.0</recordChangeDate>
          <recordIdentifier>IND607319609</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1694,7 +1704,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.biortech.2017.04.036</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.biortech.2017.04.036</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -1724,7 +1735,7 @@
          <recordCreationDate encoding="marc">190409</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221120025608.0</recordChangeDate>
          <recordIdentifier>IND605672781</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -1810,7 +1821,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1021%2Facs.analchem.5b01814</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1021%2Facs.analchem.5b01814</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -1844,7 +1856,7 @@
          <recordCreationDate encoding="marc">160720</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118071535.0</recordChangeDate>
          <recordIdentifier>IND605300059</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2011,8 +2023,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's Web site"
-              usage="primary display">http://dx.doi.org/10.1603/022.038.0118</url>
+         <url displayLabel="Available from publisher's Web site" usage="primary display"
+            >http://dx.doi.org/10.1603/022.038.0118</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -2051,7 +2063,7 @@
          <recordCreationDate encoding="marc">090414</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221120204627.0</recordChangeDate>
          <recordIdentifier>IND44191453</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2175,7 +2187,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.cropro.2019.01.017</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.cropro.2019.01.017</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -2205,7 +2218,7 @@
          <recordCreationDate encoding="marc">200106</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118034826.0</recordChangeDate>
          <recordIdentifier>IND606295317</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2264,7 +2277,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1007/s00704-022-04039-y</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1007/s00704-022-04039-y</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -2298,7 +2312,7 @@
          <recordCreationDate encoding="marc">220726</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118095131.0</recordChangeDate>
          <recordIdentifier>IND607809634</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2410,7 +2424,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.scitotenv.2017.09.235</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.scitotenv.2017.09.235</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -2441,7 +2456,7 @@
          <recordCreationDate encoding="marc">190206</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119142544.0</recordChangeDate>
          <recordIdentifier>IND605837577</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2525,7 +2540,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1017/jan.2013.11</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1017/jan.2013.11</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -2549,7 +2565,7 @@
          <recordCreationDate encoding="marc">160327</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221120134800.0</recordChangeDate>
          <recordIdentifier>IND605167261</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2671,7 +2687,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1258/002367795780739999</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1258/002367795780739999</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -2708,7 +2725,7 @@
          <recordCreationDate encoding="marc">181203</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221120174820.0</recordChangeDate>
          <recordIdentifier>IND20570502</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2810,7 +2827,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1007/s11356-016-7222-z</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1007/s11356-016-7222-z</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -2845,7 +2863,7 @@
          <recordCreationDate encoding="marc">170608</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221207104958.0</recordChangeDate>
          <recordIdentifier>IND605695906</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -2979,7 +2997,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1007/s11270-019-4222-x</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1007/s11270-019-4222-x</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -3013,7 +3032,7 @@
          <recordCreationDate encoding="marc">190919</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118012928.0</recordChangeDate>
          <recordIdentifier>IND606540510</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3096,7 +3115,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1039/c3cc43321h</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1039/c3cc43321h</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -3131,7 +3151,7 @@
          <recordCreationDate encoding="marc">190823</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221120033016.0</recordChangeDate>
          <recordIdentifier>IND606598970</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3307,7 +3327,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.scitotenv.2020.143352</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.scitotenv.2020.143352</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -3336,7 +3357,7 @@
          <recordCreationDate encoding="marc">210201</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221121021906.0</recordChangeDate>
          <recordIdentifier>IND607172958</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3426,7 +3447,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.3390/agronomy11030560</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.3390/agronomy11030560</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -3456,7 +3478,7 @@
          <recordCreationDate encoding="marc">210326</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221121064959.0</recordChangeDate>
          <recordIdentifier>IND607319617</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3605,7 +3627,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.peptides.2021.170673</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.peptides.2021.170673</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -3633,7 +3656,7 @@
          <recordCreationDate encoding="marc">211129</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221122152012.0</recordChangeDate>
          <recordIdentifier>IND607530077</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3735,7 +3758,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.3390/agronomy11030561</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.3390/agronomy11030561</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -3765,7 +3789,7 @@
          <recordCreationDate encoding="marc">210326</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221121225351.0</recordChangeDate>
          <recordIdentifier>IND607319618</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -3865,7 +3889,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.biortech.2017.04.049</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.biortech.2017.04.049</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -3895,7 +3920,7 @@
          <recordCreationDate encoding="marc">190409</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118024650.0</recordChangeDate>
          <recordIdentifier>IND605672790</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4002,7 +4027,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.jconrel.2021.08.017</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.jconrel.2021.08.017</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -4033,7 +4059,7 @@
          <recordCreationDate encoding="marc">211123</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221117183855.0</recordChangeDate>
          <recordIdentifier>IND607479649</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4133,7 +4159,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.cropro.2019.01.025</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.cropro.2019.01.025</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -4163,7 +4190,7 @@
          <recordCreationDate encoding="marc">200106</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118034904.0</recordChangeDate>
          <recordIdentifier>IND606295324</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4269,7 +4296,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1007/s11356-019-05203-0</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1007/s11356-019-05203-0</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -4303,7 +4331,7 @@
          <recordCreationDate encoding="marc">190722</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118012922.0</recordChangeDate>
          <recordIdentifier>IND606540516</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4427,8 +4455,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's Web site"
-              usage="primary display">http://dx.doi.org/10.1603/022.038.0119</url>
+         <url displayLabel="Available from publisher's Web site" usage="primary display"
+            >http://dx.doi.org/10.1603/022.038.0119</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -4467,7 +4495,7 @@
          <recordCreationDate encoding="marc">090414</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221120204637.0</recordChangeDate>
          <recordIdentifier>IND44191454</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4538,7 +4566,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1007/s11746-007-1078-9</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1007/s11746-007-1078-9</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -4571,7 +4600,7 @@
          <recordCreationDate encoding="marc">151024</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221120152401.0</recordChangeDate>
          <recordIdentifier>IND43934967</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4654,7 +4683,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.ymeth.2016.02.005</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.ymeth.2016.02.005</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -4685,7 +4715,7 @@
          <recordCreationDate encoding="marc">180904</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118005504.0</recordChangeDate>
          <recordIdentifier>IND605538498</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4782,7 +4812,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.compag.2018.12.020</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.compag.2018.12.020</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -4812,7 +4843,7 @@
          <recordCreationDate encoding="marc">190318</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119031450.0</recordChangeDate>
          <recordIdentifier>IND606259285</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -4911,7 +4942,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.ymeth.2016.02.006</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.ymeth.2016.02.006</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -4944,7 +4976,7 @@
          <recordCreationDate encoding="marc">180904</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221207102333.0</recordChangeDate>
          <recordIdentifier>IND605538499</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5016,7 +5048,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.2134/jeq1991.00472425002000010012x</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.2134/jeq1991.00472425002000010012x</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -5050,7 +5083,7 @@
          <recordCreationDate encoding="marc">191028</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119141345.0</recordChangeDate>
          <recordIdentifier>IND606658873</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5160,7 +5193,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1186/s12870-020-02613-y</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1186/s12870-020-02613-y</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -5194,7 +5228,7 @@
          <recordCreationDate encoding="marc">210921</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119034206.0</recordChangeDate>
          <recordIdentifier>IND607096212</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5275,7 +5309,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1007/s11418-021-01546-6</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1007/s11418-021-01546-6</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -5309,7 +5344,7 @@
          <recordCreationDate encoding="marc">220106</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221120041559.0</recordChangeDate>
          <recordIdentifier>IND607620293</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5506,7 +5541,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1016/j.nut.2012.01.016</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1016/j.nut.2012.01.016</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -5540,7 +5576,7 @@
          <recordCreationDate encoding="marc">141112</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221120205518.0</recordChangeDate>
          <recordIdentifier>IND44709105</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5611,7 +5647,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1007/s00114-014-1212-0</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1007/s00114-014-1212-0</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -5645,7 +5682,7 @@
          <recordCreationDate encoding="marc">150217</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221120112829.0</recordChangeDate>
          <recordIdentifier>IND600812010</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5712,7 +5749,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1039/c4ra01002g</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1039/c4ra01002g</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -5747,7 +5785,7 @@
          <recordCreationDate encoding="marc">190912</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119033553.0</recordChangeDate>
          <recordIdentifier>IND606649164</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5834,7 +5872,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1007/s11418-021-01556-4</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1007/s11418-021-01556-4</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -5868,7 +5907,7 @@
          <recordCreationDate encoding="marc">220106</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221120041547.0</recordChangeDate>
          <recordIdentifier>IND607620294</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -5924,7 +5963,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.3372/wi.45.45207</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.3372/wi.45.45207</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -5958,7 +5998,7 @@
          <recordCreationDate encoding="marc">151127</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221121144729.0</recordChangeDate>
          <recordIdentifier>IND604666735</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -6034,7 +6074,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.ymeth.2016.02.007</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.ymeth.2016.02.007</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -6067,7 +6108,7 @@
          <recordCreationDate encoding="marc">180904</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221207102425.0</recordChangeDate>
          <recordIdentifier>IND605538500</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -6168,7 +6209,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1039/c4ra01004c</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1039/c4ra01004c</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -6203,7 +6245,7 @@
          <recordCreationDate encoding="marc">190912</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119033527.0</recordChangeDate>
          <recordIdentifier>IND606649166</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -6324,7 +6366,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.compag.2018.12.011</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.compag.2018.12.011</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -6354,7 +6397,7 @@
          <recordCreationDate encoding="marc">190318</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119031452.0</recordChangeDate>
          <recordIdentifier>IND606259289</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -6471,7 +6514,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1603%2FEC12042</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1603%2FEC12042</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -6505,7 +6549,7 @@
          <recordCreationDate encoding="marc">151107</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118091212.0</recordChangeDate>
          <recordIdentifier>IND601265313</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -6589,7 +6633,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1007/s11284-013-1114-1</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1007/s11284-013-1114-1</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -6622,7 +6667,7 @@
          <recordCreationDate encoding="marc">150213</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221121063250.0</recordChangeDate>
          <recordIdentifier>IND500740654</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -6689,7 +6734,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1021/acs.macromol.9b01103</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1021/acs.macromol.9b01103</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -6724,7 +6770,7 @@
          <recordCreationDate encoding="marc">190910</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221123044326.0</recordChangeDate>
          <recordIdentifier>IND606643681</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -6841,7 +6887,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.3390/w11061164</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.3390/w11061164</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -6871,7 +6918,7 @@
          <recordCreationDate encoding="marc">190714</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221116163351.0</recordChangeDate>
          <recordIdentifier>IND606535933</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -7031,7 +7078,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1186/s12970-020-00376-3</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1186/s12970-020-00376-3</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -7065,7 +7113,7 @@
          <recordCreationDate encoding="marc">210731</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119034410.0</recordChangeDate>
          <recordIdentifier>IND607096218</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -7234,7 +7282,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.gene.2016.06.039</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.gene.2016.06.039</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -7269,7 +7318,7 @@
          <recordCreationDate encoding="marc">180830</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221120112458.0</recordChangeDate>
          <recordIdentifier>IND605247625</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -7355,7 +7404,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1603%2FEC12057</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1603%2FEC12057</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -7389,7 +7439,7 @@
          <recordCreationDate encoding="marc">151107</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118093911.0</recordChangeDate>
          <recordIdentifier>IND601265316</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -7480,7 +7530,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1016/j.desal.2013.01.028</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1016/j.desal.2013.01.028</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -7510,7 +7561,7 @@
          <recordCreationDate encoding="marc">141104</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119183600.0</recordChangeDate>
          <recordIdentifier>IND600946612</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -7577,7 +7628,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1039/c4ra01014k</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1039/c4ra01014k</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -7612,7 +7664,7 @@
          <recordCreationDate encoding="marc">190912</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221117194551.0</recordChangeDate>
          <recordIdentifier>IND606649171</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -7775,7 +7827,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1186/s13059-020-02081-5</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1186/s13059-020-02081-5</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -7809,7 +7862,7 @@
          <recordCreationDate encoding="marc">220805</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119034326.0</recordChangeDate>
          <recordIdentifier>IND607096222</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -7890,7 +7943,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1016/j.desal.2013.01.023</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1016/j.desal.2013.01.023</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -7920,7 +7974,7 @@
          <recordCreationDate encoding="marc">141104</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119183601.0</recordChangeDate>
          <recordIdentifier>IND600946614</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -7998,7 +8052,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1080/00275514.2001.12063163</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1080/00275514.2001.12063163</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -8033,7 +8088,7 @@
          <recordCreationDate encoding="marc">200516</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119042257.0</recordChangeDate>
          <recordIdentifier>IND606951557</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -8121,7 +8176,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1021/acs.macromol.9b01168</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1021/acs.macromol.9b01168</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -8156,7 +8212,7 @@
          <recordCreationDate encoding="marc">190910</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221123022533.0</recordChangeDate>
          <recordIdentifier>IND606643685</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -8310,7 +8366,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.apsoil.2016.08.003</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.apsoil.2016.08.003</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -8340,7 +8397,7 @@
          <recordCreationDate encoding="marc">190408</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221116153856.0</recordChangeDate>
          <recordIdentifier>IND605598545</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -8454,7 +8511,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.enconman.2022.115882</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.enconman.2022.115882</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -8483,7 +8541,7 @@
          <recordCreationDate encoding="marc">220914</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221207061944.0</recordChangeDate>
          <recordIdentifier>IND607805235</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -8686,7 +8744,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.apsoil.2016.08.004</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.apsoil.2016.08.004</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -8716,7 +8775,7 @@
          <recordCreationDate encoding="marc">190408</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221116154123.0</recordChangeDate>
          <recordIdentifier>IND605598546</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -8811,7 +8870,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.2134/jeq2004.0101</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.2134/jeq2004.0101</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -8845,7 +8905,7 @@
          <recordCreationDate encoding="marc">191028</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119141023.0</recordChangeDate>
          <recordIdentifier>IND606658884</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -8922,7 +8982,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.ymeth.2016.03.001</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.ymeth.2016.03.001</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -8953,7 +9014,7 @@
          <recordCreationDate encoding="marc">180904</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118005915.0</recordChangeDate>
          <recordIdentifier>IND605538510</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -9062,7 +9123,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1007/s13595-021-01096-7</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1007/s13595-021-01096-7</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -9096,7 +9158,7 @@
          <recordCreationDate encoding="marc">220318</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221122151239.0</recordChangeDate>
          <recordIdentifier>IND607620309</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -9179,7 +9241,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1039/c4ra01029a</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1039/c4ra01029a</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -9214,7 +9277,7 @@
          <recordCreationDate encoding="marc">190912</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119033832.0</recordChangeDate>
          <recordIdentifier>IND606649179</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -9288,7 +9351,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1016/j.desal.2013.02.004</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1016/j.desal.2013.02.004</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -9318,7 +9382,7 @@
          <recordCreationDate encoding="marc">141104</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119182341.0</recordChangeDate>
          <recordIdentifier>IND600946620</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -9442,7 +9506,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.apsoil.2016.08.007</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.apsoil.2016.08.007</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -9472,7 +9537,7 @@
          <recordCreationDate encoding="marc">190408</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221116153947.0</recordChangeDate>
          <recordIdentifier>IND605598549</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -9538,7 +9603,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="electronic resource" usage="primary display">http://dx.doi.org/10.1007/s11284-013-1116-z</url>
+         <url displayLabel="electronic resource" usage="primary display"
+            >http://dx.doi.org/10.1007/s11284-013-1116-z</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -9571,7 +9637,7 @@
          <recordCreationDate encoding="marc">140425</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221121041725.0</recordChangeDate>
          <recordIdentifier>IND500740655</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -9680,7 +9746,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.agee.2017.05.017</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.agee.2017.05.017</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -9711,7 +9778,7 @@
          <recordCreationDate encoding="marc">190318</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221120043933.0</recordChangeDate>
          <recordIdentifier>IND605690846</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -9824,7 +9891,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.ymeth.2016.03.004</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.ymeth.2016.03.004</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -9857,7 +9925,7 @@
          <recordCreationDate encoding="marc">180904</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221207102422.0</recordChangeDate>
          <recordIdentifier>IND605538513</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -9978,7 +10046,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.pestbp.2017.09.014</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.pestbp.2017.09.014</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -10008,7 +10077,7 @@
          <recordCreationDate encoding="marc">200121</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119142224.0</recordChangeDate>
          <recordIdentifier>IND605837556</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -10103,7 +10172,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1007/s11356-016-7175-2</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1007/s11356-016-7175-2</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -10136,7 +10206,7 @@
          <recordCreationDate encoding="marc">170608</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119205851.0</recordChangeDate>
          <recordIdentifier>IND605695879</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -10246,7 +10316,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1007/s11356-016-7271-3</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1007/s11356-016-7271-3</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -10279,7 +10350,7 @@
          <recordCreationDate encoding="marc">170608</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119205743.0</recordChangeDate>
          <recordIdentifier>IND605695880</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -10378,7 +10449,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.pestbp.2017.10.001</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.pestbp.2017.10.001</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -10408,7 +10480,7 @@
          <recordCreationDate encoding="marc">190318</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119142333.0</recordChangeDate>
          <recordIdentifier>IND605837559</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -10512,7 +10584,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.3390/agronomy11030535</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.3390/agronomy11030535</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -10542,7 +10615,7 @@
          <recordCreationDate encoding="marc">210326</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221121072249.0</recordChangeDate>
          <recordIdentifier>IND607319591</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -10634,7 +10707,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1271/bbb.61.830</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1271/bbb.61.830</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -10669,7 +10743,7 @@
          <recordCreationDate encoding="marc">200502</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221123034820.0</recordChangeDate>
          <recordIdentifier>IND606917367</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -10815,7 +10889,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1258/002367795780740212</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1258/002367795780740212</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -10852,7 +10927,7 @@
          <recordCreationDate encoding="marc">181203</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221122034655.0</recordChangeDate>
          <recordIdentifier>IND20516428</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -10938,7 +11013,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1007/s00382-022-06184-6</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1007/s00382-022-06184-6</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -10972,7 +11048,7 @@
          <recordCreationDate encoding="marc">220730</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118094912.0</recordChangeDate>
          <recordIdentifier>IND607809608</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -11046,7 +11122,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1039/c3cc43278e</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1039/c3cc43278e</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -11081,7 +11158,7 @@
          <recordCreationDate encoding="marc">190823</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221121055132.0</recordChangeDate>
          <recordIdentifier>IND606598949</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -11214,7 +11291,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.cropro.2019.01.001</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.cropro.2019.01.001</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -11244,7 +11322,7 @@
          <recordCreationDate encoding="marc">200106</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118034824.0</recordChangeDate>
          <recordIdentifier>IND606295300</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -11373,7 +11451,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.ab.2018.02.010</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.ab.2018.02.010</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -11406,7 +11485,7 @@
          <recordCreationDate encoding="marc">190129</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221207090426.0</recordChangeDate>
          <recordIdentifier>IND605906273</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -11489,7 +11568,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.compag.2021.106367</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.compag.2021.106367</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -11517,7 +11597,7 @@
          <recordCreationDate encoding="marc">210916</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221121065702.0</recordChangeDate>
          <recordIdentifier>IND607479624</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -11572,7 +11652,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.carbon.2019.03.070</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.carbon.2019.03.070</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -11602,7 +11683,7 @@
          <recordCreationDate encoding="marc">190523</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221116140601.0</recordChangeDate>
          <recordIdentifier>IND606350209</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -11717,7 +11798,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.biortech.2017.09.112</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.biortech.2017.09.112</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -11747,7 +11829,7 @@
          <recordCreationDate encoding="marc">200717</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118003332.0</recordChangeDate>
          <recordIdentifier>IND605825728</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -11853,7 +11935,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.biortech.2017.09.114</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.biortech.2017.09.114</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -11883,7 +11966,7 @@
          <recordCreationDate encoding="marc">200717</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118003235.0</recordChangeDate>
          <recordIdentifier>IND605825729</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -11992,7 +12075,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1007/s11356-016-7182-3</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1007/s11356-016-7182-3</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -12025,7 +12109,7 @@
          <recordCreationDate encoding="marc">170608</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119205610.0</recordChangeDate>
          <recordIdentifier>IND605695887</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -12105,7 +12189,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.3390/agronomy11030541</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.3390/agronomy11030541</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -12135,7 +12220,7 @@
          <recordCreationDate encoding="marc">210326</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221121105235.0</recordChangeDate>
          <recordIdentifier>IND607319596</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -12220,7 +12305,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.scitotenv.2017.09.112</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.scitotenv.2017.09.112</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -12251,7 +12337,7 @@
          <recordCreationDate encoding="marc">181010</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119142427.0</recordChangeDate>
          <recordIdentifier>IND605837563</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -12331,7 +12417,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1021%2Facs.analchem.5b01606</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1021%2Facs.analchem.5b01606</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -12365,7 +12452,7 @@
          <recordCreationDate encoding="marc">160720</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118071208.0</recordChangeDate>
          <recordIdentifier>IND605300046</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -12471,7 +12558,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.3390/agronomy11030542</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.3390/agronomy11030542</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -12501,7 +12589,7 @@
          <recordCreationDate encoding="marc">210326</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221207132932.0</recordChangeDate>
          <recordIdentifier>IND607319597</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -12573,7 +12661,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.compag.2021.106377</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.compag.2021.106377</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -12601,7 +12690,7 @@
          <recordCreationDate encoding="marc">210916</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221121065540.0</recordChangeDate>
          <recordIdentifier>IND607479628</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -12755,7 +12844,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.cropro.2019.01.006</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.cropro.2019.01.006</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -12785,7 +12875,7 @@
          <recordCreationDate encoding="marc">200106</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221118034751.0</recordChangeDate>
          <recordIdentifier>IND606295306</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -12911,7 +13001,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1258/002367795780740276</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1258/002367795780740276</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -12948,7 +13039,7 @@
          <recordCreationDate encoding="marc">181203</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221120170057.0</recordChangeDate>
          <recordIdentifier>IND20516427</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -13102,7 +13193,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1016/j.nut.2011.12.014</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1016/j.nut.2011.12.014</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -13136,7 +13228,7 @@
          <recordCreationDate encoding="marc">141112</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221122193226.0</recordChangeDate>
          <recordIdentifier>IND44712290</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -13255,7 +13347,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.biortech.2017.04.028</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.biortech.2017.04.028</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -13285,7 +13378,7 @@
          <recordCreationDate encoding="marc">190409</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221117181213.0</recordChangeDate>
          <recordIdentifier>IND605672773</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -13396,7 +13489,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1271/bbb.61.890</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1271/bbb.61.890</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -13431,7 +13525,7 @@
          <recordCreationDate encoding="marc">200502</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221120221239.0</recordChangeDate>
          <recordIdentifier>IND606917380</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -13508,7 +13602,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1007/s11274-014-1682-4</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1007/s11274-014-1682-4</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -13542,7 +13637,7 @@
          <recordCreationDate encoding="marc">140904</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221116231615.0</recordChangeDate>
          <recordIdentifier>IND600813807</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -13640,7 +13735,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1007/s13205-019-1648-1</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1007/s13205-019-1648-1</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -13676,7 +13772,7 @@
          <recordCreationDate encoding="marc">190416</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221207145010.0</recordChangeDate>
          <recordIdentifier>IND606325942</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -13770,7 +13866,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1016/j.jplph.2021.153543</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1016/j.jplph.2021.153543</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -13798,7 +13895,7 @@
          <recordCreationDate encoding="marc">211123</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221121020238.0</recordChangeDate>
          <recordIdentifier>IND607537368</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -13941,7 +14038,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1080/14786419.2015.1107555</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1080/14786419.2015.1107555</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -13975,7 +14073,7 @@
          <recordCreationDate encoding="marc">160903</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119164134.0</recordChangeDate>
          <recordIdentifier>IND605476921</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -14067,7 +14165,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.2136/sssaj1990.03615995005400040015x</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.2136/sssaj1990.03615995005400040015x</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -14101,7 +14200,7 @@
          <recordCreationDate encoding="marc">191125</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221121062831.0</recordChangeDate>
          <recordIdentifier>IND606679687</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -14218,7 +14317,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.1007/s13205-019-1667-y</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.1007/s13205-019-1667-y</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -14254,7 +14354,7 @@
          <recordCreationDate encoding="marc">190416</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221207145020.0</recordChangeDate>
          <recordIdentifier>IND606325943</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -14319,7 +14419,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1016/j.cattod.2012.04.016</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1016/j.cattod.2012.04.016</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -14349,7 +14450,7 @@
          <recordCreationDate encoding="marc">141103</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221120174008.0</recordChangeDate>
          <recordIdentifier>IND600925500</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -14465,7 +14566,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.3390/antiox11020274</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.3390/antiox11020274</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -14495,7 +14597,7 @@
          <recordCreationDate encoding="marc">220225</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119105531.0</recordChangeDate>
          <recordIdentifier>IND607682603</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -14599,7 +14701,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.3390/md19070398</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.3390/md19070398</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -14629,7 +14732,7 @@
          <recordCreationDate encoding="marc">210723</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221120070049.0</recordChangeDate>
          <recordIdentifier>IND607454987</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -14717,7 +14820,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">https://dx.doi.org/10.2136/sssaj1982.03615995004600050026x</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >https://dx.doi.org/10.2136/sssaj1982.03615995004600050026x</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -14751,7 +14855,7 @@
          <recordCreationDate encoding="marc">191125</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221121062905.0</recordChangeDate>
          <recordIdentifier>IND606679688</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>
@@ -14854,7 +14958,8 @@
          <physicalLocation>DNAL</physicalLocation>
       </location>
       <location>
-         <url displayLabel="Available from publisher's site" usage="primary display">http://dx.doi.org/10.1016/j.ecoenv.2016.09.011</url>
+         <url displayLabel="Available from publisher's site" usage="primary display"
+            >http://dx.doi.org/10.1016/j.ecoenv.2016.09.011</url>
       </location>
       <relatedItem type="host">
          <titleInfo>
@@ -14883,7 +14988,7 @@
          <recordCreationDate encoding="marc">161115</recordCreationDate>
          <recordChangeDate encoding="iso8601">20221119154452.0</recordChangeDate>
          <recordIdentifier>IND605569422</recordIdentifier>
-         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 15:32:41</recordOrigin>
+         <recordOrigin>Converted from MARCXML to MODS version 3.7 using NAL-MARC21slim2MODS3-7-prefix.xsl (Revision 1.180 20230216 cm3), Transformed on: 2023-02-16 19:23:58</recordOrigin>
          <languageOfCataloging>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
          </languageOfCataloging>

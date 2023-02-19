@@ -2428,29 +2428,32 @@
                                                   />
                                                   </end>
                                                   <xsl:variable name="firstPage" as="xs:double"
-                                                  select="number(replace(regex-group(4), '(.*)(p.)(\d+)(\-)(\d+)', '$3'))"/>
+                                                      select="number(translate(replace(regex-group(4), '(.*)(p.)(\d+)(\-)(\d+)', '$3'),'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-|. ', ''))"/>
                                                   <xsl:variable name="lastPage" as="xs:double"
-                                                  select="number(replace(regex-group(4), '(.*)(p.)(\d+)(\-)(\d+)', '$5'))"/>
+                                                      select="number(translate(replace(regex-group(4), '(.*)(p.)(\d+)(\-)(\d+)', '$5'),'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-|. ', ''))"/>
                                                   <total>
-                                                  <xsl:value-of
-                                                  select="translate(f:calculateTotalPgs($firstPage, $lastPage), 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-|', '')"
-                                                  />
+                                                     <xsl:choose>                                                         
+                                                      <xsl:when test="not(f:calculateTotalPgs($firstPage, $lastPage) castable as xs:double)"/>
+                                                     <xsl:otherwise>
+                                                         <xsl:if test="$lastPage >= $firstPage">
+                                                         <xsl:number value="f:calculateTotalPgs($firstPage, $lastPage)"/>
+                                                         </xsl:if>
+                                                     </xsl:otherwise>
+                                                     </xsl:choose>
                                                   </total>
                                                   </extent>
                                                 </xsl:when>
                                                 <xsl:otherwise>
                                                   <!-- extent (page total) -->
-                                                  <xsl:if test="ends-with(regex-group(4), '-')">
+                                                    <xsl:if test="ends-with(regex-group(4), '-')">
                                                   <extent unit="pages">
                                                   <xsl:variable name="clean-regex-group-3"
-                                                  select="substring-before(substring-after(regex-group(4), 'p.'), '-')"/>
+                                                      select="number(translate(substring-before(substring-after(regex-group(4), 'p.'), '-'),'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-|. ', ''))"/>
                                                   <total>
-                                                  <xsl:value-of
-                                                  select="translate($clean-regex-group-3, 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-| ', '')"
-                                                  />
+                                                  <xsl:number value="$clean-regex-group-3"/>                                          
                                                   </total>
                                                   </extent>
-                                                  </xsl:if>
+                                                    </xsl:if>
                                                 </xsl:otherwise>
                                             </xsl:choose>
                                             <!-- 1.176 -->
