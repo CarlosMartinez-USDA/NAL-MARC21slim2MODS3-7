@@ -289,8 +289,10 @@
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:result-document>
+
+
+
     </xsl:template>
-    
     <xd:doc id="marcRecord" scope="component">
         <xd:desc>Transforms MARC to MODS</xd:desc>
     </xd:doc>
@@ -393,7 +395,7 @@
                     <!-- 1.120 - @245/@880$ind2-->
                     <xsl:when test="@ind2 != ' ' and @ind2 &gt; 0">
                         <!-- 1.112 -->
-                        <nonSort xml:space="preserve">  
+                        <nonSort xml:space="preserve"> 
                             <xsl:value-of select="substring($titleChop, 1, @ind2)"/>
                         </nonSort>
                         <title>
@@ -2426,29 +2428,32 @@
                                                   />
                                                   </end>
                                                   <xsl:variable name="firstPage" as="xs:double"
-                                                  select="number(replace(regex-group(4), '(.*)(p.)(\d+)(\-)(\d+)', '$3'))"/>
+                                                      select="number(translate(replace(regex-group(4), '(.*)(p.)(\d+)(\-)(\d+)', '$3'),'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-|. ', ''))"/>
                                                   <xsl:variable name="lastPage" as="xs:double"
-                                                  select="number(replace(regex-group(4), '(.*)(p.)(\d+)(\-)(\d+)', '$5'))"/>
+                                                      select="number(translate(replace(regex-group(4), '(.*)(p.)(\d+)(\-)(\d+)', '$5'),'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-|. ', ''))"/>
                                                   <total>
-                                                  <xsl:value-of
-                                                  select="translate(f:calculateTotalPgs($firstPage, $lastPage), 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-|', '')"
-                                                  />
+                                                     <xsl:choose>                                                         
+                                                      <xsl:when test="not(f:calculateTotalPgs($firstPage, $lastPage) castable as xs:double)"/>
+                                                     <xsl:otherwise>
+                                                         <xsl:if test="$lastPage >= $firstPage">
+                                                         <xsl:number value="f:calculateTotalPgs($firstPage, $lastPage)"/>
+                                                         </xsl:if>
+                                                     </xsl:otherwise>
+                                                     </xsl:choose>
                                                   </total>
                                                   </extent>
                                                 </xsl:when>
                                                 <xsl:otherwise>
                                                   <!-- extent (page total) -->
-                                                  <xsl:if test="ends-with(regex-group(4), '-')">
+                                                    <xsl:if test="ends-with(regex-group(4), '-')">
                                                   <extent unit="pages">
                                                   <xsl:variable name="clean-regex-group-3"
-                                                  select="substring-before(substring-after(regex-group(4), 'p.'), '-')"/>
+                                                      select="number(translate(substring-before(substring-after(regex-group(4), 'p.'), '-'),'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-|. ', ''))"/>
                                                   <total>
-                                                  <xsl:value-of
-                                                  select="translate($clean-regex-group-3, 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-| ', '')"
-                                                  />
+                                                  <xsl:number value="$clean-regex-group-3"/>                                          
                                                   </total>
                                                   </extent>
-                                                  </xsl:if>
+                                                    </xsl:if>
                                                 </xsl:otherwise>
                                             </xsl:choose>
                                             <!-- 1.176 -->
@@ -5189,7 +5194,7 @@
                     <xsl:otherwise>
                         <xsl:call-template name="subfieldSelect">
                             <xsl:with-param name="codes">abfgks</xsl:with-param>
-                     </xsl:call-template>
+                        </xsl:call-template>
                     </xsl:otherwise>
                 </xsl:choose>
             </xsl:variable>
@@ -5204,10 +5209,9 @@
                 <!-- 1.120 - @245/@880$ind2-->
                 <xsl:when test="@ind2 != ' ' and @ind2 &gt; 0">
                     <!-- 1.112 -->
-                    <nonSort xml:space="preserve">
-                        <xsl:value-of select="substring($titleChop, 1, @ind2)"/>
-                    </nonSort>
+                    <nonSort xml:space="preserve"><xsl:value-of select="substring($titleChop, 1, @ind2)"/> </nonSort>
                     <xsl:variable name="this">
+
                         <xsl:value-of select="substring($titleChop, @ind2 + 1)"/>
                     </xsl:variable>
                     <title>
@@ -5216,6 +5220,7 @@
                 </xsl:when>
                 <xsl:otherwise>
                     <xsl:variable name="this">
+
                         <xsl:value-of select="$titleChop"/>
                     </xsl:variable>
                     <title>

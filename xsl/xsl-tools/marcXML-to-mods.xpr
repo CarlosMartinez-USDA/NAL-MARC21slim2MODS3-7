@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <meta>
+        <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options>
+            <serialized xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>scenario.associations</String>
+                        <scenarioAssociation-array>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000009.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>na-marc21slim2mods transfrom</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000008.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>na-marc21slim2mods transfrom</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000007.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>na-marc21slim2mods transfrom</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000006.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>na-marc21slim2mods transfrom</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000005.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>na-marc21slim2mods transfrom</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000004.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>na-marc21slim2mods transfrom</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000003.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>na-marc21slim2mods transfrom</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000002.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>na-marc21slim2mods transfrom</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000001.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>na-marc21slim2mods transfrom</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000000.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>na-marc21slim2mods transfrom</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                        </scenarioAssociation-array>
+                    </entry>
+                    <entry>
+                        <String>scenarios</String>
+                        <scenario-array>
+                            <scenario>
+                                <field name="advancedOptionsMap">
+                                    <null/>
+                                </field>
+                                <field name="name">
+                                    <String>na-marc21slim2mods transfrom</String>
+                                </field>
+                                <field name="baseURL">
+                                    <String></String>
+                                </field>
+                                <field name="footerURL">
+                                    <String></String>
+                                </field>
+                                <field name="fOPMethod">
+                                    <String>pdf</String>
+                                </field>
+                                <field name="fOProcessorName">
+                                    <String>Apache FOP</String>
+                                </field>
+                                <field name="headerURL">
+                                    <String></String>
+                                </field>
+                                <field name="inputXSLURL">
+                                    <String>file:/C:/Users/Carlos.Martinez/AppData/Roaming/MarcEdit%207.5%20(User)/xslt/NAL-MARC21slim2MODS3-7-extent.xsl</String>
+                                </field>
+                                <field name="inputXMLURL">
+                                    <String>${currentFileURL}</String>
+                                </field>
+                                <field name="defaultScenario">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="isFOPPerforming">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="type">
+                                    <String>XSL</String>
+                                </field>
+                                <field name="saveAs">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="openInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="outputResource">
+                                    <null/>
+                                </field>
+                                <field name="openOtherLocationInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="locationToOpenInBrowserURL">
+                                    <null/>
+                                </field>
+                                <field name="openInEditor">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInHTMLPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInXMLPane">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="showInSVGPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInResultSetPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="useXSLTInput">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="xsltParams">
+                                    <list>
+                                        <transformationParameter>
+                                            <field name="paramDescription">
+                                                <paramDescriptor>
+                                                    <field name="localName">
+                                                        <String>workingDir</String>
+                                                    </field>
+                                                    <field name="prefix">
+                                                        <null/>
+                                                    </field>
+                                                    <field name="namespace">
+                                                        <null/>
+                                                    </field>
+                                                </paramDescriptor>
+                                            </field>
+                                            <field name="value">
+                                                <String>E:\workspace\IND_annual\marcXML-10000\processed_files\</String>
+                                            </field>
+                                            <field name="hasXPathValue">
+                                                <Boolean>false</Boolean>
+                                            </field>
+                                            <field name="isStatic">
+                                                <Boolean>false</Boolean>
+                                            </field>
+                                        </transformationParameter>
+                                    </list>
+                                </field>
+                                <field name="cascadingStylesheets">
+                                    <String-array/>
+                                </field>
+                                <field name="xslTransformer">
+                                    <String>Saxon-EE</String>
+                                </field>
+                                <field name="extensionURLs">
+                                    <String-array/>
+                                </field>
+                            </scenario>
+                        </scenario-array>
+                    </entry>
+                </serializableOrderedMap>
+            </serialized>
+        </options>
+    </meta>
+    <projectTree name="marcXML-to-mods.xpr">
+        <folder path="../../../../../Desktop/NAL-RDA-MARC21slim2-mods/"/>
+        <file name="../../../../../../AppData/Roaming/MarcEdit%207.5%20(User)/xslt/fix_characters.xsl"/>
+        <file name="file:/E:/workspace/IND_annual/marcXML-10000/processed_files/mods/mods-combiner.xsl"/>
+        <file name="file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000000.xml"/>
+        <file name="file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000001.xml"/>
+        <file name="file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000002.xml"/>
+        <file name="file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000003.xml"/>
+        <file name="file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000004.xml"/>
+        <file name="file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000005.xml"/>
+        <file name="file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000006.xml"/>
+        <file name="file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000007.xml"/>
+        <file name="file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000008.xml"/>
+        <file name="file:/E:/workspace/IND_annual/marcXML-10000/processed_files/msplit00000009.xml"/>
+        <file name="../../../../../../AppData/Roaming/MarcEdit%207.5%20(User)/xslt/NAL-MARC21slim2MODS3-7-extent.xsl"/>
+    </projectTree>
+</project>

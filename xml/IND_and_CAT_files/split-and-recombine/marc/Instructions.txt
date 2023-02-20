@@ -1,0 +1,8 @@
+Instructions to Processs the IND_Annual and CAT_Annual files
+1) Open MARCEdit and select MARCSplit
+2) Navigate to the IND_Annual/CAT_Annual.mrc file
+3) Select it and choose to split on the default value of 1,000 records per file
+4) Click process and find files within a processed_files directory
+   <!--The example the files are located within the 
+    /xml/IND_and_CAT_files/marc-split/ 
+    directory-->

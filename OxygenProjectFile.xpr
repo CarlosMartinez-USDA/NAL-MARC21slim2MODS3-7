@@ -86,8 +86,9 @@
             </serialized>
         </options>
     </meta>
-    <projectTree name="newProject.xpr">
+    <projectTree name="OxygenProjectFile.xpr">
         <folder path="."/>
+        <folder path="xml/"/>
         <folder path="file:/E:/workspace/"/>
     </projectTree>
 </project>
