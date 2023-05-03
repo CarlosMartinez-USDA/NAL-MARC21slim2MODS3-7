@@ -259,12 +259,12 @@
         <xd:param name="originalFile"/>
     </xd:doc>
     <xsl:template match="/">
-        <xsl:param name="originalFile" select="replace(saxon:system-id(), '(.*/)(.*)(\.xml)', '$2')"/>
+        <xsl:param name="originalFile" select="replace(base-uri(), '(.*/)(.*)(\.xml)', '$2')"/>
         <xsl:param name="workingDirectory"
             select="substring-before(saxon:system-id(), tokenize(base-uri(), '/')[last()])"/>
         <xsl:result-document encoding="UTF-8" version="1.0" method="xml" media-type="text/xml"
             indent="yes" format="original"
-            href="{$workingDirectory}N-{$originalFile}_{position()}.xml">
+            href="{$workingDirectory}/mods/N-{$originalFile}_{position()}.xml">
             <xsl:choose>
                 <xsl:when test="//marc:collection/marc:record">
                     <modsCollection xmlns:mods="http://www.loc.gov/mods/v3"
@@ -1295,7 +1295,7 @@
             <xsl:apply-templates select="marc:datafield[@tag = '351']" mode="physDesc"/>
         </xsl:variable>
         <!-- 1.180 -->
-        <xsl:if test="marc:datafield[@tag='655']/marc:subfield[@code='a']!='article' or not(matches(marc:datafield[@tag='773']/marc:subfield[@code='x'],'\d{4}\-\d{3}.'))">
+        <xsl:if test="marc:datafield[@tag='655']/marc:subfield[@code='a']!='article' and not(matches(marc:datafield[@tag='773']/marc:subfield[@code='x'][current()],'\d{4}\-\d{3}.'))">
         <xsl:choose>
             <xsl:when test="
                     marc:datafield[@tag = '130'][marc:subfield[@code = '6']][child::*[@code = 'h']] or
@@ -2397,7 +2397,7 @@
                                             <detail type="volume">
                                                 <number>
                                                   <xsl:value-of
-                                                  select="replace(substring-after(regex-group(4), 'v.'), '(\s)(\d+)(.*)', '$2')"
+                                                  select="replace(substring-after(regex-group(4), 'v.'), '(\s)?(\d+)(.*)', '$2')"
                                                   />
                                                 </number>
                                                 <caption>v.</caption>
@@ -2407,7 +2407,7 @@
                                                 <detail type="issue">
                                                   <number>
                                                   <xsl:value-of
-                                                  select="replace(regex-group(4), '(.*)(no. )(\d+|pt.\d+)(.*)', '$3')"
+                                                  select="replace(substring-after(regex-group(4),'no.'), '(\s)?(\d+|pt.\s?\d+)(.*)', '$2')"
                                                   />
                                                   </number>
                                                   <caption>no.</caption>
@@ -2415,44 +2415,44 @@
                                             </xsl:if>
                                             <xsl:choose>
                                                 <!-- extent (pages) -->
-                                                <xsl:when test="matches(regex-group(4), '\d+\-\d+')">
-                                                  <extent unit="pages">
-                                                  <start>
-                                                  <xsl:value-of
-                                                  select="replace(regex-group(4), '(.*)(p.)(\d+)(\-)(\d+)', '$3')"
-                                                  />
-                                                  </start>
-                                                  <end>
-                                                  <xsl:value-of
-                                                  select="replace(regex-group(4), '(.*)(p.)(\d+)(\-)(\d+)', '$5')"
-                                                  />
-                                                  </end>
-                                                  <xsl:variable name="firstPage" as="xs:double"
-                                                      select="number(translate(replace(regex-group(4), '(.*)(p.)(\d+)(\-)(\d+)', '$3'),'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-|. ', ''))"/>
-                                                  <xsl:variable name="lastPage" as="xs:double"
-                                                      select="number(translate(replace(regex-group(4), '(.*)(p.)(\d+)(\-)(\d+)', '$5'),'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-|. ', ''))"/>
-                                                  <total>
-                                                     <xsl:choose>                                                         
-                                                      <xsl:when test="not(f:calculateTotalPgs($firstPage, $lastPage) castable as xs:double)"/>
-                                                     <xsl:otherwise>
-                                                         <xsl:if test="$lastPage >= $firstPage">
-                                                         <xsl:number value="f:calculateTotalPgs($firstPage, $lastPage)"/>
-                                                         </xsl:if>
-                                                     </xsl:otherwise>
-                                                     </xsl:choose>
-                                                  </total>
-                                                  </extent>
-                                                </xsl:when>
-                                                <xsl:otherwise>
+                                               
+                                                    <xsl:when test="matches(substring-after(regex-group(4),'p.'), '\d+\-\d+')">
+                                                        <xsl:variable name="startPage" select="number(translate(replace(substring-after(regex-group(4),'p.'),'(\s)?(\d+)(\-\d+)', '$2'), $alpha, ''))"/>
+                                                        <xsl:variable name="endPage" select="number(translate(replace(substring-after(regex-group(4),'p.'), '(\s)?(\d+\-)(\d+)','$3'), $alpha, ''))"/>                                                  
+                                                        <extent unit="pages">                                                           
+                                                                <start>
+                                                                    <xsl:value-of select="$startPage"/>                                                 
+                                                                </start>
+                                                                <end>
+                                                                    <xsl:value-of select="$endPage"/>
+                                                                </end>
+                                                                    <xsl:choose>                                                         
+                                                                        <xsl:when test="not(f:calculateTotalPgs($startPage, $endPage) castable as xs:double)"/>
+                                                                        <xsl:otherwise>
+                                                                            <xsl:if test="$endPage >= $startPage">
+                                                                                <total>
+                                                                                  <xsl:value-of select="translate(f:calculateTotalPgs($startPage, $endPage), $alpha, '')"/>
+                                                                                </total>
+                                                                            </xsl:if>
+                                                                        </xsl:otherwise>
+                                                                    </xsl:choose>
+                                                            </extent>
+                                                    </xsl:when>      
+                                                
+                                               <xsl:otherwise>
                                                   <!-- extent (page total) -->
                                                     <xsl:if test="ends-with(regex-group(4), '-')">
-                                                  <extent unit="pages">
-                                                  <xsl:variable name="clean-regex-group-3"
-                                                      select="number(translate(substring-before(substring-after(regex-group(4), 'p.'), '-'),'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-|. ', ''))"/>
-                                                  <total>
-                                                  <xsl:number value="$clean-regex-group-3"/>                                          
-                                                  </total>
-                                                  </extent>
+                                                        <xsl:variable name="start" select="translate(substring-before(substring-after(regex-group(4), 'p.'), '-'), $alpha, '')"/>
+                                                  <xsl:choose>
+                                                      <xsl:when test="matches($start, '.+?[A-z]+.*')"/>
+                                                      <xsl:otherwise>
+                                                    <extent unit="pages">
+                                                      <start>
+                                                          <xsl:value-of select="translate($start, $alpha, '')"/>                                          
+                                                      </start>
+                                                    </extent>
+                                                      </xsl:otherwise>
+                                                  </xsl:choose>                                                                                                            
                                                     </xsl:if>
                                                 </xsl:otherwise>
                                             </xsl:choose>
@@ -2484,8 +2484,8 @@
                                 </part>
                             </xsl:for-each>
                         </xsl:if>
-                        <!--  Call names  -->
-                        <!-- <xsl:apply-templates select="marc:subfield[@code = 'a']" mode="relatedItem"/> -->
+                        <!--Call names  -->
+                         <xsl:apply-templates select="marc:subfield[@code = 'a']" mode="relatedItem"/> 
                     </xsl:for-each>
                 </relatedItem>
             </xsl:if>
@@ -3119,14 +3119,12 @@
             <recordOrigin>
                 <xsl:variable name="transform"
                     select="string(tokenize(base-uri(document('')), '/')[last()])" as="xs:string"/>
-                <xsl:variable name="date"
-                    select="replace(string(current-date()), '(\d{4}\-\d{2}\-\d{2})(.*)', '$1')"/>
-                <xsl:variable name="time" select="substring-before(string(current-time()), '.')"/>
+                <xsl:variable name="dateTime" select="format-dateTime(current-dateTime(),'[M01]/[D01]/[Y0001] at [h1]:[m01] [P]')"/>
                 <xsl:value-of
                     select="normalize-space(concat('Converted from MARCXML to MODS version 3.7 using', ' ', $transform, ' ', '(Revision 1.180 20230216 cm3),'))"/>
                 <xsl:text>&#160;</xsl:text>
                 <xsl:value-of
-                    select="normalize-space(concat('Transformed on: ', $date, '&#160;', $time))"/>
+                    select="normalize-space(concat('Transformed on: ', $dateTime))"/>
             </recordOrigin>
 
             <xsl:for-each select="marc:datafield[@tag = '040']/marc:subfield[@code = 'b']">
@@ -3145,6 +3143,7 @@
     <xd:doc id="personal_name" scope="component">
         <xd:desc>formerly named displayForm template</xd:desc>
         <xd:param name="name"/>
+        <xd:param name="nameIdentifier"/>
     </xd:doc>
     <xsl:template name="personal_name">
         <xsl:param name="name">
@@ -3154,15 +3153,18 @@
                 <xsl:with-param name="beforeCodes">g</xsl:with-param>
             </xsl:call-template>
         </xsl:param>
+        <xsl:param name="nameIdentifier">
+           <xsl:call-template name="subfieldSelect">
+               <xsl:with-param name="codes">1</xsl:with-param>
+           </xsl:call-template>
+         </xsl:param>
         <xsl:for-each select="$name">
             <namePart type="given">
                 <xsl:choose>
-                    <!-- initials only -->
                     <xsl:when
                         test="matches(substring-after($name, ','), '([A-Z]\.$|[A-Z]\.[A-Z]\.$)')">
                         <xsl:value-of select="normalize-space(substring-after($name, ','))"/>
                     </xsl:when>
-                    <!-- first name-->
                     <xsl:otherwise>
                         <xsl:value-of
                             select="normalize-space(replace(substring-after($name, ','), '(\s)(.*)(,|\.)', '$2'))"
@@ -3176,7 +3178,6 @@
             </namePart>
             <displayForm>
                 <xsl:choose>
-                    <!-- initials only (2) -->
                     <xsl:when
                         test="matches(substring-after($name, ','), '([A-Z]\.$|[A-Z]\.[A-Z]\.$)')">
                         <xsl:value-of select="."/>
@@ -3189,11 +3190,12 @@
         </xsl:for-each>
 
         <!-- 1.172 nameIdentifier type="orcID, viaf, lcnaf, etc." -->
-        <xsl:for-each-group group-starting-with=".[current()]"
-            select="../marc:datafield[@tag = '100' or @tag = '700']/marc:subfield[@code = '1']">
+        <xsl:for-each-group group-by="$name" select="marc:subfield[@code = '1']">
             <nameIdentifier>
-                <xsl:attribute name="type" select="f:nameIdentifier(../marc:subfield[@code = '1'])"/>
-                <xsl:value-of select="../marc:subfield[@code = '1']"/>
+                <for-each select="marc:subfield[@code='1']">
+                <xsl:attribute name="type" select="f:nameIdentifier($nameIdentifier)"/>
+                <xsl:value-of select="$nameIdentifier"/>
+                </for-each>
             </nameIdentifier>
         </xsl:for-each-group>
     </xsl:template>
@@ -3870,10 +3872,10 @@
         <xd:desc/>
     </xd:doc>
     <xsl:template name="subjectAuthority">
-        <xsl:if test="@ind2 != 4">
+        <xsl:if test="@ind2 != '4'">
             <xsl:if test="@ind2 != ' '">
-                <xsl:if test="@ind2 != 8">
-                    <xsl:if test="@ind2 != 9">
+                <xsl:if test="@ind2 != '8'">
+                    <xsl:if test="@ind2 != '9'">
                         <xsl:attribute name="authority">
                             <xsl:choose>
                                 <xsl:when test="@ind2 = '0'">lcsh</xsl:when>
@@ -6857,7 +6859,7 @@ select="marc:subfield[@code!='6' and @code!='8']"&gt; &lt;xsl:value-of select=".
                 <xsl:value-of select="marc:subfield[@code = 'a']"/>
             </classification>
         </xsl:for-each>
-        <xsl:for-each select="marc:datafield[@tag = '086'][@ind1 != 1 and @ind1 != 0]">
+        <xsl:for-each select="marc:datafield[@tag = '086'][@ind1 != '1' and @ind1 != '0']">
             <classification>
                 <xsl:call-template name="xxx880"/>
                 <xsl:attribute name="authority">
@@ -7943,7 +7945,7 @@ select="marc:subfield[@code!='6' and @code!='8']"&gt; &lt;xsl:value-of select=".
             </xsl:if>
             <!-- issuance -->
                 <!--1.179 --> 
-                <xsl:if test="marc:subfield[@code='h'] and marc:datafield[@tag='655']/marc:subfield[@code='a']!='article' or not(matches(marc:datafield[@tag='773']/marc:subfield[@code='x'],'\d{4}\-\d{3}.'))">
+                <xsl:if test="marc:subfield[@code='h'] and marc:datafield[@tag='655']/marc:subfield[@code='a']!='article' or not(matches(marc:datafield[@tag='773']/marc:subfield[@code='x'][1],'\d{4}\-\d{3}.'))">
                 <!-- 1.120 - @260$ -->
                 <!-- 1.158 -->
               <xsl:for-each select="marc:leader">

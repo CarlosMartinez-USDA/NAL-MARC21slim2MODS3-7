@@ -43,6 +43,7 @@
     </xsl:variable>
 
     <xsl:variable name="hex">0123456789ABCDEF</xsl:variable>
+    <xsl:variable name="alpha">ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-|. '~</xsl:variable>
 
 
     <xd:doc>
@@ -327,6 +328,10 @@
                         <xd:i>9.<xd:ref name="f:nameIdentifier" type="function"
                             />f:nameIdentifier</xd:i>
                     </xd:li>
+                    <xd:li>
+                        <xd:i>10.<xd:ref name="f:isNumber" type="function"
+                        />f:isNumber</xd:i>
+                    </xd:li>
                 </xd:ul>
             </xd:p>
         </xd:desc>
@@ -532,7 +537,7 @@
                 "/>
     </xsl:function>
 
-    <!-- nal:proper-case -->
+    <!-- f:proper-case -->
     <xd:doc>
         <xd:desc>
             <xd:p><xd:b>Function: </xd:b>f:proper-case</xd:p>
@@ -550,15 +555,18 @@
     </xd:doc>
     <xsl:function name="f:proper-case">
         <xsl:param name="arg" as="xs:string?"/>
+        <xsl:variable name="otherChars" as="item()*" select="f:substring-before-match($arg,'\-|[A-Z].[A-Z].|\s')"/>
         <xsl:variable name="white-space" as="xs:string" select="(' ')"/>
-        <xsl:variable name="substring1" select="substring-before($arg, $white-space)"/>
-        <xsl:variable name="substring2" select="substring-after($arg, $white-space)"/>
+        <xsl:variable name="substring-1a" select="substring-before($arg, $white-space)"/>
+        <xsl:variable name="substring-1b" select="substring-after($arg, $white-space)"/>
+        <xsl:variable name="substring-2a" select="substring-before($arg, $white-space)"/>
+        <xsl:variable name="substring-2b" select="substring-after($arg, $white-space)"/>
         <xsl:sequence select="
-                if (contains($arg, $white-space))
-                then
-                    concat(f:sentence-case($substring1), ($white-space), (f:sentence-case($substring2)))
-                else
-                    f:sentence-case($arg)"/>
+                if (contains($arg, $otherChars))
+                then concat(f:sentence-case($substring-1a), ($otherChars), (f:sentence-case($substring-1b)))
+                else if (contains($arg, $white-space))
+                then concat(f:sentence-case($substring-2a), ($white-space), (f:sentence-case($substring-2b)))
+                else f:sentence-case($arg)"/>
     </xsl:function>
 
     <!-- nal:substring-before-match -->
@@ -593,14 +601,24 @@
         <xsl:param name="arg" as="xs:string"/>
         <xsl:value-of select="
                 if (matches($arg, 'orcid|viaf|isni|[a-z]+') = true())
-                then
-                    replace($arg, '(^https?)://(www)?(\w+)((\.\w+)(\.\w+)?(\.\w+)?)/?(\S+)/?(\?uri=)?(.*)', '$3')
-                else
-                    if (matches($arg, 'id.loc.gov|id.nlm.nih.gov|agclass.nal.usda.gov|lod.nal.usda.gov|[a-z]+\.[a-z]+\.gov|[a-z]+\.[a-z]+\.org') = true())
-                    then
-                        replace($arg, '(^https?)://(www)?(\w+)((\.\w+)(\.\w+)?(\.\w+)?)/?(\S+)/?(\?uri=)?(.*)', '$3$4')
-                    else
-                        $arg"/>
+                then replace($arg, '(^https?)://(www)?(\w+)((\.\w+)(\.\w+)?(\.\w+)?)/?(\S+)/?(\?uri=)?(.*)', '$3')
+                else if (matches($arg, 'id.loc.gov|id.nlm.nih.gov|agclass.nal.usda.gov|lod.nal.usda.gov|[a-z]+\.[a-z]+\.gov|[a-z]+\.[a-z]+\.org') = true())
+                    then replace($arg, '(^https?)://(www)?(\w+)((\.\w+)(\.\w+)?(\.\w+)?)/?(\S+)/?(\?uri=)?(.*)', '$3$4')
+                    else $arg"/>
+    </xsl:function>
+    
+    
+    <xd:doc>
+        <xd:desc>
+            <xd:p><xd:b>Function: </xd:b>f:isNumber</xd:p>
+            <xd:p><xd:b>Usage: </xd:b>f:isNumber(xPath)</xd:p>
+            <xd:p><xd:b>Purpose: </xd:b>The f:isNumber funcion tests and rounds parameters</xd:p>
+            <xd:p><xd:b>Returns: </xd:b>True or False</xd:p></xd:desc>
+        <xd:param name="value"/>
+    </xd:doc>
+    <xsl:function name="f:isNumber" as="xs:boolean">
+        <xsl:param name="value" as="xs:anyAtomicType?"/>
+        <xsl:sequence select="string(abs(number($value))) != 'NaN'"/>
     </xsl:function>
 
 
